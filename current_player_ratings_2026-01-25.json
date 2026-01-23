@@ -1,0 +1,74 @@
+[
+    {
+        "Name": "Fabiano Caruana",
+        "FideID": "2020009",
+        "Ratings": {
+            "Classical": 2795,
+            "Rapid": 2727,
+            "Blitz": 2769
+        }
+    },
+    {
+        "Name": "Hikaru Nakamura",
+        "FideID": "2016192",
+        "Ratings": {
+            "Classical": 2810,
+            "Rapid": 2742,
+            "Blitz": 2838
+        }
+    },
+    {
+        "Name": "R Praggnanandhaa",
+        "FideID": "25059530",
+        "Ratings": {
+            "Classical": 2758,
+            "Rapid": 2662,
+            "Blitz": 2691
+        }
+    },
+    {
+        "Name": "Anish Giri",
+        "FideID": "24116068",
+        "Ratings": {
+            "Classical": 2760,
+            "Rapid": 2689,
+            "Blitz": 2666
+        }
+    },
+    {
+        "Name": "Wei Yi",
+        "FideID": "8603405",
+        "Ratings": {
+            "Classical": 2754,
+            "Rapid": 2746,
+            "Blitz": 2705
+        }
+    },
+    {
+        "Name": "Javokhir Sindarov",
+        "FideID": "14205483",
+        "Ratings": {
+            "Classical": 2726,
+            "Rapid": 2727,
+            "Blitz": 2662
+        }
+    },
+    {
+        "Name": "Andrey Esipenko",
+        "FideID": "24175439",
+        "Ratings": {
+            "Classical": 2698,
+            "Rapid": 2657,
+            "Blitz": 2652
+        }
+    },
+    {
+        "Name": "Matthias Bluebaum",
+        "FideID": "24651516",
+        "Ratings": {
+            "Classical": 2679,
+            "Rapid": 2587,
+            "Blitz": 2634
+        }
+    }
+]

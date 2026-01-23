@@ -1,0 +1,66 @@
+[
+    {
+        "Name": "Fabiano Caruana",
+        "Ratings": {
+            "Classical": 2775,
+            "Rapid": 2754,
+            "Blitz": 2762
+        }
+    },
+    {
+        "Name": "Hikaru Nakamura",
+        "Ratings": {
+            "Classical": 2824,
+            "Rapid": 2735,
+            "Blitz": 2838
+        }
+    },
+    {
+        "Name": "R Praggnanandhaa",
+        "Ratings": {
+            "Classical": 2771,
+            "Rapid": 2683,
+            "Blitz": 2712
+        }
+    },
+    {
+        "Name": "Anish Giri",
+        "Ratings": {
+            "Classical": 2743,
+            "Rapid": 2687,
+            "Blitz": 2681
+        }
+    },
+    {
+        "Name": "Wei Yi",
+        "Ratings": {
+            "Classical": 2744,
+            "Rapid": 2750,
+            "Blitz": 2705
+        }
+    },
+    {
+        "Name": "Javokhir Sindarov",
+        "Ratings": {
+            "Classical": 2724,
+            "Rapid": 2684,
+            "Blitz": 2632
+        }
+    },
+    {
+        "Name": "Andrey Esipenko",
+        "Ratings": {
+            "Classical": 2719,
+            "Rapid": 2641,
+            "Blitz": 2648
+        }
+    },
+    {
+        "Name": "Matthias Bluebaum",
+        "Ratings": {
+            "Classical": 2653,
+            "Rapid": 2591,
+            "Blitz": 2626
+        }
+    }
+]

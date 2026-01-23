@@ -1,40 +1,97 @@
-# Candidates Tournament 2026 Monte Carlo Simulation
+# FIDE Candidates 2026 Monte Carlo Simulation
 
-This Monte Carlo simulation aims to model the probabilities of candidates' victories for the FIDE Candidates Tournament 2026 using Tournament Performance Ratings (TPR) calculated against elite 2600+ Elo players over 2024 and 2025.
+A probabilistic analysis of the 2026 FIDE Candidates Tournament, utilizing a Monte Carlo simulation ($N=100,000$).
 
-The selection of games aims to curb the influence of supposedly inflated Elo and deflated performance ratings caused by games played in open tournaments with significantly lower-rated opposition. TPR is calculated by adding the average opponent rating to a FIDE rating difference value associated with the fractional score.
+The model can be used with Performance Ratings (TPR) against elite opposition ($>2600$ Elo) from the provided database of games in 2024 and 2025, or updated FIDE ratings using the web scraper. To account for the standard error in published ratings and natural variance in player form, the model samples each player's tournament strength from a normal distribution $N(\mu, \sigma=40)$ at the start of each simulation iteration.
+
+#### Results according to the ratings on 25/1/2026
+![Forecast Chart](candidates_forecast.png)
+![Forecast Table](candidates_results_table.png)
 
 ## Methodology
 
-The probability of a game result is determined using the precomputed TPR of each player, with a bonus of **35 Elo** given to the white player as per research by Chessmetrics. The expected score of a game (scored from 0 to 1) is calculated using the formula for **Expected Score ($E_A$)**, derived from the effective Elo values of White ($R_A$) and Black ($R_B$):
+### Performance Measures
+As per research by Chessmetrics, an advantage of 35 Elo is given to the white player. To account for player performance fluctuating between events, we treat a player's strength for a specific tournament iteration as a random variable drawn from a normal distribution.
 
-$$E_A = \frac{1}{1 + 10^{(R_B - R_A)/400}}$$
+For each simulation $i$ and player $p$:
+$$R_{p,i} \sim \mathcal{N}(\mu_{R}, \sigma^2)$$
 
-The portion of this score dedicated to a draw is determined by averaging the precomputed draw rates of both players. This rate is then ‘dampened’ based on the expected outcome of the game. Specifically, in an unbalanced game where the expected result nears 100% ($|game\_result| \approx 1$), the draw probability approaches 0.
+Where:
+* $\mu_{R}$ is the player's historical TPR against 2600+ opposition (2024-2025), or their updated FIDE rating.
+* $\sigma$ is the performance standard deviation (set to $40$ Elo), representing the standard error of performance for a single event.
 
-$$draw\_prob = base\_draw \times (1 - |2 \times E_A - 1|)$$
+TPR rating is calculated by adding the average opponent rating to a FIDE rating difference value associated with the fractional score. The draw rate of each player is also calculated from the 2024/2025 2600+ data.
 
-The probability share of win/draw/loss can then be determined:
+### Win/Draw Probability Model
+Game outcomes are simulated using a modified Elo logistic curve that explicitly calculates draw probabilities based on the rating disparity and historical draw rates.
 
-$$white\_win\_prob = E_A - \frac{draw\_prob}{2}$$
+**1. Expected Score ($E_A$):**
+$$E_A = \frac{1}{1 + 10^{(R_B - R_A + \gamma)/400}}$$
+* Where $\gamma$ is set to $+35$ Elo for White in Classical time controls.
 
-## Tournament Structure
+**2. Draw Probability ($P_{draw}$):**
+As the rating gap $|R_A - R_B|$ increases, so does the probability of a decisive result. We model the draw probability as a dampened function of the expected score.
 
-The tournament is simulated based on the [FIDE Candidates 2026 Regulations](https://handbook.fide.com/files/handbook/Regulations_for_the_FIDE_Candidates_Tournament_2026.pdf). This includes:
-* A **Double Round-Robin** tournament (classical time controls).
-* A possible **3-part Tie-Break System** consisting of various rapid and blitz matches or round-robin tournaments.
+$$P_{draw} = \max \left( P_{base} \times (1 - |2E_A - 1|), \quad P_{min} \right)$$
 
-Since some players lack sufficient activity in these short-form variants to compute a statistically significant TPR, average (weighted mean) ratings over the last year are used. Additionally, the white advantage is reduced to **20** and **10 Elo** for rapid and blitz respectively, and draw rates are dampened to **0.7** and **0.5** to reflect the increasingly decisive nature of shorter time controls.
+* $P_{base}$: The average draw rate between the two specific players (calculated from players respective data against 2600+ Elo players in 2024 and 2025).
+* $P_{min}$: A floor constant ($0.35$) as the minimum probability of a draw.
 
-## Simulation
+### Tie-Break Resolution
+The simulation implements the FIDE tie-break regulations:
+1.  **Stage 1:** Rapid Match (15+10)
+2.  **Stage 2:** Blitz Match (3+2)
+3.  **Stage 3:** Sudden Death Blitz Bracket
 
-Once the probability distribution of each game outcome is established, the tournament is simulated **N = 100,000 times**. The results are aggregated to find the total probability of each outcome, including the proportion of victories achieved via the tie-break system.
+Tie-breaks use live FIDE Rapid and Blitz ratings (scraped from the FIDE website) rather than Classical TPR. For simulating the tournament based on TPRs in 2024 and 2025, the weighted mean ratings for 2025 are used. The white Elo advantage and the draw factor of players is dampened in shorter time control to reflect their increased decisiveness and reduced first-move advantage.
 
-## Results
+## Project Structure
 
-![Results Table](candidates_results_table.png)
+### Core Programs
+| File | Description |
+| :--- | :--- |
+| `main.py` | Runs the Monte Carlo loop. |
+| `calculate_stats.py` | Calculates TPR and draw rates from raw game logs. |
+| `scrape_ratings.py` | Fetches updated FIDE Classical, Rapid and Blitz ratings for the candidates. |
 
-![Forecast Chart](candidates_forecast.png)
+### Input Data
+| File | Description |
+| :--- | :--- |
+| `candidates_classical_2024_2026.csv` | Raw dataset of classical games played by the candidates in 2024/2025. |
+| `rpd_blz_avg.json` | Rapid and Blitz rating weighted averages for the candidates over 2025. |
+| `fide_table.json` | Lookup table for calculating performance ratings. |
 
-### Classical Performance Data (Input Stats)
-![Performance Stats](stats_classical_table.png)
+### Provided Configuration Files
+| File | Description |
+| :--- | :--- |
+| `current_player_ratings_2026-01-25.json` | The latest Classical, Rapid and Blitz FIDE ratings games against 2600+ Elo opponents, as well as their average 2025 Rapid and Blitz ratings. |
+| `candidates_performance_ratings.json` | The TPRs for Classical FIDE rated games against 2600+ Elo opponents', as well as their average 2025 Rapid and Blitz ratings. |
+
+## Set Up
+* Python 3.8+
+* Dependencies are listed in `requirements.txt`
+
+```bash
+pip install -r requirements.txt
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

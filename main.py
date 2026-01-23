@@ -4,61 +4,95 @@ import sys
 import collections
 import json
 import os
-
-CLASSICAL_DATA = "stats_classical_2600plus.csv" 
-RPD_BLZ_DATA = "rpd_blz_avg.json"    
+import glob
+import matplotlib.pyplot as plt
 
 SIMULATIONS = 100000
 
-WHITE_ELO_BONUS_CLASSICAL = 30
-WHITE_ELO_BONUS_RAPID = 20  
+DRAW_RATES_FILE = "candidates_draw_rates.json"
+PERFORMANCE_RATINGS_FILE = "candidates_performance_ratings.json"
+
+WHITE_ELO_BONUS_CLASSICAL = 35
+WHITE_ELO_BONUS_RAPID = 20
 WHITE_ELO_BONUS_BLITZ = 10
+PERFORMANCE_VARIANCE = 40
 
-DRAW_FACTOR_RAPID = 0.7 
-DRAW_FACTOR_BLITZ = 0.5  
+MIN_DRAW_PROB = 0.35
+DRAW_FACTOR_RAPID = 0.7
+DRAW_FACTOR_BLITZ = 0.5
 
-players = collections.defaultdict(dict)
 
-if not os.path.exists(CLASSICAL_DATA):
-    print(f"Error: '{CLASSICAL_DATA}' not found.")
-    sys.exit()
+def get_latest_ratings_file():
+    files = glob.glob("current_player_ratings_*.json")
+    if not files:
+        return None
+    files.sort()
+    return files[-1]
 
-df = pd.read_csv(CLASSICAL_DATA)
 
-for _, row in df.iterrows():
-    name = row['Player']
-    players[name]["Classical"] = {
-        "Rating": float(row['TPR']),
-        "Draw_Rate": float(row['Draw Rate %']) / 100.0
-    }
+def load_player_data():
+    players = collections.defaultdict(dict)
+    if not os.path.exists(DRAW_RATES_FILE):
+        print(f"Error: '{DRAW_RATES_FILE}' not found. Run calculate_stats.py first.")
+        sys.exit()
+        
+    with open(DRAW_RATES_FILE, "r") as f:
+        draw_data_list = json.load(f)
+        draw_lookup = {item["Name"]: item["Draw Rate"] for item in draw_data_list}
 
-try:
-    with open(RPD_BLZ_DATA, "r") as f:
-        rpd_blz_data = json.load(f)
-
-except FileNotFoundError:
-    print(f"Error: '{BPD_BLZ_DATA}' not found.")
-    sys.exit()
-
-player_names = list(players.keys())
-
-for name in player_names:
-    classical_draw_rate = players[name]["Classical"]["Draw_Rate"]
+    latest_file = get_latest_ratings_file()
     
-    r_rating = rpd_blz_data.get(name, {}).get("Rapid", players[name]["Classical"]["Rating"])
-    players[name]["Rapid"] = {
-        "Rating": r_rating,
-        "Draw_Rate": classical_draw_rate * DRAW_FACTOR_RAPID
-    }
+    if latest_file:
+        print(f"Found most recent live ratings: {latest_file}")
+        ratings_file = latest_file
+    elif os.path.exists(PERFORMANCE_RATINGS_FILE):
+        print(f"No current ratings found. Using: {PERFORMANCE_RATINGS_FILE}")
+        ratings_file = PERFORMANCE_RATINGS_FILE
+    else:
+        print(f"Error: No ratings file found.")
+        sys.exit()
 
-    b_rating = rpd_blz_data.get(name, {}).get("Blitz", players[name]["Classical"]["Rating"])
-    players[name]["Blitz"] = {
-        "Rating": b_rating,
-        "Draw_Rate": classical_draw_rate * DRAW_FACTOR_BLITZ
-    }
+    with open(ratings_file, "r") as f:
+        ratings_data_list = json.load(f)
+
+    for entry in ratings_data_list:
+        name = entry["Name"]
+        ratings = entry["Ratings"] 
+        
+        classical_draw_rate = draw_lookup.get(name, 0.55)
+        
+        c_rating = ratings.get("Classical")
+        if c_rating is None:
+             print(f"Warning: No Classical rating for {name}, skipping.")
+             continue
+
+        players[name]["Classical"] = {
+            "Rating": float(c_rating),
+            "Draw_Rate": classical_draw_rate
+        }
+        
+        r_rating = ratings.get("Rapid")
+        if r_rating is None: r_rating = c_rating
+        
+        players[name]["Rapid"] = {
+            "Rating": float(r_rating),
+            "Draw_Rate": classical_draw_rate * DRAW_FACTOR_RAPID
+        }
+        
+        b_rating = ratings.get("Blitz")
+        if b_rating is None: b_rating = c_rating
+        
+        players[name]["Blitz"] = {
+            "Rating": float(b_rating),
+            "Draw_Rate": classical_draw_rate * DRAW_FACTOR_BLITZ
+        }
+
+    return players, list(players.keys())
+
+players, player_names = load_player_data()
 
 
-def simulate_game(white, black, mode="Classical"):
+def simulate_game(white, black, mode="Classical", w_rating_override=None, b_rating_override=None):
 
     if mode == "Classical": white_bonus = WHITE_ELO_BONUS_CLASSICAL
     elif mode == "Rapid": white_bonus = WHITE_ELO_BONUS_RAPID
@@ -67,13 +101,21 @@ def simulate_game(white, black, mode="Classical"):
     p1_stats = players[white][mode]
     p2_stats = players[black][mode]
     
-    eff_white_rating = p1_stats["Rating"] + white_bonus
-    gap = eff_white_rating - p2_stats["Rating"]
+    r1 = w_rating_override if w_rating_override is not None else p1_stats["Rating"]
+    r2 = b_rating_override if b_rating_override is not None else p2_stats["Rating"]
+
+    eff_white_rating = r1 + white_bonus
+    gap = eff_white_rating - r2
     expected_score = 1 / (1 + 10 ** (-gap / 400))
     
     base_draw = (p1_stats["Draw_Rate"] + p2_stats["Draw_Rate"]) / 2
-    draw_prob = base_draw * (1 - abs(2 * expected_score - 1))
+    
+    raw_draw_prob = base_draw * (1 - abs(2 * expected_score - 1))
+    draw_prob = max(raw_draw_prob, MIN_DRAW_PROB)
+    
     white_win_prob = expected_score - (draw_prob / 2)
+    if white_win_prob < 0: white_win_prob = 0
+    if white_win_prob + draw_prob > 1: draw_prob = 1 - white_win_prob
     
     r = random.random()
     if r < white_win_prob: return 1.0
@@ -84,18 +126,15 @@ def simulate_game(white, black, mode="Classical"):
 def play_match(p1, p2, mode, games=2):
     s1 = 0
     s2 = 0
-    
     for i in range(games):
-        if i % 2 == 0: # Even index p1 is white
+        if i % 2 == 0: 
             res = simulate_game(p1, p2, mode)
             s1 += res
             s2 += (1.0 - res)
-            
         else:
             res = simulate_game(p2, p1, mode) 
             s2 += res
             s1 += (1.0 - res)
-            
     return s1, s2
 
 
@@ -106,8 +145,7 @@ def play_round_robin(participants, mode):
     for i in range(n):
         for j in range(i + 1, n):
             p1, p2 = participants[i], participants[j]
-
-            if random.random() > 0.5: # Random colour selection
+            if random.random() > 0.5:
                 res = simulate_game(p1, p2, mode)
                 scores[p1] += res
                 scores[p2] += (1 - res)
@@ -122,35 +160,28 @@ def play_round_robin(participants, mode):
 
 def resolve_stage_1(participants):
     count = len(participants)
-    
     if count == 2:
         s1, s2 = play_match(participants[0], participants[1], "Rapid", games=2)
         if s1 > s2: return [participants[0]]
         if s2 > s1: return [participants[1]]
         return participants
-    
     elif 3 <= count <= 6:
         return play_round_robin(participants, "Rapid")
-        
     else:
         return play_round_robin(participants, "Rapid")
 
 
 def resolve_stage_2(participants):
-    winners = []
-    
     if len(participants) == 2:
         s1, s2 = play_match(participants[0], participants[1], "Blitz", games=2)
         if s1 > s2: return [participants[0]]
         if s2 > s1: return [participants[1]]
         return participants
-        
     else:
         return play_round_robin(participants, "Blitz")
 
 
 def play_sudden_death_match(p1, p2):
-
     if random.random() > 0.5:
         white, black = p1, p2
     else:
@@ -158,7 +189,6 @@ def play_sudden_death_match(p1, p2):
 
     while True:
         res = simulate_game(white, black, "Blitz")
-        
         if res == 1.0: return white
         if res == 0.0: return black
         white, black = black, white
@@ -166,8 +196,6 @@ def play_sudden_death_match(p1, p2):
 
 def resolve_stage_3(participants):
     random.shuffle(participants)
-    
-    # Bracket creation: if odd last person gets a bye
     while len(participants) > 1:
         next_round = []
         i = 0
@@ -179,11 +207,9 @@ def resolve_stage_3(participants):
                 next_round.append(winner)
                 i += 2
             else:
-                # Bye
                 next_round.append(p1)
                 i += 1
         participants = next_round
-        
     return participants[0]
 
 
@@ -210,8 +236,18 @@ for i in range(len(player_names)):
 for sim in range(SIMULATIONS):
     scores = {name: 0.0 for name in player_names}
     
+    sim_ratings = {}
+    for name in player_names:
+        base_rating = players[name]["Classical"]["Rating"]
+        form = random.gauss(0, PERFORMANCE_VARIANCE)
+        sim_ratings[name] = base_rating + form
+
     for white, black in schedule:
-        res = simulate_game(white, black, "Classical")
+        w_r = sim_ratings[white]
+        b_r = sim_ratings[black]
+        
+        res = simulate_game(white, black, "Classical", w_rating_override=w_r, b_rating_override=b_r)
+        
         scores[white] += res
         scores[black] += (1.0 - res)
         
@@ -226,13 +262,8 @@ for sim in range(SIMULATIONS):
         wins[winner] += 1
         tie_stats["winners"][winner] += 1
 
-import matplotlib.pyplot as plt
 
 def plot_results(player_names, wins, tie_stats, simulations):
-    names = []
-    classical_pcts = []
-    tb_pcts = []
-    
     data = []
     for p in player_names:
         total_wins = wins[p]
@@ -251,10 +282,9 @@ def plot_results(player_names, wins, tie_stats, simulations):
     classical_pcts = [x["classical_pct"] for x in data]
     tb_pcts = [x["tb_pct"] for x in data]
 
-
     plt.figure(figsize=(10, 6))
-    plt.bar(names, classical_pcts, label='Classical Win', color='#4e79a7')
-    plt.bar(names, tb_pcts, bottom=classical_pcts, label='Tie-Break Win', color='#f28e2b')
+    plt.bar(names, classical_pcts, label='Classical Win', color='#2C3E50')
+    plt.bar(names, tb_pcts, bottom=classical_pcts, label='Tie-Break Win', color='#E67E22')
 
     plt.title(f"Candidates 2026 Win Probabilities (N={simulations})", fontsize=14, pad=20)
     plt.ylabel("Win Probability (%)", fontsize=12)
@@ -269,10 +299,9 @@ def plot_results(player_names, wins, tie_stats, simulations):
             plt.text(i, total + 0.5, f"{total:.1f}%", ha='center', fontsize=10, fontweight='bold')
 
     plt.tight_layout()
-    
     plt.savefig("candidates_forecast.png", dpi=300)
     print("\nChart saved as 'candidates_forecast.png'")
-    plt.show()
+
 
 def plot_results_table(player_names, wins, tie_stats, simulations):
     data = []
@@ -321,10 +350,9 @@ def plot_results_table(player_names, wins, tie_stats, simulations):
                 cell.set_facecolor('#f2f2f2')
     
     plt.title(f"Candidates 2026 Forecast (N={simulations})", weight='bold', pad=10)
-    
     plt.savefig("candidates_results_table.png", bbox_inches='tight', dpi=300)
-    print("\nTable saved as 'candidates_results_table.png'")
-    plt.show()
+    print("Table saved as 'candidates_results_table.png'")
+
 
 print("\n===== CANDIDATES 2026 SIMULATION =====")
 
@@ -338,7 +366,6 @@ results.sort(key=lambda x: x[1], reverse=True)
 
 for i, (name, pct, tb) in enumerate(results, 1):
     classical_pct = pct - tb
-    
     print(f"{i}. {name}: {pct:.1f}%")
     if pct > 0:
         print(f"   (Classical: {classical_pct:.1f}% | Tie-Break: {tb:.1f}%)")
