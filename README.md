@@ -2,7 +2,7 @@
 
 A probabilistic analysis of the 2026 FIDE Candidates Tournament, utilizing a Monte Carlo simulation ($N=100,000$).
 
-The model can be used with Performance Ratings (TPR) against elite opposition ($>2600$ Elo) from the provided database of games in 2024 and 2025, or updated FIDE ratings using the web scraper. To account for the standard error in published ratings and natural variance in player form, the model samples each player's tournament strength from a normal distribution $N(\mu, \sigma=40)$ at the start of each simulation iteration.
+The model can be used with Performance Ratings (TPR) against elite opposition ($>2600$ Elo) from the provided database of games in 2024 and 2025, or updated FIDE ratings using the web scraper. To account for the natural variance in player form, the model samples each player's tournament strength from a normal distribution $N(\mu, \sigma=40)$ at the start of each simulation iteration.
 
 #### Results according to the ratings on 25/1/2026
 ![Forecast Chart](candidates_forecast.png)
@@ -57,7 +57,7 @@ Tie-breaks use live FIDE Rapid and Blitz ratings (scraped from the FIDE website)
 ### Input Data
 | File | Description |
 | :--- | :--- |
-| `candidates_classical_2024_2026.csv` | Raw dataset of classical games played by the candidates in 2024/2025. |
+| `candidates_classical_2024_2025.csv` | Raw dataset of classical games played by the candidates in 2024/2025. |
 | `rpd_blz_avg.json` | Rapid and Blitz rating weighted averages for the candidates over 2025. |
 | `fide_table.json` | Lookup table for calculating performance ratings. |
 
@@ -73,23 +73,6 @@ Tie-breaks use live FIDE Rapid and Blitz ratings (scraped from the FIDE website)
 
 ```bash
 pip install -r requirements.txt
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
