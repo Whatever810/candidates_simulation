@@ -78,3 +78,5 @@ def save_to_json(data):
 if __name__ == "__main__":
     data = scrape_player_ratings(players_to_scrape)
     save_to_json(data)
+
+

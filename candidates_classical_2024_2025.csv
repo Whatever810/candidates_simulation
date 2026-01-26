@@ -1,899 +1,900 @@
 Candidate,Period,Color,Opponent,Title,Opponent Rating,Score,Games (n),Rating Change
-Fabiano Caruana,2024-04-01,White,"Oparin, Grigoriy",g,2671,1.00,1,3.20
-Fabiano Caruana,2024-04-01,Black,"Oparin, Grigoriy",g,2671,0.50,1,-1.80
-Fabiano Caruana,2024-04-01,White,"Aronian, Levon",g,2722,0.50,1,-1.10
-Fabiano Caruana,2024-04-01,Black,"Aronian, Levon",g,2722,0.50,1,-1.10
-Fabiano Caruana,2024-05-01,White,"Nakamura, Hikaru",g,2789,0.50,1,-0.20
-Fabiano Caruana,2024-05-01,White,"Abasov, Nijat",g,2632,1.00,1,2.70
-Fabiano Caruana,2024-05-01,Black,"Firouzja, Alireza",g,2760,0.50,1,-0.60
-Fabiano Caruana,2024-05-01,White,"Gukesh, D",g,2743,0.50,1,-0.80
-Fabiano Caruana,2024-05-01,Black,"Vidit, Santosh Gujrathi",g,2727,0.50,1,-1.00
-Fabiano Caruana,2024-05-01,Black,"Nepomniachtchi, Ian",g,2758,0.50,1,-0.60
-Fabiano Caruana,2024-05-01,White,"Praggnanandhaa, R",g,2747,0.50,1,-0.80
-Fabiano Caruana,2024-05-01,Black,"Nakamura, Hikaru",g,2789,0.00,1,-5.20
-Fabiano Caruana,2024-05-01,Black,"Abasov, Nijat",g,2632,0.50,1,-2.30
-Fabiano Caruana,2024-05-01,White,"Firouzja, Alireza",g,2760,1.00,1,4.40
-Fabiano Caruana,2024-05-01,Black,"Gukesh, D",g,2743,0.50,1,-0.80
-Fabiano Caruana,2024-05-01,White,"Vidit, Santosh Gujrathi",g,2727,1.00,1,4.00
-Fabiano Caruana,2024-05-01,Black,"Praggnanandhaa, R",g,2747,1.00,1,4.20
-Fabiano Caruana,2024-05-01,White,"Nepomniachtchi, Ian",g,2758,0.50,1,-0.60
-Fabiano Caruana,2024-07-01,White,"Nakamura, Hikaru",g,2794,0.50,1,-0.20
-Fabiano Caruana,2024-07-01,Black,"Firouzja, Alireza",g,2737,0.50,1,-0.90
-Fabiano Caruana,2024-07-01,White,"Ding, Liren",g,2762,1.00,1,4.40
-Fabiano Caruana,2024-07-01,Black,"Praggnanandhaa, R",g,2747,0.00,1,-5.80
-Fabiano Caruana,2024-07-01,White,"Carlsen, Magnus",g,2830,0.00,1,-4.70
-Fabiano Caruana,2024-07-01,Black,"Nakamura, Hikaru",g,2794,0.50,1,-0.20
-Fabiano Caruana,2024-07-01,White,"Firouzja, Alireza",g,2737,0.50,1,-0.90
-Fabiano Caruana,2024-07-01,Black,"Ding, Liren",g,2762,0.50,1,-0.60
-Fabiano Caruana,2024-07-01,White,"Praggnanandhaa, R",g,2747,0.50,1,-0.80
-Fabiano Caruana,2024-07-01,Black,"Carlsen, Magnus",g,2830,0.50,1,0.30
-Fabiano Caruana,2024-08-01,Black,"Firouzja, Alireza",g,2737,1.00,1,4.10
-Fabiano Caruana,2024-08-01,White,"So, Wesley",g,2757,0.50,1,-0.70
-Fabiano Caruana,2024-08-01,Black,"Abdusattorov, Nodirbek",g,2766,0.50,1,-0.50
-Fabiano Caruana,2024-08-01,White,"Deac, Bogdan-Daniel",g,2680,1.00,1,3.30
-Fabiano Caruana,2024-08-01,Black,"Vachier-Lagrave, Maxime",g,2732,0.50,1,-1.00
-Fabiano Caruana,2024-08-01,White,"Nepomniachtchi, Ian",g,2770,0.50,1,-0.50
-Fabiano Caruana,2024-08-01,Black,"Gukesh, D",g,2763,0.50,1,-0.60
-Fabiano Caruana,2024-08-01,White,"Praggnanandhaa, R",g,2747,0.50,1,-0.80
-Fabiano Caruana,2024-08-01,Black,"Giri, Anish",g,2745,0.00,1,-5.80
-Fabiano Caruana,2024-09-01,White,"Firouzja, Alireza",g,2751,0.00,1,-5.60
-Fabiano Caruana,2024-09-01,Black,"So, Wesley",g,2751,0.50,1,-0.60
-Fabiano Caruana,2024-09-01,White,"Abdusattorov, Nodirbek",g,2762,1.00,1,4.60
-Fabiano Caruana,2024-09-01,Black,"Ding, Liren",g,2745,0.50,1,-0.70
-Fabiano Caruana,2024-09-01,White,"Vachier-Lagrave, Maxime",g,2721,0.50,1,-1.00
-Fabiano Caruana,2024-09-01,Black,"Nepomniachtchi, Ian",g,2767,1.00,1,4.60
-Fabiano Caruana,2024-09-01,White,"Gukesh, D",g,2766,0.50,1,-0.40
-Fabiano Caruana,2024-09-01,Black,"Rameshbabu, Praggnanandhaa",g,2749,0.50,1,-0.60
-Fabiano Caruana,2024-09-01,White,"Giri, Anish",g,2746,1.00,1,4.30
-Fabiano Caruana,2024-10-01,White,"Tin, Jingyao",g,2580,1.00,1,2.20
-Fabiano Caruana,2024-10-01,Black,"Cheparinov, Ivan",g,2628,1.00,1,2.80
-Fabiano Caruana,2024-10-01,White,"Volokitin, Andrei",g,2660,1.00,1,3.10
-Fabiano Caruana,2024-10-01,Black,"Peralta, Fernando",g,2558,1.00,1,2.00
-Fabiano Caruana,2024-10-01,White,"Deac, Bogdan-Daniel",g,2680,0.50,1,-1.60
-Fabiano Caruana,2024-10-01,Black,"Theodorou, Nikolas",g,2619,0.50,1,-2.30
-Fabiano Caruana,2024-10-01,White,"Vachier-Lagrave, Maxime",g,2731,0.50,1,-0.90
-Fabiano Caruana,2024-10-01,White,"Rapport, Richard",g,2715,0.50,1,-1.10
-Fabiano Caruana,2024-10-01,Black,"Gukesh, D",g,2764,0.00,1,-5.50
-Fabiano Caruana,2024-10-01,Black,"Ding, Liren",g,2736,0.50,1,-0.90
-Fabiano Caruana,2024-11-01,Black,"Niemann, Hans",g,2733,0.50,1,-0.90
-Fabiano Caruana,2024-11-01,White,"Aronian, Levon",g,2738,0.50,1,-0.80
-Fabiano Caruana,2024-11-01,Black,"Robson, Ray",g,2693,1.00,1,3.60
-Fabiano Caruana,2024-11-01,White,"Mishra, Abhimanyu",g,2630,1.00,1,2.80
-Fabiano Caruana,2024-11-01,Black,"Yoo, Christopher Woojin",g,2590,1.00,1,2.40
-Fabiano Caruana,2024-11-01,White,"Oparin, Grigoriy",g,2662,1.00,1,3.20
-Fabiano Caruana,2024-11-01,Black,"Sevian, Samuel",g,2689,0.50,1,-1.50
-Fabiano Caruana,2024-11-01,Black,"So, Wesley",g,2751,0.50,1,-0.60
-Fabiano Caruana,2024-11-01,White,"Liang, Awonder",g,2677,0.50,1,-1.60
-Fabiano Caruana,2024-11-01,Black,"Dominguez Perez, Leinier",g,2741,0.50,1,-0.80
-Fabiano Caruana,2024-11-01,White,"Shankland, Sam",g,2677,1.00,1,3.40
-Fabiano Caruana,2025-01-01,Black,"Amburgy, Ryan",f,2405*,1.00,1,0.80
-Fabiano Caruana,2025-01-01,White,"Risteski, Emil",f,2405*,1.00,1,0.80
-Fabiano Caruana,2025-01-01,Black,"Paragua, Mark",g,2446,1.00,1,1.00
-Fabiano Caruana,2025-01-01,White,"Can, Isik",m,2508,1.00,1,1.50
-Fabiano Caruana,2025-01-01,Black,"Burke, John Michael",g,2573,1.00,1,2.10
-Fabiano Caruana,2025-01-01,White,"Theodorou, Nikolas",g,2612,0.00,1,-7.50
-Fabiano Caruana,2025-01-01,Black,"Woodward, Andy Austin",g,2525,1.00,1,1.60
-Fabiano Caruana,2025-01-01,White,"Matviishen, Viktor",g,2566,1.00,1,2.00
-Fabiano Caruana,2025-01-01,Black,"Heimann, Mark",m,2459,1.00,1,1.10
-Fabiano Caruana,2025-03-01,Black,"Wei, Yi",g,2751,0.50,1,-0.70
-Fabiano Caruana,2025-03-01,White,"Van Foreest, Jorden",g,2680,1.00,1,3.30
-Fabiano Caruana,2025-03-01,Black,"Gukesh, D",g,2777,0.50,1,-0.40
-Fabiano Caruana,2025-03-01,White,"Giri, Anish",g,2731,0.50,1,-1.00
-Fabiano Caruana,2025-03-01,Black,"Fedoseev, Vladimir",g,2717,0.00,1,-6.20
-Fabiano Caruana,2025-03-01,Black,"Erigaisi, Arjun",g,2801,0.50,1,0.00
-Fabiano Caruana,2025-03-01,White,"Sarana, Alexey",g,2677,0.50,1,-1.70
-Fabiano Caruana,2025-03-01,Black,"Keymer, Vincent",g,2733,1.00,1,4.00
-Fabiano Caruana,2025-03-01,White,"Abdusattorov, Nodirbek",g,2768,0.50,1,-0.50
-Fabiano Caruana,2025-03-01,Black,"Harikrishna, Pentala",g,2695,0.50,1,-1.50
-Fabiano Caruana,2025-03-01,White,"Praggnanandhaa, R",g,2741,0.00,1,-5.90
-Fabiano Caruana,2025-03-01,Black,"Mendonca, Leon Luke",g,2639,0.50,1,-2.20
-Fabiano Caruana,2025-03-01,White,"Warmerdam, Max",g,2646,0.00,1,-7.10
-Fabiano Caruana,2025-04-01,White,"Robson, Ray",g,2689,0.50,1,-1.30
-Fabiano Caruana,2025-04-01,Black,"Robson, Ray",g,2689,0.50,1,-1.30
-Fabiano Caruana,2025-04-01,White,"Aronian, Levon",g,2748,0.50,1,-0.50
-Fabiano Caruana,2025-04-01,Black,"Aronian, Levon",g,2748,0.50,1,-0.50
-Fabiano Caruana,2025-04-01,Black,"Nakamura, Hikaru",g,2802,0.50,1,0.30
-Fabiano Caruana,2025-04-01,White,"Nakamura, Hikaru",g,2802,0.50,1,0.30
-Fabiano Caruana,2025-04-01,Black,"Nakamura, Hikaru",g,2802,0.00,1,-4.70
-Fabiano Caruana,2025-04-01,White,"Nakamura, Hikaru",g,2802,0.50,1,0.30
-Fabiano Caruana,2025-06-01,Black,"Duda, Jan-Krzysztof",g,2739,0.50,1,-0.50
-Fabiano Caruana,2025-06-01,White,"Praggnanandhaa, R",g,2758,0.50,1,-0.30
-Fabiano Caruana,2025-06-01,Black,"Firouzja, Alireza",g,2757,1.00,1,4.70
-Fabiano Caruana,2025-06-01,White,"Abdusattorov, Nodirbek",g,2771,0.50,1,-0.10
-Fabiano Caruana,2025-06-01,Black,"So, Wesley",g,2751,0.50,1,-0.30
-Fabiano Caruana,2025-06-01,White,"Deac, Bogdan-Daniel",g,2668,0.50,1,-1.50
-Fabiano Caruana,2025-06-01,Black,"Aronian, Levon",g,2747,0.50,1,-0.40
-Fabiano Caruana,2025-06-01,White,"Vachier-Lagrave, Maxime",g,2723,0.50,1,-0.70
-Fabiano Caruana,2025-06-01,Black,"Gukesh, D",g,2787,0.50,1,0.20
-Fabiano Caruana,2025-07-01,White,"Nakamura, Hikaru",g,2804,0.00,1,-4.60
-Fabiano Caruana,2025-07-01,Black,"Wei, Yi",g,2758,1.00,1,4.70
-Fabiano Caruana,2025-07-01,White,"Erigaisi, Arjun",g,2782,1.00,1,5.10
-Fabiano Caruana,2025-07-01,Black,"Gukesh, D",g,2787,0.50,1,0.20
-Fabiano Caruana,2025-07-01,White,"Carlsen, Magnus",g,2837,0.50,1,0.80
-Fabiano Caruana,2025-07-01,Black,"Nakamura, Hikaru",g,2804,0.50,1,0.40
-Fabiano Caruana,2025-07-01,White,"Wei, Yi",g,2758,1.00,1,4.70
-Fabiano Caruana,2025-07-01,Black,"Erigaisi, Arjun",g,2782,0.00,1,-4.90
-Fabiano Caruana,2025-07-01,Black,"Carlsen, Magnus",g,2837,0.00,1,-4.20
-Fabiano Caruana,2025-07-01,White,"Gukesh, D",g,2787,1.00,1,5.20
-Fabiano Caruana,2025-09-01,White,"Duda, Jan-Krzysztof",g,2725,0.50,1,-0.80
-Fabiano Caruana,2025-09-01,Black,"Rameshbabu, Praggnanandhaa",g,2779,0.50,1,-0.10
-Fabiano Caruana,2025-09-01,White,"Firouzja, Alireza",g,2766,1.00,1,4.70
-Fabiano Caruana,2025-09-01,Black,"Abdusattorov, Nodirbek",g,2771,1.00,1,4.80
-Fabiano Caruana,2025-09-01,White,"So, Wesley",g,2745,0.50,1,-0.50
-Fabiano Caruana,2025-09-01,Black,"Sevian, Samuel",g,2683,0.50,1,-1.40
-Fabiano Caruana,2025-09-01,White,"Aronian, Levon",g,2737,0.50,1,-0.70
-Fabiano Caruana,2025-09-01,Black,"Vachier-Lagrave, Maxime",g,2736,0.50,1,-0.70
-Fabiano Caruana,2025-09-01,White,"Gukesh, D",g,2776,0.50,1,-0.10
-Fabiano Caruana,2025-11-01,White,"Aronian, Levon",g,2744,0.50,1,-0.60
-Fabiano Caruana,2025-11-01,Black,"Aronian, Levon",g,2744,0.50,1,-0.60
-Fabiano Caruana,2025-11-01,White,"Vachier-Lagrave, Maxime",g,2738,0.50,1,-0.70
-Fabiano Caruana,2025-11-01,Black,"Vachier-Lagrave, Maxime",g,2738,0.50,1,-0.70
-Hikaru Nakamura,2024-03-01,Black,"Bluebaum, Matthias",g,2658,0.50,1,-1.80
-Hikaru Nakamura,2024-03-01,White,"Anand, Viswanathan",g,2748,0.50,1,-0.60
-Hikaru Nakamura,2024-03-01,Black,"Abasov, Nijat",g,2641,1.00,1,3.00
-Hikaru Nakamura,2024-05-01,Black,"Caruana, Fabiano",g,2803,0.50,1,0.20
-Hikaru Nakamura,2024-05-01,White,"Vidit, Santosh Gujrathi",g,2727,0.00,1,-5.90
-Hikaru Nakamura,2024-05-01,Black,"Abasov, Nijat",g,2632,0.50,1,-2.10
-Hikaru Nakamura,2024-05-01,White,"Praggnanandhaa, R",g,2747,0.50,1,-0.60
-Hikaru Nakamura,2024-05-01,Black,"Firouzja, Alireza",g,2760,1.00,1,4.60
-Hikaru Nakamura,2024-05-01,Black,"Gukesh, D",g,2743,0.50,1,-0.60
-Hikaru Nakamura,2024-05-01,White,"Nepomniachtchi, Ian",g,2758,0.50,1,-0.40
-Hikaru Nakamura,2024-05-01,White,"Caruana, Fabiano",g,2803,1.00,1,5.20
-Hikaru Nakamura,2024-05-01,Black,"Vidit, Santosh Gujrathi",g,2727,0.00,1,-5.90
-Hikaru Nakamura,2024-05-01,White,"Abasov, Nijat",g,2632,1.00,1,2.90
-Hikaru Nakamura,2024-05-01,Black,"Praggnanandhaa, R",g,2747,1.00,1,4.40
-Hikaru Nakamura,2024-05-01,White,"Firouzja, Alireza",g,2760,1.00,1,4.60
-Hikaru Nakamura,2024-05-01,Black,"Nepomniachtchi, Ian",g,2758,0.50,1,-0.40
-Hikaru Nakamura,2024-05-01,White,"Gukesh, D",g,2743,0.50,1,-0.60
-Hikaru Nakamura,2024-07-01,Black,"Caruana, Fabiano",g,2805,0.50,1,0.20
-Hikaru Nakamura,2024-07-01,Black,"Carlsen, Magnus",g,2830,0.50,1,0.50
-Hikaru Nakamura,2024-07-01,White,"Firouzja, Alireza",g,2737,0.50,1,-0.80
-Hikaru Nakamura,2024-07-01,Black,"Ding, Liren",g,2762,1.00,1,4.60
-Hikaru Nakamura,2024-07-01,White,"Praggnanandhaa, R",g,2747,1.00,1,4.30
-Hikaru Nakamura,2024-07-01,White,"Caruana, Fabiano",g,2805,0.50,1,0.20
-Hikaru Nakamura,2024-07-01,White,"Carlsen, Magnus",g,2830,0.50,1,0.50
-Hikaru Nakamura,2024-07-01,Black,"Firouzja, Alireza",g,2737,0.50,1,-0.80
-Hikaru Nakamura,2024-07-01,White,"Ding, Liren",g,2762,0.50,1,-0.40
-Hikaru Nakamura,2024-07-01,Black,"Praggnanandhaa, R",g,2747,0.50,1,-0.70
-Hikaru Nakamura,2025-04-01,White,"Mishra, Abhimanyu",g,2600,0.50,1,-2.60
-Hikaru Nakamura,2025-04-01,Black,"Mishra, Abhimanyu",g,2600,0.50,1,-2.60
-Hikaru Nakamura,2025-04-01,White,"Dominguez Perez, Leinier",g,2741,0.50,1,-0.80
-Hikaru Nakamura,2025-04-01,Black,"Dominguez Perez, Leinier",g,2741,1.00,1,4.20
-Hikaru Nakamura,2025-04-01,White,"Caruana, Fabiano",g,2783,0.50,1,-0.30
-Hikaru Nakamura,2025-04-01,Black,"Caruana, Fabiano",g,2783,0.50,1,-0.30
-Hikaru Nakamura,2025-04-01,White,"Caruana, Fabiano",g,2783,1.00,1,4.70
-Hikaru Nakamura,2025-04-01,Black,"Caruana, Fabiano",g,2783,0.50,1,-0.30
-Hikaru Nakamura,2025-07-01,Black,"Caruana, Fabiano",g,2776,1.00,1,4.60
-Hikaru Nakamura,2025-07-01,White,"Carlsen, Magnus",g,2837,0.50,1,0.50
-Hikaru Nakamura,2025-07-01,Black,"Gukesh, D",g,2787,0.00,1,-5.20
-Hikaru Nakamura,2025-07-01,White,"Wei, Yi",g,2758,0.50,1,-0.60
-Hikaru Nakamura,2025-07-01,Black,"Erigaisi, Arjun",g,2782,0.50,1,-0.30
-Hikaru Nakamura,2025-07-01,White,"Caruana, Fabiano",g,2776,0.50,1,-0.40
-Hikaru Nakamura,2025-07-01,Black,"Carlsen, Magnus",g,2837,0.50,1,0.50
-Hikaru Nakamura,2025-07-01,White,"Gukesh, D",g,2787,1.00,1,4.80
-Hikaru Nakamura,2025-07-01,White,"Erigaisi, Arjun",g,2782,0.50,1,-0.30
-Hikaru Nakamura,2025-07-01,Black,"Wei, Yi",g,2758,0.50,1,-0.60
-Hikaru Nakamura,2025-10-01,Black,"Costanza, Mitchell",,2407*,1.00,1,0.80
-Hikaru Nakamura,2025-10-01,White,"Villamil, Nahum Jose",,2407*,1.00,1,0.80
-Hikaru Nakamura,2025-10-01,Black,"Tan, Ralph",,2407*,1.00,1,0.80
-Hikaru Nakamura,2025-10-01,White,"Schulingkamp, Mark L",,2407*,1.00,1,0.80
-Hikaru Nakamura,2025-10-01,White,"Matta, Nicholas F",f,2407*,1.00,1,0.80
-Hikaru Nakamura,2025-10-01,Black,"Campbell, Charles Adegboyega",c,2407*,1.00,1,0.80
-Hikaru Nakamura,2025-11-01,Black,"Zhang, Michelle",,1919,1.00,1,0.00
-Hikaru Nakamura,2025-11-01,White,"Dunahee, Titan",,1808,1.00,1,0.00
-Hikaru Nakamura,2025-11-01,Black,"Ivanov, Mike",f,2366,0.50,1,-4.40
-Hikaru Nakamura,2025-11-01,White,"Plotkin, Mark",m,2353,1.00,1,0.50
-Hikaru Nakamura,2025-11-01,Black,"Migot, Tangi",m,2311,1.00,1,0.40
-Hikaru Nakamura,2025-11-01,White,"Marchand, Calix",f,2101,1.00,1,0.10
-Hikaru Nakamura,2025-12-01,White,"Dokka, Tanush",,1787,1.00,1,0.00
-Hikaru Nakamura,2025-12-01,Black,"Ismayilova, Khanim",,2025,1.00,1,0.00
-Hikaru Nakamura,2025-12-01,White,"Diao, Matthew Guo",c,2310,1.00,1,0.40
-Hikaru Nakamura,2025-12-01,Black,"De Silva, Lokumannage Susal Thew",m,2400,1.00,1,0.70
-Hikaru Nakamura,2025-12-01,White,"Balakrishnan, Praveen",g,2505,0.50,1,-3.60
-R Praggnanandhaa,2024-02-01,White,"Maghsoodloo, Parham",g,2740,0.50,1,0.00
-R Praggnanandhaa,2024-02-01,Black,"Abdusattorov, Nodirbek",g,2727,0.50,1,-0.20
-R Praggnanandhaa,2024-02-01,White,"Wei, Yi",g,2740,0.50,1,0.00
-R Praggnanandhaa,2024-02-01,Black,"Ding, Liren",g,2780,1.00,1,5.50
-R Praggnanandhaa,2024-02-01,White,"Giri, Anish",g,2749,0.50,1,0.10
-R Praggnanandhaa,2024-02-01,Black,"Nepomniachtchi, Ian",g,2769,0.50,1,0.40
-R Praggnanandhaa,2024-02-01,White,"Van Foreest, Jorden",g,2682,0.50,1,-0.80
-R Praggnanandhaa,2024-02-01,Black,"Warmerdam, Max",g,2625,0.50,1,-1.60
-R Praggnanandhaa,2024-02-01,White,"Ju, Wenjun",g,2549,1.00,1,2.50
-R Praggnanandhaa,2024-02-01,Black,"Vidit, Santosh Gujrathi",g,2742,0.50,1,0.00
-R Praggnanandhaa,2024-02-01,White,"Donchenko, Alexander",g,2642,0.50,1,-1.40
-R Praggnanandhaa,2024-02-01,Black,"Gukesh, D",g,2725,0.50,1,-0.30
-R Praggnanandhaa,2024-02-01,White,"Firouzja, Alireza",g,2759,0.50,1,0.20
-R Praggnanandhaa,2024-04-01,White,"Keymer, Vincent",g,2738,1.00,1,4.90
-R Praggnanandhaa,2024-04-01,Black,"Maghsoodloo, Parham",g,2715,0.00,1,-5.40
-R Praggnanandhaa,2024-04-01,White,"Rapport, Richard",g,2717,0.00,1,-5.40
-R Praggnanandhaa,2024-04-01,Black,"Nguyen, Thai Dai Van",g,2630,0.50,1,-1.60
-R Praggnanandhaa,2024-04-01,White,"Vidit, Santosh Gujrathi",g,2747,1.00,1,5.00
-R Praggnanandhaa,2024-04-01,Black,"Abdusattorov, Nodirbek",g,2744,1.00,1,5.00
-R Praggnanandhaa,2024-04-01,White,"Gukesh, D",g,2743,0.50,1,-0.10
-R Praggnanandhaa,2024-04-01,Black,"Bartel, Mateusz",g,2660,0.50,1,-1.20
-R Praggnanandhaa,2024-04-01,White,"Navara, David",g,2667,0.50,1,-1.10
-R Praggnanandhaa,2024-05-01,Black,"Firouzja, Alireza",g,2760,0.50,1,0.20
-R Praggnanandhaa,2024-05-01,White,"Gukesh, D",g,2743,0.00,1,-5.10
-R Praggnanandhaa,2024-05-01,Black,"Vidit, Santosh Gujrathi",g,2727,1.00,1,4.70
-R Praggnanandhaa,2024-05-01,Black,"Nakamura, Hikaru",g,2789,0.50,1,0.60
-R Praggnanandhaa,2024-05-01,White,"Nepomniachtchi, Ian",g,2758,0.50,1,0.20
-R Praggnanandhaa,2024-05-01,White,"Abasov, Nijat",g,2632,1.00,1,3.40
-R Praggnanandhaa,2024-05-01,Black,"Caruana, Fabiano",g,2803,0.50,1,0.80
-R Praggnanandhaa,2024-05-01,White,"Firouzja, Alireza",g,2760,0.50,1,0.20
-R Praggnanandhaa,2024-05-01,Black,"Gukesh, D",g,2743,0.50,1,-0.10
-R Praggnanandhaa,2024-05-01,White,"Vidit, Santosh Gujrathi",g,2727,0.50,1,-0.30
-R Praggnanandhaa,2024-05-01,White,"Nakamura, Hikaru",g,2789,0.00,1,-4.40
-R Praggnanandhaa,2024-05-01,Black,"Nepomniachtchi, Ian",g,2758,0.50,1,0.20
-R Praggnanandhaa,2024-05-01,White,"Caruana, Fabiano",g,2803,0.00,1,-4.20
-R Praggnanandhaa,2024-05-01,Black,"Abasov, Nijat",g,2632,1.00,1,3.40
-R Praggnanandhaa,2024-07-01,White,"Firouzja, Alireza",g,2737,0.50,1,-0.10
-R Praggnanandhaa,2024-07-01,Black,"Ding, Liren",g,2762,0.50,1,0.20
-R Praggnanandhaa,2024-07-01,White,"Carlsen, Magnus",g,2830,1.00,1,6.10
-R Praggnanandhaa,2024-07-01,White,"Caruana, Fabiano",g,2805,1.00,1,5.80
-R Praggnanandhaa,2024-07-01,Black,"Nakamura, Hikaru",g,2794,0.00,1,-4.30
-R Praggnanandhaa,2024-07-01,Black,"Firouzja, Alireza",g,2737,0.50,1,-0.10
-R Praggnanandhaa,2024-07-01,White,"Ding, Liren",g,2762,0.50,1,0.20
-R Praggnanandhaa,2024-07-01,Black,"Carlsen, Magnus",g,2830,0.50,1,1.10
-R Praggnanandhaa,2024-07-01,Black,"Caruana, Fabiano",g,2805,0.50,1,0.80
-R Praggnanandhaa,2024-07-01,White,"Nakamura, Hikaru",g,2794,0.50,1,0.70
-R Praggnanandhaa,2024-08-01,Black,"Abdusattorov, Nodirbek",g,2766,0.50,1,0.30
-R Praggnanandhaa,2024-08-01,White,"Vachier-Lagrave, Maxime",g,2732,0.50,1,-0.20
-R Praggnanandhaa,2024-08-01,Black,"Gukesh, D",g,2763,0.50,1,0.20
-R Praggnanandhaa,2024-08-01,White,"Giri, Anish",g,2745,1.00,1,5.00
-R Praggnanandhaa,2024-08-01,Black,"So, Wesley",g,2757,0.50,1,0.10
-R Praggnanandhaa,2024-08-01,White,"Deac, Bogdan-Daniel",g,2680,0.50,1,-0.90
-R Praggnanandhaa,2024-08-01,Black,"Nepomniachtchi, Ian",g,2770,0.50,1,0.30
-R Praggnanandhaa,2024-08-01,Black,"Caruana, Fabiano",g,2805,0.50,1,0.80
-R Praggnanandhaa,2024-08-01,White,"Firouzja, Alireza",g,2737,0.50,1,-0.10
-R Praggnanandhaa,2024-09-01,White,"Abdusattorov, Nodirbek",g,2762,0.50,1,0.20
-R Praggnanandhaa,2024-09-01,Black,"Vachier-Lagrave, Maxime",g,2721,0.50,1,-0.40
-R Praggnanandhaa,2024-09-01,White,"Gukesh, D",g,2766,0.50,1,0.20
-R Praggnanandhaa,2024-09-01,Black,"Giri, Anish",g,2746,0.50,1,0.00
-R Praggnanandhaa,2024-09-01,White,"So, Wesley",g,2751,0.50,1,0.00
-R Praggnanandhaa,2024-09-01,Black,"Ding, Liren",g,2745,0.50,1,-0.10
-R Praggnanandhaa,2024-09-01,White,"Nepomniachtchi, Ian",g,2767,0.50,1,0.30
-R Praggnanandhaa,2024-09-01,White,"Caruana, Fabiano",g,2793,0.50,1,0.60
-R Praggnanandhaa,2024-09-01,Black,"Firouzja, Alireza",g,2751,0.50,1,0.00
-R Praggnanandhaa,2024-10-01,White,"Tissir, Mohamed",m,2355,1.00,1,0.80
-R Praggnanandhaa,2024-10-01,Black,"Banusz, Tamas",g,2605,1.00,1,3.10
-R Praggnanandhaa,2024-10-01,White,"Sarana, Alexey",g,2713,0.50,1,-0.50
-R Praggnanandhaa,2024-10-01,Black,"Abasov, Nijat",g,2626,0.50,1,-1.70
-R Praggnanandhaa,2024-10-01,White,"Leko, Peter",g,2666,0.50,1,-1.20
-R Praggnanandhaa,2024-10-01,Black,"Yu, Yangyi",g,2703,0.50,1,-0.70
-R Praggnanandhaa,2024-10-01,White,"Tabatabaei, M. Amin",g,2714,0.50,1,-0.50
-R Praggnanandhaa,2024-10-01,Black,"Sindarov, Javokhir",g,2677,0.50,1,-1.00
-R Praggnanandhaa,2024-10-01,Black,"So, Wesley",g,2752,0.00,1,-5.00
-R Praggnanandhaa,2024-10-01,White,"Demchenko, Anton",g,2597,1.00,1,3.00
-R Praggnanandhaa,2024-11-01,White,"Bologan, Victor",g,2608,1.00,1,3.10
-R Praggnanandhaa,2024-11-01,Black,"Bologan, Victor",g,2608,1.00,1,3.10
-R Praggnanandhaa,2024-11-01,White,"Anand, Viswanathan",g,2751,0.50,1,0.10
-R Praggnanandhaa,2024-11-01,Black,"Anand, Viswanathan",g,2751,0.50,1,0.10
-R Praggnanandhaa,2024-11-01,Black,"Erigaisi, Arjun",g,2797,0.00,1,-4.30
-R Praggnanandhaa,2024-11-01,White,"Erigaisi, Arjun",g,2797,0.50,1,0.70
-R Praggnanandhaa,2025-01-01,White,"Svane, Rasmus",g,2628,1.00,1,3.50
-R Praggnanandhaa,2025-03-01,White,"Abdusattorov, Nodirbek",g,2768,0.50,1,0.40
-R Praggnanandhaa,2025-03-01,Black,"Harikrishna, Pentala",g,2695,1.00,1,4.40
-R Praggnanandhaa,2025-03-01,White,"Erigaisi, Arjun",g,2801,1.00,1,5.80
-R Praggnanandhaa,2025-03-01,White,"Mendonca, Leon Luke",g,2639,1.00,1,3.60
-R Praggnanandhaa,2025-03-01,Black,"Warmerdam, Max",g,2646,0.50,1,-1.30
-R Praggnanandhaa,2025-03-01,White,"Wei, Yi",g,2751,0.50,1,0.10
-R Praggnanandhaa,2025-03-01,Black,"Van Foreest, Jorden",g,2680,0.50,1,-0.80
-R Praggnanandhaa,2025-03-01,White,"Gukesh, D",g,2777,0.50,1,0.50
-R Praggnanandhaa,2025-03-01,Black,"Giri, Anish",g,2731,0.00,1,-5.10
-R Praggnanandhaa,2025-03-01,White,"Fedoseev, Vladimir",g,2717,1.00,1,4.70
-R Praggnanandhaa,2025-03-01,Black,"Caruana, Fabiano",g,2803,1.00,1,5.90
-R Praggnanandhaa,2025-03-01,White,"Sarana, Alexey",g,2677,1.00,1,4.10
-R Praggnanandhaa,2025-03-01,Black,"Keymer, Vincent",g,2733,0.00,1,-5.10
-R Praggnanandhaa,2025-04-01,White,"Navara, David",g,2677,0.50,1,-0.90
-R Praggnanandhaa,2025-04-01,Black,"Gurel, Ediz",g,2624,0.50,1,-1.60
-R Praggnanandhaa,2025-04-01,White,"Nguyen, Thai Dai Van",g,2668,1.00,1,4.00
-R Praggnanandhaa,2025-04-01,Black,"Keymer, Vincent",g,2731,1.00,1,4.90
-R Praggnanandhaa,2025-04-01,White,"Aravindh, Chithambaram Vr.",g,2729,0.50,1,-0.20
-R Praggnanandhaa,2025-04-01,Black,"Shankland, Sam",g,2670,0.50,1,-1.00
-R Praggnanandhaa,2025-04-01,White,"Wei, Yi",g,2755,0.50,1,0.20
-R Praggnanandhaa,2025-04-01,White,"Le, Quang Liem",g,2739,0.50,1,0.00
-R Praggnanandhaa,2025-04-01,Black,"Giri, Anish",g,2728,0.00,1,-5.20
-R Praggnanandhaa,2025-06-01,Black,"Gukesh, D",g,2787,0.50,1,0.40
-R Praggnanandhaa,2025-06-01,Black,"Caruana, Fabiano",g,2776,0.50,1,0.30
-R Praggnanandhaa,2025-06-01,White,"Abdusattorov, Nodirbek",g,2771,1.00,1,5.20
-R Praggnanandhaa,2025-06-01,Black,"Deac, Bogdan-Daniel",g,2668,0.50,1,-1.20
-R Praggnanandhaa,2025-06-01,White,"Vachier-Lagrave, Maxime",g,2723,0.50,1,-0.50
-R Praggnanandhaa,2025-06-01,Black,"Duda, Jan-Krzysztof",g,2739,0.50,1,-0.30
-R Praggnanandhaa,2025-06-01,White,"Firouzja, Alireza",g,2757,0.50,1,0.00
-R Praggnanandhaa,2025-06-01,Black,"So, Wesley",g,2751,1.00,1,4.90
-R Praggnanandhaa,2025-06-01,White,"Aronian, Levon",g,2747,0.50,1,-0.20
-R Praggnanandhaa,2025-07-01,Black,"Aravindh, Chithambaram Vr.",g,2749,0.50,1,-0.10
-R Praggnanandhaa,2025-07-01,White,"Bjerre, Jonas Buhl",g,2641,0.50,1,-1.60
-R Praggnanandhaa,2025-07-01,Black,"Sevian, Samuel",g,2694,0.50,1,-0.90
-R Praggnanandhaa,2025-07-01,White,"Yakubboev, Nodirbek",g,2665,1.00,1,3.70
-R Praggnanandhaa,2025-07-01,Black,"Kollars, Dmitrij",g,2625,0.50,1,-1.80
-R Praggnanandhaa,2025-07-01,White,"Gledura, Benjamin",g,2663,1.00,1,3.70
-R Praggnanandhaa,2025-07-01,Black,"Hakobyan, Aram",g,2620,1.00,1,3.10
-R Praggnanandhaa,2025-07-01,Black,"Xu, Xiangyu",g,2623,0.50,1,-1.80
-R Praggnanandhaa,2025-07-01,White,"Hovhannisyan, Robert",g,2635,1.00,1,3.30
-R Praggnanandhaa,2025-09-01,White,"Gukesh, D",g,2776,1.00,1,5.00
-R Praggnanandhaa,2025-09-01,White,"Caruana, Fabiano",g,2784,0.50,1,0.10
-R Praggnanandhaa,2025-09-01,Black,"Abdusattorov, Nodirbek",g,2771,0.50,1,-0.10
-R Praggnanandhaa,2025-09-01,White,"Sevian, Samuel",g,2683,0.50,1,-1.30
-R Praggnanandhaa,2025-09-01,Black,"Vachier-Lagrave, Maxime",g,2736,0.50,1,-0.60
-R Praggnanandhaa,2025-09-01,White,"Duda, Jan-Krzysztof",g,2725,0.50,1,-0.80
-R Praggnanandhaa,2025-09-01,Black,"Firouzja, Alireza",g,2766,1.00,1,4.80
-R Praggnanandhaa,2025-09-01,White,"So, Wesley",g,2745,0.50,1,-0.50
-R Praggnanandhaa,2025-09-01,Black,"Aronian, Levon",g,2737,0.50,1,-0.60
-R Praggnanandhaa,2025-10-01,Black,"Xiong, Jeffery",g,2640,0.50,1,-1.90
-R Praggnanandhaa,2025-10-01,White,"Zemlyanskii, Ivan",f,2586,1.00,1,2.40
-R Praggnanandhaa,2025-10-01,Black,"Gelfand, Boris",g,2652,1.00,1,3.20
-R Praggnanandhaa,2025-10-01,White,"Mishra, Abhimanyu",g,2611,0.50,1,-2.30
-R Praggnanandhaa,2025-10-01,Black,"Bluebaum, Matthias",g,2671,0.00,1,-6.60
-R Praggnanandhaa,2025-10-01,White,"Mamedov, Rauf",g,2651,0.50,1,-1.80
-R Praggnanandhaa,2025-10-01,White,"Rodshtein, Maxim",g,2645,1.00,1,3.10
-R Praggnanandhaa,2025-10-01,Black,"Rapport, Richard",g,2711,0.50,1,-1.00
-R Praggnanandhaa,2025-10-01,White,"Liang, Awonder",g,2698,0.50,1,-1.20
-R Praggnanandhaa,2025-10-01,Black,"Niemann, Hans Moke",g,2733,0.00,1,-5.70
-R Praggnanandhaa,2025-10-01,Black,"Theodorou, Nikolas",g,2646,0.50,1,-1.90
-R Praggnanandhaa,2025-11-01,White,"Vachier-Lagrave, Maxime",g,2738,0.50,1,-0.70
-R Praggnanandhaa,2025-11-01,Black,"Vachier-Lagrave, Maxime",g,2738,0.50,1,-0.70
-R Praggnanandhaa,2025-11-01,Black,"Aronian, Levon",g,2744,0.50,1,-0.60
-R Praggnanandhaa,2025-11-01,White,"Aronian, Levon",g,2744,0.50,1,-0.60
-R Praggnanandhaa,2025-12-01,White,"Kuybokarov, Temur",g,2535,0.50,1,-2.90
-R Praggnanandhaa,2025-12-01,Black,"Kuybokarov, Temur",g,2535,0.50,1,-2.90
-R Praggnanandhaa,2025-12-01,Black,"Hovhannisyan, Robert",g,2629,0.50,1,-1.90
-R Praggnanandhaa,2025-12-01,White,"Hovhannisyan, Robert",g,2629,1.00,1,3.10
-R Praggnanandhaa,2025-12-01,White,"Dubov, Daniil",g,2674,0.50,1,-1.30
-R Praggnanandhaa,2025-12-01,Black,"Dubov, Daniil",g,2674,0.50,1,-1.30
-R Praggnanandhaa,2026-01-01,Black,"Badacsonyi, Stanley",c,2316,1.00,1,0.60
-R Praggnanandhaa,2026-01-01,White,"Gasanov, Eldar",g,2447,1.00,1,1.30
-R Praggnanandhaa,2026-01-01,Black,"Chasin, Nico",m,2512,1.00,1,1.90
-R Praggnanandhaa,2026-01-01,White,"Pranav, Anand",g,2581,0.50,1,-2.40
-R Praggnanandhaa,2026-01-01,Black,"Fodor, Tamas Jr",g,2508,0.50,1,-3.20
-R Praggnanandhaa,2026-01-01,White,"Rozen, Eytan",m,2515,1.00,1,1.90
-R Praggnanandhaa,2026-01-01,Black,"Ivic, Velimir",g,2618,0.50,1,-2.00
-R Praggnanandhaa,2026-01-01,White,"Gavrilescu, David",g,2542,1.00,1,2.10
-R Praggnanandhaa,2026-01-01,Black,"Smirin, Ilya",g,2554,0.50,1,-2.70
-Anish Giri,2024-02-01,Black,"Ju, Wenjun",g,2549,1.00,1,2.40
-Anish Giri,2024-02-01,White,"Vidit, Santosh Gujrathi",g,2742,0.50,1,-0.10
-Anish Giri,2024-02-01,Black,"Donchenko, Alexander",g,2642,1.00,1,3.50
-Anish Giri,2024-02-01,White,"Gukesh, D",g,2725,1.00,1,4.70
-Anish Giri,2024-02-01,Black,"Praggnanandhaa, R",g,2743,0.50,1,-0.10
-Anish Giri,2024-02-01,White,"Maghsoodloo, Parham",g,2740,0.50,1,-0.10
-Anish Giri,2024-02-01,Black,"Abdusattorov, Nodirbek",g,2727,0.00,1,-5.30
-Anish Giri,2024-02-01,White,"Wei, Yi",g,2740,0.50,1,-0.10
-Anish Giri,2024-02-01,Black,"Ding, Liren",g,2780,0.50,1,0.40
-Anish Giri,2024-02-01,Black,"Firouzja, Alireza",g,2759,0.50,1,0.10
-Anish Giri,2024-02-01,White,"Nepomniachtchi, Ian",g,2769,0.50,1,0.30
-Anish Giri,2024-02-01,Black,"Van Foreest, Jorden",g,2682,1.00,1,4.10
-Anish Giri,2024-02-01,White,"Warmerdam, Max",g,2625,1.00,1,3.30
-Anish Giri,2024-04-01,White,"Artemiev, Vladislav",g,2711,1.00,1,4.30
-Anish Giri,2024-04-01,Black,"Dubov, Daniil",g,2708,0.00,1,-5.80
-Anish Giri,2024-04-01,White,"Erigaisi, Arjun",g,2738,0.00,1,-5.30
-Anish Giri,2024-04-01,Black,"Bu, Xiangzhi",g,2671,0.00,1,-6.20
-Anish Giri,2024-04-01,White,"Xu, Xiangyu",g,2623,0.50,1,-1.90
-Anish Giri,2024-04-01,White,"Ma, Qun",g,2651,0.50,1,-1.50
-Anish Giri,2024-04-01,Black,"Yu, Yangyi",g,2720,0.50,1,-0.60
-Anish Giri,2024-08-01,White,"So, Wesley",g,2757,0.50,1,0.20
-Anish Giri,2024-08-01,Black,"Deac, Bogdan-Daniel",g,2680,0.50,1,-0.90
-Anish Giri,2024-08-01,White,"Nepomniachtchi, Ian",g,2770,0.50,1,0.30
-Anish Giri,2024-08-01,Black,"Praggnanandhaa, R",g,2747,0.00,1,-5.00
-Anish Giri,2024-08-01,White,"Firouzja, Alireza",g,2737,0.50,1,-0.10
-Anish Giri,2024-08-01,Black,"Abdusattorov, Nodirbek",g,2766,0.50,1,0.30
-Anish Giri,2024-08-01,White,"Vachier-Lagrave, Maxime",g,2732,0.50,1,-0.20
-Anish Giri,2024-08-01,Black,"Gukesh, D",g,2763,0.50,1,0.30
-Anish Giri,2024-08-01,White,"Caruana, Fabiano",g,2805,1.00,1,5.80
-Anish Giri,2024-09-01,Black,"Niemann, Hans Moke",g,2711,1.00,1,4.50
-Anish Giri,2024-09-01,White,"Niemann, Hans Moke",g,2711,0.50,1,-0.50
-Anish Giri,2024-09-01,Black,"Niemann, Hans Moke",g,2711,0.00,1,-5.50
-Anish Giri,2024-09-01,White,"Niemann, Hans Moke",g,2711,0.00,1,-5.50
-Anish Giri,2024-09-01,Black,"Niemann, Hans Moke",g,2711,0.50,1,-0.50
-Anish Giri,2024-09-01,White,"Niemann, Hans Moke",g,2711,0.50,1,-0.50
-Anish Giri,2024-10-01,Black,"El Jawich, Amro",f,2324*,1.00,1,0.80
-Anish Giri,2024-10-01,White,"Dardha, Daniel",g,2603,0.50,1,-1.60
-Anish Giri,2024-10-01,Black,"Lodici, Lorenzo",g,2556,0.00,1,-7.20
-Anish Giri,2024-10-01,White,"Romanov, Evgeny",g,2567,1.00,1,2.90
-Anish Giri,2024-10-01,Black,"Albornoz Cabrera, Carlos Daniel",g,2579,0.50,1,-1.90
-Anish Giri,2024-10-01,White,"Brkic, Ante",g,2642,1.00,1,3.90
-Anish Giri,2024-10-01,Black,"Predke, Alexandr",g,2671,0.50,1,-0.70
-Anish Giri,2024-10-01,Black,"McHedlishvili, Mikheil",g,2574,1.00,1,3.00
-Anish Giri,2024-10-01,White,"Supi, Luis Paulo",g,2570,1.00,1,2.90
-Anish Giri,2024-10-01,Black,"Fedoseev, Vladimir",g,2692,0.50,1,-0.40
-Anish Giri,2024-10-01,White,"Stremavicius, Titas",g,2527,1.00,1,2.50
-Anish Giri,2024-11-01,White,"Beerdsen, Thomas",g,2509,1.00,1,2.30
-Anish Giri,2024-11-01,White,"Predojevic, Borki",g,2567,1.00,1,2.90
-Anish Giri,2025-01-01,White,"Kempinski, Robert",g,2560,0.50,1,-2.30
-Anish Giri,2025-02-01,Black,"McShane, Luke J",g,2609,0.50,1,-1.70
-Anish Giri,2025-02-01,White,"Howell, David W L",g,2673,0.50,1,-0.80
-Anish Giri,2025-03-01,Black,"Gukesh, D",g,2777,0.00,1,-4.40
-Anish Giri,2025-03-01,Black,"Erigaisi, Arjun",g,2801,0.50,1,1.00
-Anish Giri,2025-03-01,White,"Fedoseev, Vladimir",g,2717,0.50,1,-0.20
-Anish Giri,2025-03-01,Black,"Caruana, Fabiano",g,2803,0.50,1,1.00
-Anish Giri,2025-03-01,White,"Sarana, Alexey",g,2677,0.50,1,-0.80
-Anish Giri,2025-03-01,Black,"Keymer, Vincent",g,2733,0.50,1,0.00
-Anish Giri,2025-03-01,White,"Abdusattorov, Nodirbek",g,2768,0.50,1,0.50
-Anish Giri,2025-03-01,Black,"Harikrishna, Pentala",g,2695,0.50,1,-0.50
-Anish Giri,2025-03-01,White,"Praggnanandhaa, R",g,2741,1.00,1,5.10
-Anish Giri,2025-03-01,Black,"Mendonca, Leon Luke",g,2639,0.50,1,-1.30
-Anish Giri,2025-03-01,White,"Warmerdam, Max",g,2646,1.00,1,3.80
-Anish Giri,2025-03-01,Black,"Wei, Yi",g,2751,0.50,1,0.30
-Anish Giri,2025-03-01,White,"Van Foreest, Jorden",g,2680,0.50,1,-0.70
-Anish Giri,2025-04-01,Black,"Le, Quang Liem",g,2739,0.50,1,0.20
-Anish Giri,2025-04-01,Black,"Wei, Yi",g,2755,0.50,1,0.40
-Anish Giri,2025-04-01,White,"Navara, David",g,2677,0.50,1,-0.70
-Anish Giri,2025-04-01,Black,"Gurel, Ediz",g,2624,0.50,1,-1.40
-Anish Giri,2025-04-01,White,"Nguyen, Thai Dai Van",g,2668,0.50,1,-0.80
-Anish Giri,2025-04-01,Black,"Keymer, Vincent",g,2731,0.50,1,0.00
-Anish Giri,2025-04-01,White,"Aravindh, Chithambaram Vr.",g,2729,0.00,1,-5.00
-Anish Giri,2025-04-01,Black,"Shankland, Sam",g,2670,1.00,1,4.20
-Anish Giri,2025-04-01,White,"Praggnanandhaa, R",g,2741,1.00,1,5.20
-Anish Giri,2025-05-01,White,"Ragger, Markus",g,2585,1.00,1,3.00
-Anish Giri,2025-05-01,Black,"Kraemer, Martin",g,2577,0.50,1,-2.10
-Anish Giri,2025-05-01,Black,"Maghsoodloo, Parham",g,2684,0.50,1,-0.80
-Anish Giri,2025-06-01,White,"Jumabayev, Rinat",g,2551,1.00,1,2.60
-Anish Giri,2025-06-01,Black,"Karthik, Venkataraman",g,2565,0.50,1,-2.30
-Anish Giri,2025-06-01,White,"Pranav, Anand",g,2555,1.00,1,2.60
-Anish Giri,2025-06-01,Black,"Zemlyanskii, Ivan",f,2563,1.00,1,2.70
-Anish Giri,2025-06-01,White,"Indjic, Aleksandar",g,2637,0.50,1,-1.40
-Anish Giri,2025-06-01,Black,"Maghsoodloo, Parham",g,2706,1.00,1,4.60
-Anish Giri,2025-06-01,White,"Abdusattorov, Nodirbek",g,2771,0.50,1,0.50
-Anish Giri,2025-06-01,Black,"Ivic, Velimir",g,2630,0.50,1,-1.50
-Anish Giri,2025-06-01,White,"Aditya, Mittal",g,2547,1.00,1,2.50
-Anish Giri,2025-09-01,White,"Robson, Ray",g,2687,0.50,1,-0.80
-Anish Giri,2025-09-01,Black,"Nihal, Sarin",g,2692,0.50,1,-0.80
-Anish Giri,2025-09-01,White,"Pranav, V",g,2597,0.50,1,-2.00
-Anish Giri,2025-09-01,Black,"Keymer, Vincent",g,2730,0.50,1,-0.30
-Anish Giri,2025-09-01,White,"Karthikeyan, Murali",g,2658,0.50,1,-1.20
-Anish Giri,2025-09-01,White,"Vidit, Santosh Gujrathi",g,2720,0.50,1,-0.40
-Anish Giri,2025-09-01,Black,"Erigaisi, Arjun",g,2776,0.50,1,0.40
-Anish Giri,2025-09-01,White,"Liang, Awonder",g,2696,0.50,1,-0.70
-Anish Giri,2025-09-01,Black,"Van Foreest, Jorden",g,2697,1.00,1,4.30
-Anish Giri,2025-10-01,Black,"Hovhannisyan, Robert",g,2629,1.00,1,3.40
-Anish Giri,2025-10-01,White,"Salem, A.r. Saleh",g,2640,0.50,1,-1.40
-Anish Giri,2025-10-01,White,"Svane, Frederik",g,2643,0.50,1,-1.40
-Anish Giri,2025-10-01,Black,"Cheparinov, Ivan",g,2627,0.50,1,-1.60
-Anish Giri,2025-10-01,White,"Oparin, Grigoriy",g,2660,1.00,1,3.80
-Anish Giri,2025-10-01,Black,"Maurizzi, Marcandria",g,2610,1.00,1,3.20
-Anish Giri,2025-10-01,White,"Mishra, Abhimanyu",g,2611,0.50,1,-1.80
-Anish Giri,2025-10-01,Black,"Maghsoodloo, Parham",g,2692,0.50,1,-0.80
-Anish Giri,2025-10-01,White,"Van Foreest, Jorden",g,2692,1.00,1,4.20
-Anish Giri,2025-10-01,Black,"Firouzja, Alireza",g,2754,0.50,1,0.10
-Anish Giri,2025-10-01,White,"Niemann, Hans Moke",g,2733,1.00,1,4.80
-Anish Giri,2025-11-01,Black,"Naiditsch, Arkadij",g,2587,1.00,1,2.70
-Anish Giri,2025-11-01,White,"Wojtaszek, Radoslaw",g,2654,0.50,1,-1.40
-Anish Giri,2025-11-01,White,"Deac, Bogdan-Daniel",g,2655,0.50,1,-1.40
-Anish Giri,2025-11-01,Black,"Mamedyarov, Shakhriyar",g,2742,0.50,1,-0.20
-Anish Giri,2025-11-01,Black,"Shirov, Alexei",g,2636,1.00,1,3.30
-Anish Giri,2025-11-01,White,"Predke, Alexandr",g,2634,1.00,1,3.30
-Anish Giri,2025-11-01,White,"Ponomariov, Ruslan",g,2633,0.50,1,-1.70
-Anish Giri,2025-11-01,Black,"Vitiugov, Nikita",g,2654,0.50,1,-1.40
-Anish Giri,2025-11-01,Black,"Keymer, Vincent",g,2755,0.50,1,-0.10
-Anish Giri,2025-12-01,Black,"Maksimovic, Bojan",g,2532,0.50,1,-3.00
-Anish Giri,2025-12-01,White,"Maksimovic, Bojan",g,2532,1.00,1,2.00
-Anish Giri,2025-12-01,White,"Donchenko, Alexander",g,2641,0.50,1,-1.70
-Anish Giri,2025-12-01,Black,"Donchenko, Alexander",g,2641,0.00,1,-6.70
-Wei Yi,2024-02-01,Black,"Donchenko, Alexander",g,2642,1.00,1,3.70
-Wei Yi,2024-02-01,White,"Gukesh, D",g,2725,0.00,1,-5.20
-Wei Yi,2024-02-01,Black,"Praggnanandhaa, R",g,2743,0.50,1,0.00
-Wei Yi,2024-02-01,White,"Maghsoodloo, Parham",g,2740,1.00,1,5.00
-Wei Yi,2024-02-01,Black,"Abdusattorov, Nodirbek",g,2727,0.50,1,-0.20
-Wei Yi,2024-02-01,Black,"Firouzja, Alireza",g,2759,0.00,1,-4.70
-Wei Yi,2024-02-01,White,"Ding, Liren",g,2780,0.50,1,0.60
-Wei Yi,2024-02-01,Black,"Giri, Anish",g,2749,0.50,1,0.10
-Wei Yi,2024-02-01,White,"Nepomniachtchi, Ian",g,2769,1.00,1,5.40
-Wei Yi,2024-02-01,Black,"Van Foreest, Jorden",g,2682,0.50,1,-0.80
-Wei Yi,2024-02-01,White,"Warmerdam, Max",g,2625,1.00,1,3.40
-Wei Yi,2024-02-01,Black,"Ju, Wenjun",g,2549,1.00,1,2.50
-Wei Yi,2024-02-01,White,"Vidit, Santosh Gujrathi",g,2742,1.00,1,5.00
-Wei Yi,2024-08-01,White,"Li, Chao B",g,2645,1.00,1,3.50
-Wei Yi,2024-08-01,White,"Xu, Pengmo",,2355*,1.00,1,0.80
-Wei Yi,2024-08-01,White,"Cao, Qingfeng",,2355*,1.00,1,0.80
-Wei Yi,2024-08-01,White,"Liu, Qingnan",g,2540,1.00,1,2.30
-Wei Yi,2024-10-01,Black,"Dominguez, Jose Manuel",m,2362*,1.00,1,0.80
-Wei Yi,2024-10-01,White,"Demchenko, Anton",g,2597,1.00,1,2.80
-Wei Yi,2024-10-01,Black,"Sargsyan, Shant",g,2649,0.50,1,-1.50
-Wei Yi,2024-10-01,White,"Anton Guijarro, David",g,2665,1.00,1,3.70
-Wei Yi,2024-10-01,Black,"Nguyen, Ngoc Truong Son",g,2633,0.50,1,-1.70
-Wei Yi,2024-10-01,Black,"Gukesh, D",g,2764,0.00,1,-5.00
-Wei Yi,2024-10-01,White,"Deac, Bogdan-Daniel",g,2680,0.50,1,-1.10
-Wei Yi,2024-10-01,Black,"Tabatabaei, M. Amin",g,2714,1.00,1,4.30
-Wei Yi,2024-10-01,White,"Yakubboev, Nodirbek",g,2666,1.00,1,3.70
-Wei Yi,2024-10-01,Black,"So, Wesley",g,2752,0.00,1,-5.10
-Wei Yi,2024-11-01,White,"Ostlund, Joar",c,2363*,1.00,1,0.80
-Wei Yi,2024-11-01,Black,"Sahidi, Samir",m,2481,1.00,1,1.60
-Wei Yi,2024-11-01,White,"Steinberg, Nitzan",g,2554,0.50,1,-2.70
-Wei Yi,2024-11-01,Black,"Yakubboev, Nodirbek",g,2654,0.00,1,-6.50
-Wei Yi,2024-11-01,Black,"Maghsoodloo, Parham",g,2719,0.00,1,-5.60
-Wei Yi,2024-11-01,White,"Keymer, Vincent",g,2721,0.50,1,-0.60
-Wei Yi,2024-11-01,White,"Maurizzi, Marc Andria",g,2594,1.00,1,2.80
-Wei Yi,2025-01-01,Black,"Huschenbeth, Niclas",g,2594,0.50,1,-2.10
-Wei Yi,2025-02-01,White,"Ivic, Velimir",g,2620,1.00,1,3.20
-Wei Yi,2025-02-01,Black,"Carlsen, Magnus",g,2831,0.50,1,1.10
-Wei Yi,2025-03-01,White,"Caruana, Fabiano",g,2803,0.50,1,0.70
-Wei Yi,2025-03-01,Black,"Sarana, Alexey",g,2677,0.50,1,-1.00
-Wei Yi,2025-03-01,White,"Keymer, Vincent",g,2733,0.50,1,-0.30
-Wei Yi,2025-03-01,Black,"Abdusattorov, Nodirbek",g,2768,0.50,1,0.20
-Wei Yi,2025-03-01,White,"Harikrishna, Pentala",g,2695,0.50,1,-0.80
-Wei Yi,2025-03-01,Black,"Praggnanandhaa, R",g,2741,0.50,1,-0.10
-Wei Yi,2025-03-01,White,"Mendonca, Leon Luke",g,2639,0.50,1,-1.50
-Wei Yi,2025-03-01,Black,"Warmerdam, Max",g,2646,1.00,1,3.60
-Wei Yi,2025-03-01,White,"Erigaisi, Arjun",g,2801,0.50,1,0.70
-Wei Yi,2025-03-01,White,"Van Foreest, Jorden",g,2680,0.50,1,-1.00
-Wei Yi,2025-03-01,Black,"Gukesh, D",g,2777,0.50,1,0.40
-Wei Yi,2025-03-01,White,"Giri, Anish",g,2731,0.50,1,-0.30
-Wei Yi,2025-03-01,Black,"Fedoseev, Vladimir",g,2717,0.50,1,-0.50
-Wei Yi,2025-04-01,Black,"Keymer, Vincent",g,2731,0.00,1,-5.30
-Wei Yi,2025-04-01,White,"Giri, Anish",g,2728,0.50,1,-0.40
-Wei Yi,2025-04-01,Black,"Aravindh, Chithambaram Vr.",g,2729,0.00,1,-5.40
-Wei Yi,2025-04-01,White,"Navara, David",g,2677,1.00,1,3.90
-Wei Yi,2025-04-01,Black,"Shankland, Sam",g,2670,1.00,1,3.80
-Wei Yi,2025-04-01,White,"Gurel, Ediz",g,2624,0.50,1,-1.80
-Wei Yi,2025-04-01,Black,"Praggnanandhaa, R",g,2741,0.50,1,-0.20
-Wei Yi,2025-04-01,White,"Nguyen, Thai Dai Van",g,2668,1.00,1,3.80
-Wei Yi,2025-04-01,Black,"Le, Quang Liem",g,2739,0.50,1,-0.20
-Wei Yi,2025-07-01,White,"Erigaisi, Arjun",g,2782,0.50,1,0.30
-Wei Yi,2025-07-01,White,"Caruana, Fabiano",g,2776,0.00,1,-4.70
-Wei Yi,2025-07-01,Black,"Carlsen, Magnus",g,2837,0.50,1,1.10
-Wei Yi,2025-07-01,Black,"Nakamura, Hikaru",g,2804,0.50,1,0.60
-Wei Yi,2025-07-01,White,"Gukesh, D",g,2787,0.50,1,0.40
-Wei Yi,2025-07-01,Black,"Erigaisi, Arjun",g,2782,0.50,1,0.30
-Wei Yi,2025-07-01,Black,"Caruana, Fabiano",g,2776,0.00,1,-4.70
-Wei Yi,2025-07-01,White,"Carlsen, Magnus",g,2837,0.50,1,1.10
-Wei Yi,2025-07-01,Black,"Gukesh, D",g,2787,0.00,1,-4.60
-Wei Yi,2025-07-01,White,"Nakamura, Hikaru",g,2804,0.50,1,0.60
-Wei Yi,2025-08-01,White,"Aronian, Levon",g,2742,0.50,1,-0.10
-Wei Yi,2025-08-01,Black,"Aronian, Levon",g,2742,0.50,1,-0.10
-Wei Yi,2025-08-01,White,"Aronian, Levon",g,2742,1.00,1,4.90
-Wei Yi,2025-08-01,Black,"Aronian, Levon",g,2742,0.50,1,-0.10
-Wei Yi,2025-10-01,White,"Zhu, Hengyi",,2386,1.00,1,1.00
-Wei Yi,2025-10-01,White,"Yu, Yangyi",g,2714,0.50,1,-0.50
-Wei Yi,2025-11-01,White,"Wang, Shixu B",m,2402,1.00,1,1.10
-Wei Yi,2025-11-01,White,"Jiang, Haochen",m,2457,0.50,1,-3.50
-Wei Yi,2025-11-01,White,"Huang, Renjie",,2502,0.50,1,-3.10
-Wei Yi,2025-11-01,White,"Chen, Zhi",,2223,1.00,1,0.30
-Wei Yi,2025-12-01,White,"Piorun, Kacper",g,2557,1.00,1,2.50
-Wei Yi,2025-12-01,Black,"Piorun, Kacper",g,2557,1.00,1,2.50
-Wei Yi,2025-12-01,Black,"Gledura, Benjamin",g,2647,0.50,1,-1.40
-Wei Yi,2025-12-01,White,"Gledura, Benjamin",g,2647,0.50,1,-1.40
-Wei Yi,2025-12-01,White,"Maghsoodloo, Parham",g,2701,0.50,1,-0.70
-Wei Yi,2025-12-01,Black,"Maghsoodloo, Parham",g,2701,0.50,1,-0.70
-Wei Yi,2025-12-01,Black,"Sevian, Samuel",g,2701,0.50,1,-0.70
-Wei Yi,2025-12-01,White,"Sevian, Samuel",g,2701,1.00,1,4.30
-Wei Yi,2025-12-01,White,"Erigaisi, Arjun",g,2769,0.50,1,0.20
-Wei Yi,2025-12-01,Black,"Erigaisi, Arjun",g,2769,0.50,1,0.20
-Wei Yi,2025-12-01,White,"Esipenko, Andrey",g,2681,0.50,1,-1.00
-Wei Yi,2025-12-01,Black,"Esipenko, Andrey",g,2681,0.50,1,-1.00
-Wei Yi,2025-12-01,Black,"Sindarov, Javokhir",g,2721,0.50,1,-0.40
-Wei Yi,2025-12-01,White,"Sindarov, Javokhir",g,2721,0.50,1,-0.40
-Javokhir Sindarov,2024-04-01,White,"Belyakov, Bogdan",m,2414,1.00,1,1.60
-Javokhir Sindarov,2024-04-01,Black,"Saydaliev, Saidakbar",m,2445,0.50,1,-3.10
-Javokhir Sindarov,2024-04-01,White,"Shubin, Kirill",m,2459,0.50,1,-3.00
-Javokhir Sindarov,2024-04-01,Black,"Ohanyan, Emin",g,2490,1.00,1,2.30
-Javokhir Sindarov,2024-04-01,White,"Gareyev, Timur",g,2558,0.00,1,-6.90
-Javokhir Sindarov,2024-04-01,Black,"Savchenko, Boris",g,2480,0.00,1,-7.80
-Javokhir Sindarov,2024-06-01,White,"Ansat, Aldiyar",m,2421,1.00,1,1.80
-Javokhir Sindarov,2024-06-01,Black,"Miladinovic, Igor",g,2489,0.50,1,-2.50
-Javokhir Sindarov,2024-06-01,White,"Iniyan, Pa",g,2493,0.50,1,-2.50
-Javokhir Sindarov,2024-06-01,Black,"Lashkin, Jegor",f,2449,1.00,1,2.10
-Javokhir Sindarov,2024-06-01,White,"Vakhidov, Jakhongir",g,2599,0.50,1,-1.20
-Javokhir Sindarov,2024-06-01,Black,"Ju, Wenjun",g,2559,0.50,1,-1.70
-Javokhir Sindarov,2024-06-01,White,"Ghosh, Diptayan",g,2560,0.00,1,-6.70
-Javokhir Sindarov,2024-06-01,Black,"Tarhan, Adar",m,2458,0.50,1,-2.90
-Javokhir Sindarov,2024-07-01,Black,"Yu, Yangyi",g,2715,0.50,1,0.70
-Javokhir Sindarov,2024-07-01,White,"Rapport, Richard",g,2715,0.50,1,0.70
-Javokhir Sindarov,2024-07-01,Black,"Vidit, Santosh Gujrathi",g,2721,0.50,1,0.70
-Javokhir Sindarov,2024-07-01,White,"Abdusattorov, Nodirbek",g,2766,1.00,1,6.30
-Javokhir Sindarov,2024-07-01,Black,"Maghsoodloo, Parham",g,2733,0.50,1,0.90
-Javokhir Sindarov,2024-07-01,White,"Mamedyarov, Shakhriyar",g,2734,0.50,1,0.90
-Javokhir Sindarov,2024-07-01,Black,"Yakubboev, Nodirbek",g,2634,0.50,1,-0.50
-Javokhir Sindarov,2024-07-01,Black,"Sarana, Alexey",g,2712,0.00,1,-4.40
-Javokhir Sindarov,2024-07-01,White,"Grischuk, Alexander",g,2719,0.50,1,0.70
-Javokhir Sindarov,2024-09-01,White,"Hari, Madhavan N B",m,2386,1.00,1,1.60
-Javokhir Sindarov,2024-09-01,Black,"Prraneeth, Vuppala",c,2456,0.50,1,-2.80
-Javokhir Sindarov,2024-09-01,White,"Barp, Alberto",m,2452,1.00,1,2.20
-Javokhir Sindarov,2024-09-01,White,"Srihari, L R",m,2500,1.00,1,2.70
-Javokhir Sindarov,2024-09-01,Black,"Pranav, V",g,2598,0.50,1,-1.00
-Javokhir Sindarov,2024-09-01,Black,"Tin, Jingyao",g,2575,0.50,1,-1.40
-Javokhir Sindarov,2024-09-01,White,"Mendonca, Leon Luke",g,2621,0.50,1,-0.70
-Javokhir Sindarov,2024-09-01,White,"Adhiban, B.",g,2532,1.00,1,3.10
-Javokhir Sindarov,2024-09-01,Black,"Sadhwani, Raunak",g,2653,0.50,1,-0.30
-Javokhir Sindarov,2024-10-01,Black,"Wafa, Hamed",m,2368,0.50,1,-3.60
-Javokhir Sindarov,2024-10-01,White,"Livaic, Leon",g,2550,1.00,1,3.30
-Javokhir Sindarov,2024-10-01,Black,"Le, Tuan Minh",g,2564,0.00,1,-6.50
-Javokhir Sindarov,2024-10-01,White,"Bologan, Victor",g,2598,1.00,1,3.90
-Javokhir Sindarov,2024-10-01,Black,"Nabaty, Tamir",g,2630,0.00,1,-5.70
-Javokhir Sindarov,2024-10-01,White,"Ponomariov, Ruslan",g,2654,1.00,1,4.70
-Javokhir Sindarov,2024-10-01,Black,"Indjic, Aleksandar",g,2611,0.50,1,-0.90
-Javokhir Sindarov,2024-10-01,White,"Praggnanandhaa, R",g,2750,0.50,1,1.00
-Javokhir Sindarov,2024-10-01,White,"Yu, Yangyi",g,2703,0.00,1,-4.60
-Javokhir Sindarov,2024-10-01,White,"Fressinet, Laurent",g,2616,0.50,1,-0.80
-Javokhir Sindarov,2024-11-01,Black,"Buckels, Valentin",m,2448,1.00,1,2.10
-Javokhir Sindarov,2024-11-01,Black,"Kadric, Denis",g,2553,1.00,1,3.30
-Javokhir Sindarov,2025-01-01,White,"Goltseva, Ekaterina",f,2378,1.00,1,1.40
-Javokhir Sindarov,2025-01-01,Black,"Chu, Wei Chao",m,2419,1.00,1,1.80
-Javokhir Sindarov,2025-01-01,White,"Nikitenko, Mihail",g,2490,1.00,1,2.50
-Javokhir Sindarov,2025-01-01,Black,"Nigmatov, Ortik",m,2447,0.50,1,-2.90
-Javokhir Sindarov,2025-01-01,White,"Zemlyanskii, Ivan",f,2543,1.00,1,3.10
-Javokhir Sindarov,2025-01-01,Black,"Abdusattorov, Nodirbek",g,2777,0.50,1,1.30
-Javokhir Sindarov,2025-01-01,White,"Sankalp, Gupta",g,2539,1.00,1,3.10
-Javokhir Sindarov,2025-01-01,Black,"Nihal, Sarin",g,2676,0.00,1,-5.10
-Javokhir Sindarov,2025-01-01,White,"Neelash, Saha",m,2458,1.00,1,2.20
-Javokhir Sindarov,2025-02-01,White,"Areshchenko, Alexander",g,2606,1.00,1,3.80
-Javokhir Sindarov,2025-02-01,Black,"Christiansen, Johan-Sebastian",g,2664,1.00,1,4.60
-Javokhir Sindarov,2025-03-01,White,"Vachier-Lagrave, Maxime",g,2729,1.00,1,5.40
-Javokhir Sindarov,2025-03-01,Black,"Banusz, Tamas",g,2582,1.00,1,3.40
-Javokhir Sindarov,2025-03-01,White,"Delchev, Aleksander",g,2465,1.00,1,2.10
-Javokhir Sindarov,2025-03-01,Black,"Johansson, Linus",m,2386,0.50,1,-3.60
-Javokhir Sindarov,2025-04-01,Black,"Neef, Maximilian",m,2468,0.50,1,-3.00
-Javokhir Sindarov,2025-04-01,White,"Rakotomaharo, Fy Antenaina",m,2438,1.00,1,1.70
-Javokhir Sindarov,2025-05-01,Black,"Andersen, Mads",g,2576,0.50,1,-1.80
-Javokhir Sindarov,2025-05-01,White,"Krejci, Jan",g,2508,1.00,1,2.40
-Javokhir Sindarov,2025-05-01,White,"Sarana, Alexey",g,2672,0.50,1,-0.50
-Javokhir Sindarov,2025-06-01,Black,"Tan, Zhongyi",g,2536,1.00,1,2.80
-Javokhir Sindarov,2025-06-01,White,"Robson, Ray",g,2692,0.50,1,-0.20
-Javokhir Sindarov,2025-06-01,Black,"Erdogmus, Yagiz Kaan",g,2618,0.50,1,-1.20
-Javokhir Sindarov,2025-06-01,White,"L`ami, Erwin",g,2621,1.00,1,3.80
-Javokhir Sindarov,2025-06-01,Black,"Rapport, Richard",g,2722,0.50,1,0.20
-Javokhir Sindarov,2025-06-01,White,"Grandelius, Nils",g,2637,0.50,1,-1.00
-Javokhir Sindarov,2025-06-01,Black,"Ivanchuk, Vasyl",g,2644,0.50,1,-0.90
-Javokhir Sindarov,2025-07-01,Black,"Nepomniachtchi, Ian",g,2757,1.00,1,5.70
-Javokhir Sindarov,2025-07-01,White,"Abdusattorov, Nodirbek",g,2767,0.50,1,0.80
-Javokhir Sindarov,2025-07-01,Black,"Vokhidov, Shamsiddin",g,2644,0.50,1,-0.90
-Javokhir Sindarov,2025-07-01,Black,"Praggnanandhaa, R",g,2767,0.00,1,-4.20
-Javokhir Sindarov,2025-07-01,White,"Rapport, Richard",g,2714,1.00,1,5.10
-Javokhir Sindarov,2025-07-01,Black,"Erigaisi, Arjun",g,2782,0.50,1,1.00
-Javokhir Sindarov,2025-07-01,White,"Aravindh, Chithambaram Vr.",g,2749,1.00,1,5.50
-Javokhir Sindarov,2025-07-01,Black,"Yakubboev, Nodirbek",g,2659,0.50,1,-0.70
-Javokhir Sindarov,2025-07-01,White,"Maghsoodloo, Parham",g,2691,0.50,1,-0.30
-Javokhir Sindarov,2025-10-01,White,"Hakobyan, Aram",g,2625,0.50,1,-1.30
-Javokhir Sindarov,2025-10-01,Black,"Svane, Rasmus",g,2620,0.50,1,-1.40
-Javokhir Sindarov,2025-10-01,White,"Cheparinov, Ivan",g,2627,0.00,1,-6.30
-Javokhir Sindarov,2025-10-01,Black,"Dardha, Daniel",g,2624,0.50,1,-1.30
-Javokhir Sindarov,2025-10-01,White,"Goryachkina, Aleksandra",g,2528,1.00,1,2.50
-Javokhir Sindarov,2025-10-01,Black,"Salem, A.r. Saleh",g,2640,0.50,1,-1.10
-Javokhir Sindarov,2025-10-01,White,"Hovhannisyan, Robert",g,2629,1.00,1,3.70
-Javokhir Sindarov,2025-10-01,Black,"Puranik, Abhimanyu",g,2640,0.50,1,-1.10
-Javokhir Sindarov,2025-10-01,White,"Chigaev, Maksim",g,2638,1.00,1,3.80
-Javokhir Sindarov,2025-10-01,Black,"Van Foreest, Jorden",g,2692,0.50,1,-0.40
-Javokhir Sindarov,2025-10-01,White,"Sargsyan, Shant",g,2653,0.50,1,-1.00
-Javokhir Sindarov,2025-12-01,Black,"Petrov, Nikita",g,2582,1.00,1,3.10
-Javokhir Sindarov,2025-12-01,White,"Petrov, Nikita",g,2582,0.50,1,-1.90
-Javokhir Sindarov,2025-12-01,White,"Theodorou, Nikolas",g,2656,0.50,1,-0.90
-Javokhir Sindarov,2025-12-01,Black,"Theodorou, Nikolas",g,2656,1.00,1,4.10
-Javokhir Sindarov,2025-12-01,Black,"Yu, Yangyi",g,2726,0.50,1,0.10
-Javokhir Sindarov,2025-12-01,White,"Yu, Yangyi",g,2726,0.50,1,0.10
-Javokhir Sindarov,2025-12-01,White,"Svane, Frederik",g,2640,1.00,1,3.90
-Javokhir Sindarov,2025-12-01,Black,"Svane, Frederik",g,2640,0.50,1,-1.10
-Javokhir Sindarov,2025-12-01,White,"Martinez Alcantara, Jose Eduardo",g,2644,0.50,1,-1.10
-Javokhir Sindarov,2025-12-01,Black,"Martinez Alcantara, Jose Eduardo",g,2644,0.50,1,-1.10
-Javokhir Sindarov,2025-12-01,Black,"Yakubboev, Nodirbek",g,2689,0.50,1,-0.40
-Javokhir Sindarov,2025-12-01,White,"Yakubboev, Nodirbek",g,2689,0.50,1,-0.40
-Javokhir Sindarov,2025-12-01,White,"Wei, Yi",g,2752,0.50,1,0.40
-Javokhir Sindarov,2025-12-01,Black,"Wei, Yi",g,2752,0.50,1,0.40
-Andrey Esipenko,2024-03-01,White,"Klein, Felix",f,2288,1.00,1,0.70
-Andrey Esipenko,2024-03-01,Black,"Joachim, Sven",m,2391,0.50,1,-3.60
-Andrey Esipenko,2024-03-01,White,"Essing, Arnold",f,2304*,1.00,1,0.80
-Andrey Esipenko,2024-04-01,Black,"Stribuk, Artiom",f,2418,1.00,1,1.60
-Andrey Esipenko,2024-04-01,White,"Remizov, Yaroslav",m,2446,0.50,1,-3.10
-Andrey Esipenko,2024-04-01,Black,"Ohanyan, Emin",g,2490,0.50,1,-2.70
-Andrey Esipenko,2024-04-01,White,"Hakobyan, Erik",f,2342,1.00,1,1.00
-Andrey Esipenko,2024-04-01,Black,"Zemlyanskii, Ivan",f,2529,1.00,1,2.70
-Andrey Esipenko,2024-04-01,White,"Vokhidov, Shamsiddin",g,2596,1.00,1,3.60
-Andrey Esipenko,2024-04-01,Black,"Grischuk, Alexander",g,2732,0.50,1,0.40
-Andrey Esipenko,2024-04-01,White,"Drygalov, Sergey",g,2547,1.00,1,2.90
-Andrey Esipenko,2024-04-01,Black,"Tabatabaei, M. Amin",g,2696,0.00,1,-5.10
-Andrey Esipenko,2024-06-01,Black,"Gareyev, Timur",g,2552,0.50,1,-2.00
-Andrey Esipenko,2024-06-01,Black,"Lazavik, Denis",g,2572,0.50,1,-1.80
-Andrey Esipenko,2024-06-01,White,"Shubin, Kirill",m,2458,0.50,1,-3.00
-Andrey Esipenko,2024-06-01,Black,"Grischuk, Alexander",g,2728,0.50,1,0.30
-Andrey Esipenko,2024-06-01,White,"Kryakvin, Dmitry",g,2473,1.00,1,2.10
-Andrey Esipenko,2024-06-01,Black,"Bocharov, Dmitry",g,2522,1.00,1,2.60
-Andrey Esipenko,2024-06-01,White,"Nesterov, Arseniy",g,2589,0.50,1,-1.60
-Andrey Esipenko,2024-07-01,White,"Postny, Evgeny",g,2600,0.50,1,-1.40
-Andrey Esipenko,2024-07-01,White,"Alonso Rosell, Alvar",g,2556,0.50,1,-2.00
-Andrey Esipenko,2024-07-01,Black,"Amin, Bassem",g,2682,0.50,1,-0.30
-Andrey Esipenko,2024-07-01,White,"Demuth, Adrien",g,2506,0.50,1,-2.50
-Andrey Esipenko,2024-07-01,Black,"Ter-Sahakyan, Samvel",g,2650,0.50,1,-0.70
-Andrey Esipenko,2024-07-01,White,"Shevchenko, Kirill",g,2682,0.50,1,-0.30
-Andrey Esipenko,2024-07-01,Black,"Van Foreest, Lucas",g,2505,0.50,1,-2.60
-Andrey Esipenko,2024-07-01,White,"Aravindh, Chithambaram Vr.",g,2670,0.50,1,-0.50
-Andrey Esipenko,2024-07-01,Black,"Vitiugov, Nikita",g,2688,1.00,1,4.80
-Andrey Esipenko,2024-09-01,White,"Ponkratov, Pavel",g,2571,0.50,1,-1.40
-Andrey Esipenko,2024-09-01,Black,"Matlakov, Maxim",g,2651,0.50,1,-0.30
-Andrey Esipenko,2024-09-01,White,"Dubov, Daniil",g,2701,0.50,1,0.40
-Andrey Esipenko,2024-09-01,Black,"Artemiev, Vladislav",g,2699,0.50,1,0.40
-Andrey Esipenko,2024-09-01,White,"Makarian, Rudik",m,2537,1.00,1,3.20
-Andrey Esipenko,2024-09-01,Black,"Grebnev, Aleksey",g,2513,0.50,1,-2.10
-Andrey Esipenko,2024-09-01,White,"Najer, Evgeniy",g,2635,0.50,1,-0.50
-Andrey Esipenko,2024-09-01,White,"Grischuk, Alexander",g,2708,1.00,1,5.50
-Andrey Esipenko,2024-09-01,Black,"Dreev, Aleksey",g,2591,0.50,1,-1.10
-Andrey Esipenko,2024-09-01,White,"Nesterov, Arseniy",g,2592,1.00,1,3.90
-Andrey Esipenko,2024-09-01,Black,"Timofeev, Artyom",g,2547,0.50,1,-1.70
-Andrey Esipenko,2024-11-01,Black,"Dinstuhl, Volkmar, Dr.",m,2384,1.00,1,1.50
-Andrey Esipenko,2024-11-01,Black,"Jovanovic, Zoran",g,2525,1.00,1,3.00
-Andrey Esipenko,2025-01-01,Black,"Zwirs, Nico",m,2480,0.50,1,-2.60
-Andrey Esipenko,2025-02-01,White,"Van Foreest, Lucas",g,2526,0.50,1,-2.30
-Andrey Esipenko,2025-02-01,Black,"Maurizzi, Marc`andria",g,2579,0.50,1,-1.60
-Andrey Esipenko,2025-03-01,Black,"Rapport, Richard",g,2718,0.50,1,0.30
-Andrey Esipenko,2025-03-01,White,"Moussard, Jules",g,2595,0.00,1,-6.40
-Andrey Esipenko,2025-04-01,Black,"Sukiasyan, Vahe A.",f,2399,0.50,1,-3.50
-Andrey Esipenko,2025-04-01,White,"Putrenko, Kirill",f,2306,1.00,1,0.90
-Andrey Esipenko,2025-04-01,Black,"Uskov, Artem",m,2461,0.50,1,-2.90
-Andrey Esipenko,2025-04-01,White,"Rozum, Ivan",g,2436,1.00,1,1.90
-Andrey Esipenko,2025-04-01,Black,"Nikitenko, Mihail",g,2521,1.00,1,2.80
-Andrey Esipenko,2025-04-01,White,"Shimanov, Aleksandr",g,2593,1.00,1,3.70
-Andrey Esipenko,2025-04-01,Black,"Niemann, Hans Moke",g,2734,0.50,1,0.60
-Andrey Esipenko,2025-04-01,White,"Goganov, Aleksey",g,2472,0.50,1,-2.80
-Andrey Esipenko,2025-04-01,Black,"Grischuk, Alexander",g,2687,0.50,1,-0.10
-Andrey Esipenko,2025-05-01,Black,"Deuer, Marius",f,2464,1.00,1,2.10
-Andrey Esipenko,2025-05-01,White,"Perunovic, Milos",g,2501,0.50,1,-2.50
-Andrey Esipenko,2025-05-01,White,"Livaic, Leon",g,2536,1.00,1,2.90
-Andrey Esipenko,2025-05-01,Black,"Gschiel, Alexander",f,2317,1.00,1,0.90
-Andrey Esipenko,2025-05-01,White,"Ebner, Hubert",f,2296*,1.00,1,0.80
-Andrey Esipenko,2025-06-01,Black,"Panin, Mikhail",c,2296*,1.00,1,0.80
-Andrey Esipenko,2025-06-01,White,"Mokshanov, Alexey",m,2353,0.50,1,-3.80
-Andrey Esipenko,2025-06-01,White,"Rychkov, Oleg",f,2379,1.00,1,1.30
-Andrey Esipenko,2025-06-01,Black,"Zabotin, Alexander",m,2394,0.50,1,-3.50
-Andrey Esipenko,2025-06-01,Black,"Shomoev, Anton",g,2476,0.50,1,-2.80
-Andrey Esipenko,2025-06-01,White,"Rozum, Ivan",g,2439,1.00,1,1.80
-Andrey Esipenko,2025-07-01,Black,"Van Wely, Loek",g,2609,0.00,1,-6.20
-Andrey Esipenko,2025-07-01,Black,"Bacrot, Etienne",g,2633,0.50,1,-0.90
-Andrey Esipenko,2025-07-01,White,"Fridman, Daniel",g,2584,0.50,1,-1.50
-Andrey Esipenko,2025-07-01,Black,"David, Alberto",g,2481,0.50,1,-2.70
-Andrey Esipenko,2025-07-01,White,"Barbot, Pierre",m,2454,1.00,1,2.00
-Andrey Esipenko,2025-07-01,Black,"Girel, Joseph",g,2498,0.50,1,-2.50
-Andrey Esipenko,2025-07-01,White,"Van Foreest, Lucas",g,2530,1.00,1,2.80
-Andrey Esipenko,2025-07-01,Black,"Karthikeyan, Murali",g,2658,0.50,1,-0.50
-Andrey Esipenko,2025-07-01,Black,"Ivanchuk, Vasyl",g,2644,0.50,1,-0.70
-Andrey Esipenko,2025-08-01,Black,"Santos Latasa, Jaime",g,2620,0.50,1,-1.00
-Andrey Esipenko,2025-08-01,Black,"Kozak, Adam",g,2587,1.00,1,3.60
-Andrey Esipenko,2025-09-01,Black,"Ioannidis, Evgenios",g,2491,1.00,1,2.50
-Andrey Esipenko,2025-09-01,White,"Murzin, Volodar",g,2678,0.50,1,-0.10
-Andrey Esipenko,2025-09-01,Black,"Abasov, Nijat",g,2578,0.50,1,-1.40
-Andrey Esipenko,2025-09-01,White,"Makarian, Rudik",m,2549,1.00,1,3.20
-Andrey Esipenko,2025-09-01,Black,"Tiglon, Bryce",g,2545,0.50,1,-1.80
-Andrey Esipenko,2025-09-01,Black,"Andreikin, Dmitry",g,2695,0.50,1,0.20
-Andrey Esipenko,2025-09-01,White,"Kuru, Atilla",f,2435,1.00,1,1.90
-Andrey Esipenko,2025-09-01,White,"Mamedyarov, Shakhriyar",g,2746,0.50,1,0.90
-Andrey Esipenko,2025-10-01,Black,"Mendonca, Leon Luke",g,2615,0.50,1,-1.00
-Andrey Esipenko,2025-10-01,White,"Korobov, Anton",g,2616,1.00,1,4.00
-Andrey Esipenko,2025-10-01,Black,"Henriquez Villagra, Cristobal",g,2594,0.50,1,-1.30
-Andrey Esipenko,2025-10-01,White,"Suleymanli, Aydin",g,2602,0.50,1,-1.20
-Andrey Esipenko,2025-10-01,Black,"Pranav, V",g,2596,0.00,1,-6.20
-Andrey Esipenko,2025-10-01,White,"Volokitin, Andrei",g,2628,1.00,1,4.20
-Andrey Esipenko,2025-10-01,Black,"Shirov, Alexei",g,2616,0.50,1,-1.00
-Andrey Esipenko,2025-10-01,White,"Gurel, Ediz",g,2631,0.50,1,-0.80
-Andrey Esipenko,2025-10-01,Black,"Anton Guijarro, David",g,2625,0.50,1,-0.90
-Andrey Esipenko,2025-10-01,White,"Sjugirov, Sanan",g,2627,1.00,1,4.20
-Andrey Esipenko,2025-10-01,White,"Nepomniachtchi, Ian",g,2742,1.00,1,5.80
-Andrey Esipenko,2025-11-01,White,"Artemiev, Vladislav",g,2646,0.50,1,-0.70
-Andrey Esipenko,2025-11-01,Black,"Lobanov, Sergei",g,2526,0.50,1,-2.20
-Andrey Esipenko,2025-11-01,White,"Iljiushenok, Ilia",g,2514,0.50,1,-2.30
-Andrey Esipenko,2025-11-01,Black,"Uskov, Artem",g,2498,0.50,1,-2.50
-Andrey Esipenko,2025-11-01,White,"Malakhov, Vladimir",g,2643,1.00,1,4.30
-Andrey Esipenko,2025-11-01,Black,"Zvjaginsev, Vadim",g,2528,0.50,1,-2.20
-Andrey Esipenko,2025-11-01,White,"Ponkratov, Pavel",g,2586,0.50,1,-1.50
-Andrey Esipenko,2025-11-01,Black,"Zemlyanskii, Ivan",f,2596,0.50,1,-1.30
-Andrey Esipenko,2025-11-01,White,"Nesterov, Arseniy",g,2584,0.50,1,-1.50
-Andrey Esipenko,2025-11-01,Black,"Dubov, Daniil",g,2684,0.50,1,-0.10
-Andrey Esipenko,2025-11-01,White,"Vetokhin, Savva",g,2569,0.50,1,-1.70
-Andrey Esipenko,2025-12-01,White,"Abasov, Nijat",g,2587,1.00,1,3.70
-Andrey Esipenko,2025-12-01,Black,"Abasov, Nijat",g,2587,1.00,1,3.70
-Andrey Esipenko,2025-12-01,Black,"Idani, Pouya",g,2601,0.00,1,-6.10
-Andrey Esipenko,2025-12-01,White,"Idani, Pouya",g,2601,1.00,1,3.90
-Andrey Esipenko,2025-12-01,White,"Keymer, Vincent",g,2773,0.50,1,1.30
-Andrey Esipenko,2025-12-01,Black,"Keymer, Vincent",g,2773,0.50,1,1.30
-Andrey Esipenko,2025-12-01,White,"Grebnev, Aleksey",g,2617,0.50,1,-0.90
-Andrey Esipenko,2025-12-01,Black,"Grebnev, Aleksey",g,2617,0.50,1,-0.90
-Andrey Esipenko,2025-12-01,Black,"Shankland, Sam",g,2649,0.50,1,-0.40
-Andrey Esipenko,2025-12-01,White,"Shankland, Sam",g,2649,0.50,1,-0.40
-Andrey Esipenko,2025-12-01,Black,"Wei, Yi",g,2752,0.50,1,1.00
-Andrey Esipenko,2025-12-01,White,"Wei, Yi",g,2752,0.50,1,1.00
-Andrey Esipenko,2025-12-01,White,"Yakubboev, Nodirbek",g,2689,1.00,1,5.10
-Andrey Esipenko,2025-12-01,Black,"Yakubboev, Nodirbek",g,2689,1.00,1,5.10
-Matthias Bluebaum,2024-02-01,White,"Pavlidis, Antonios",g,2565,1.00,1,3.80
-Matthias Bluebaum,2024-02-01,Black,"Livaic, Leon",g,2557,0.50,1,-1.30
-Matthias Bluebaum,2024-03-01,Black,"Santos Latasa, Jaime",g,2612,0.00,1,-5.60
-Matthias Bluebaum,2024-03-01,White,"Eljanov, Pavel",g,2699,0.50,1,0.60
-Matthias Bluebaum,2024-03-01,White,"Nakamura, Hikaru",g,2788,0.50,1,1.80
-Matthias Bluebaum,2024-03-01,White,"Abasov, Nijat",g,2641,0.50,1,-0.20
-Matthias Bluebaum,2024-03-01,Black,"Anand, Viswanathan",g,2748,0.50,1,1.20
-Matthias Bluebaum,2024-04-01,White,"Petersen, Marcel",,2255*,1.00,1,0.80
-Matthias Bluebaum,2024-04-01,Black,"Schmidek, Emil",m,2439,0.50,1,-2.80
-Matthias Bluebaum,2024-05-01,Black,"Gerlach, Felix",,2255*,1.00,1,0.80
-Matthias Bluebaum,2024-05-01,White,"Kaufeld, Juergen",f,2257,0.50,1,-4.20
-Matthias Bluebaum,2024-05-01,Black,"Terekhov, Andrey",f,2255*,1.00,1,0.80
-Matthias Bluebaum,2024-05-01,White,"Lewtak, Damian",m,2343,0.50,1,-3.60
-Matthias Bluebaum,2024-05-01,Black,"Langheinrich, Ferenc",m,2339,1.00,1,1.30
-Matthias Bluebaum,2024-05-01,White,"Knuedel, Torben",f,2299,1.00,1,1.10
-Matthias Bluebaum,2024-05-01,Black,"Bazakutsa, Svyatoslav",f,2463,0.50,1,-2.50
-Matthias Bluebaum,2024-05-01,White,"Nevednichy, Vladislav",g,2445,1.00,1,2.30
-Matthias Bluebaum,2024-05-01,Black,"Horvath, Dominik",m,2534,1.00,1,3.40
-Matthias Bluebaum,2024-07-01,White,"Miron, Lucian-Costin",g,2479,0.50,1,-2.20
-Matthias Bluebaum,2024-07-01,White,"Aravindh, Chithambaram Vr.",g,2670,0.50,1,0.30
-Matthias Bluebaum,2024-07-01,Black,"Brunello, Sabino",g,2507,0.50,1,-1.90
-Matthias Bluebaum,2024-07-01,Black,"Willems, Niels",f,2328,1.00,1,1.30
-Matthias Bluebaum,2024-07-01,White,"Relange, Eloi",g,2442,1.00,1,2.40
-Matthias Bluebaum,2024-10-01,White,"Andrianiaina, Heritiana",c,2240*,1.00,1,0.80
-Matthias Bluebaum,2024-10-01,Black,"Bersamina, Paulo",m,2425,1.00,1,2.30
-Matthias Bluebaum,2024-10-01,White,"Pultinevicius, Paulius",g,2587,0.50,1,-0.70
-Matthias Bluebaum,2024-10-01,Black,"Djukic, Nikola",g,2515,0.50,1,-1.70
-Matthias Bluebaum,2024-10-01,White,"Escalona Landi, Samid Eduardo",f,2305,1.00,1,1.20
-Matthias Bluebaum,2024-10-01,White,"Hillarp Persson, Tiger",g,2457,1.00,1,2.60
-Matthias Bluebaum,2024-10-01,White,"Livaic, Leon",g,2550,1.00,1,3.80
-Matthias Bluebaum,2024-10-01,Black,"Sargissian, Gabriel",g,2646,0.00,1,-4.90
-Matthias Bluebaum,2024-10-01,White,"Flores, Diego",g,2546,1.00,1,3.70
-Matthias Bluebaum,2024-10-01,Black,"Petrov, Martin",g,2536,0.50,1,-1.40
-Matthias Bluebaum,2024-11-01,White,"Narayanan, S L",g,2640,0.50,1,-0.10
-Matthias Bluebaum,2024-11-01,Black,"Tabatabaei, M. Amin",g,2702,0.50,1,0.80
-Matthias Bluebaum,2024-12-01,White,"Golubka, Petro",g,2365,1.00,1,1.60
-Matthias Bluebaum,2024-12-01,Black,"Girel, Joseph",g,2486,1.00,1,2.80
-Matthias Bluebaum,2024-12-01,White,"Sanal, Vahap",g,2561,1.00,1,3.70
-Matthias Bluebaum,2024-12-01,Black,"Chigaev, Maksim",g,2605,0.00,1,-5.70
-Matthias Bluebaum,2024-12-01,White,"Parligras, Mircea-Emilian",g,2550,0.50,1,-1.40
-Matthias Bluebaum,2024-12-01,Black,"Ahmadzada, Ahmad",g,2542,0.50,1,-1.50
-Matthias Bluebaum,2024-12-01,White,"Gorshtein, Ido",g,2528,0.50,1,-1.70
-Matthias Bluebaum,2024-12-01,Black,"Maksimovic, Bojan",m,2504,0.50,1,-2.00
-Matthias Bluebaum,2024-12-01,White,"Dudin, Gleb",g,2510,0.50,1,-1.90
-Matthias Bluebaum,2024-12-01,Black,"Ioannidis, Evgenios",g,2497,1.00,1,2.90
-Matthias Bluebaum,2024-12-01,White,"Kourkoulos-Arditis, Stamatis",g,2575,0.50,1,-1.10
-Matthias Bluebaum,2025-01-01,White,"Bartel, Mateusz",g,2613,0.00,1,-5.60
-Matthias Bluebaum,2025-02-01,White,"Kraemer, Martin",g,2579,0.50,1,-0.90
-Matthias Bluebaum,2025-02-01,Black,"Duda, Jan-Krzysztof",g,2740,0.50,1,1.30
-Matthias Bluebaum,2025-03-01,Black,"Andersen, Mads",g,2584,0.50,1,-0.80
-Matthias Bluebaum,2025-03-01,White,"So, Wesley",g,2747,0.50,1,1.40
-Matthias Bluebaum,2025-03-01,Black,"Svane, Rasmus",g,2621,0.50,1,-0.30
-Matthias Bluebaum,2025-04-01,White,"Petersen, Marcel",,2243*,1.00,1,0.80
-Matthias Bluebaum,2025-04-01,Black,"Henning, Marvin",,2243*,1.00,1,0.80
-Matthias Bluebaum,2025-05-01,Black,"Kasimdzhanov, Rustam",g,2678,0.50,1,0.20
-Matthias Bluebaum,2025-05-01,White,"Fridman, Daniel",g,2582,0.50,1,-1.10
-Matthias Bluebaum,2025-05-01,Black,"Brkic, Ante",g,2586,0.50,1,-1.00
-Matthias Bluebaum,2025-06-01,Black,"Donchenko, Alexander",g,2615,1.00,1,4.40
-Matthias Bluebaum,2025-06-01,White,"Dobrikov, Marco",f,2404,1.00,1,1.90
-Matthias Bluebaum,2025-06-01,Black,"Svane, Frederik",g,2671,0.50,1,0.20
-Matthias Bluebaum,2025-06-01,White,"Kraemer, Martin",g,2581,0.50,1,-1.10
-Matthias Bluebaum,2025-06-01,Black,"Costa, Leonardo",m,2531,0.50,1,-1.70
-Matthias Bluebaum,2025-06-01,White,"Wagner, Dennis",g,2616,1.00,1,4.40
-Matthias Bluebaum,2025-06-01,Black,"Keymer, Vincent",g,2720,0.00,1,-4.20
-Matthias Bluebaum,2025-06-01,Black,"Huschenbeth, Niclas",g,2601,0.50,1,-0.80
-Matthias Bluebaum,2025-06-01,White,"Svane, Rasmus",g,2629,0.50,1,-0.40
-Matthias Bluebaum,2025-07-01,Black,"Pultinevicius, Paulius",g,2561,1.00,1,3.60
-Matthias Bluebaum,2025-07-01,White,"Volokitin, Andrei",g,2626,0.00,1,-5.50
-Matthias Bluebaum,2025-07-01,Black,"Noe, Christopher",m,2502,0.50,1,-2.10
-Matthias Bluebaum,2025-07-01,White,"Samunenkov, Ihor",g,2562,1.00,1,3.60
-Matthias Bluebaum,2025-07-01,Black,"Maurizzi, Marc Andria",g,2607,0.50,1,-0.80
-Matthias Bluebaum,2025-07-01,White,"Svane, Frederik",g,2667,1.00,1,5.10
-Matthias Bluebaum,2025-07-01,Black,"Harikrishna, Pentala",g,2707,0.50,1,0.60
-Matthias Bluebaum,2025-07-01,White,"Navara, David",g,2657,0.00,1,-5.10
-Matthias Bluebaum,2025-07-01,Black,"Tazbir, Marcin",g,2504,0.50,1,-2.10
-Matthias Bluebaum,2025-09-01,Black,"Kersten, Uwe",m,2260*,1.00,1,0.80
-Matthias Bluebaum,2025-09-01,White,"Rebentisch, Tom",,2270,1.00,1,0.90
-Matthias Bluebaum,2025-09-01,Black,"Besou, Hussain",f,2390,1.00,1,1.70
-Matthias Bluebaum,2025-09-01,White,"Xiao, Tong(qd)",g,2539,1.00,1,3.40
-Matthias Bluebaum,2025-09-01,Black,"Jumabayev, Rinat",g,2556,0.50,1,-1.40
-Matthias Bluebaum,2025-09-01,White,"Parvanyan, Ashot",m,2403,1.00,1,1.80
-Matthias Bluebaum,2025-09-01,Black,"Engel, Luis",g,2548,0.50,1,-1.50
-Matthias Bluebaum,2025-09-01,White,"Kollars, Dmitrij",g,2644,0.50,1,-0.20
-Matthias Bluebaum,2025-09-01,White,"Ganguly, Surya Shekhar",g,2566,0.50,1,-1.30
-Matthias Bluebaum,2025-10-01,White,"Predke, Alexandr",g,2609,0.50,1,-0.90
-Matthias Bluebaum,2025-10-01,Black,"Lagarde, Maxime",g,2609,0.50,1,-0.90
-Matthias Bluebaum,2025-10-01,White,"Hammer, Jon Ludvig",g,2618,1.00,1,4.30
-Matthias Bluebaum,2025-10-01,Black,"Henriquez Villagra, Cristobal",g,2594,1.00,1,3.90
-Matthias Bluebaum,2025-10-01,White,"Praggnanandhaa, R",g,2785,1.00,1,6.60
-Matthias Bluebaum,2025-10-01,White,"Mishra, Abhimanyu",g,2611,0.50,1,-0.80
-Matthias Bluebaum,2025-10-01,Black,"Erigaisi, Arjun",g,2771,1.00,1,6.40
-Matthias Bluebaum,2025-10-01,White,"Nihal, Sarin",g,2693,0.50,1,0.30
-Matthias Bluebaum,2025-10-01,Black,"Abdusattorov, Nodirbek",g,2748,0.50,1,1.10
-Matthias Bluebaum,2025-10-01,Black,"Keymer, Vincent",g,2751,0.50,1,1.10
-Matthias Bluebaum,2025-10-01,White,"Firouzja, Alireza",g,2754,0.50,1,1.10
-Matthias Bluebaum,2025-11-01,White,"Baenziger, Fabian",m,2439,1.00,1,1.90
-Matthias Bluebaum,2025-11-01,Black,"Jobava, Baadur",g,2573,0.00,1,-6.60
-Matthias Bluebaum,2025-11-01,White,"Volokitin, Andrei",g,2617,0.00,1,-6.00
-Matthias Bluebaum,2025-11-01,Black,"Sahidi, Samir",m,2490,0.50,1,-2.50
-Matthias Bluebaum,2025-11-01,White,"Livaic, Leon",g,2551,1.00,1,3.20
-Matthias Bluebaum,2025-11-01,Black,"Indjic, Aleksandar",g,2618,0.50,1,-1.00
-Matthias Bluebaum,2025-11-01,White,"Van Wely, Loek",g,2630,1.00,1,4.20
-Matthias Bluebaum,2025-12-01,White,"Adly, Ahmed",g,2589,1.00,1,3.80
-Matthias Bluebaum,2025-12-01,Black,"Adly, Ahmed",g,2589,0.50,1,-1.20
-Matthias Bluebaum,2025-12-01,Black,"Zemlyanskii, Ivan",f,2585,1.00,1,3.70
-Matthias Bluebaum,2025-12-01,White,"Zemlyanskii, Ivan",f,2585,0.50,1,-1.30
-Matthias Bluebaum,2025-12-01,White,"Donchenko, Alexander",g,2641,0.50,1,-0.50
-Matthias Bluebaum,2025-12-01,Black,"Donchenko, Alexander",g,2641,0.00,1,-5.50
-Matthias Bluebaum,2026-01-01,Black,"Volokitin, Andrei",g,2619,0.50,1,-0.80
-Matthias Bluebaum,2026-01-01,White,"Duda, Jan-Krzysztof",g,2729,0.50,1,0.70
+Fabiano Caruana,2024-04-01,White,"Oparin, Grigoriy",g,2671,1,1,3.2
+Fabiano Caruana,2024-04-01,Black,"Oparin, Grigoriy",g,2671,0.5,1,-1.8
+Fabiano Caruana,2024-04-01,White,"Aronian, Levon",g,2722,0.5,1,-1.1
+Fabiano Caruana,2024-04-01,Black,"Aronian, Levon",g,2722,0.5,1,-1.1
+Fabiano Caruana,2024-05-01,White,"Nakamura, Hikaru",g,2789,0.5,1,-0.2
+Fabiano Caruana,2024-05-01,White,"Abasov, Nijat",g,2632,1,1,2.7
+Fabiano Caruana,2024-05-01,Black,"Firouzja, Alireza",g,2760,0.5,1,-0.6
+Fabiano Caruana,2024-05-01,White,"Gukesh, D",g,2743,0.5,1,-0.8
+Fabiano Caruana,2024-05-01,Black,"Vidit, Santosh Gujrathi",g,2727,0.5,1,-1
+Fabiano Caruana,2024-05-01,Black,"Nepomniachtchi, Ian",g,2758,0.5,1,-0.6
+Fabiano Caruana,2024-05-01,White,"Praggnanandhaa, R",g,2747,0.5,1,-0.8
+Fabiano Caruana,2024-05-01,Black,"Nakamura, Hikaru",g,2789,0,1,-5.2
+Fabiano Caruana,2024-05-01,Black,"Abasov, Nijat",g,2632,0.5,1,-2.3
+Fabiano Caruana,2024-05-01,White,"Firouzja, Alireza",g,2760,1,1,4.4
+Fabiano Caruana,2024-05-01,Black,"Gukesh, D",g,2743,0.5,1,-0.8
+Fabiano Caruana,2024-05-01,White,"Vidit, Santosh Gujrathi",g,2727,1,1,4
+Fabiano Caruana,2024-05-01,Black,"Praggnanandhaa, R",g,2747,1,1,4.2
+Fabiano Caruana,2024-05-01,White,"Nepomniachtchi, Ian",g,2758,0.5,1,-0.6
+Fabiano Caruana,2024-07-01,White,"Nakamura, Hikaru",g,2794,0.5,1,-0.2
+Fabiano Caruana,2024-07-01,Black,"Firouzja, Alireza",g,2737,0.5,1,-0.9
+Fabiano Caruana,2024-07-01,White,"Ding, Liren",g,2762,1,1,4.4
+Fabiano Caruana,2024-07-01,Black,"Praggnanandhaa, R",g,2747,0,1,-5.8
+Fabiano Caruana,2024-07-01,White,"Carlsen, Magnus",g,2830,0,1,-4.7
+Fabiano Caruana,2024-07-01,Black,"Nakamura, Hikaru",g,2794,0.5,1,-0.2
+Fabiano Caruana,2024-07-01,White,"Firouzja, Alireza",g,2737,0.5,1,-0.9
+Fabiano Caruana,2024-07-01,Black,"Ding, Liren",g,2762,0.5,1,-0.6
+Fabiano Caruana,2024-07-01,White,"Praggnanandhaa, R",g,2747,0.5,1,-0.8
+Fabiano Caruana,2024-07-01,Black,"Carlsen, Magnus",g,2830,0.5,1,0.3
+Fabiano Caruana,2024-08-01,Black,"Firouzja, Alireza",g,2737,1,1,4.1
+Fabiano Caruana,2024-08-01,White,"So, Wesley",g,2757,0.5,1,-0.7
+Fabiano Caruana,2024-08-01,Black,"Abdusattorov, Nodirbek",g,2766,0.5,1,-0.5
+Fabiano Caruana,2024-08-01,White,"Deac, Bogdan-Daniel",g,2680,1,1,3.3
+Fabiano Caruana,2024-08-01,Black,"Vachier-Lagrave, Maxime",g,2732,0.5,1,-1
+Fabiano Caruana,2024-08-01,White,"Nepomniachtchi, Ian",g,2770,0.5,1,-0.5
+Fabiano Caruana,2024-08-01,Black,"Gukesh, D",g,2763,0.5,1,-0.6
+Fabiano Caruana,2024-08-01,White,"Praggnanandhaa, R",g,2747,0.5,1,-0.8
+Fabiano Caruana,2024-08-01,Black,"Giri, Anish",g,2745,0,1,-5.8
+Fabiano Caruana,2024-09-01,White,"Firouzja, Alireza",g,2751,0,1,-5.6
+Fabiano Caruana,2024-09-01,Black,"So, Wesley",g,2751,0.5,1,-0.6
+Fabiano Caruana,2024-09-01,White,"Abdusattorov, Nodirbek",g,2762,1,1,4.6
+Fabiano Caruana,2024-09-01,Black,"Ding, Liren",g,2745,0.5,1,-0.7
+Fabiano Caruana,2024-09-01,White,"Vachier-Lagrave, Maxime",g,2721,0.5,1,-1
+Fabiano Caruana,2024-09-01,Black,"Nepomniachtchi, Ian",g,2767,1,1,4.6
+Fabiano Caruana,2024-09-01,White,"Gukesh, D",g,2766,0.5,1,-0.4
+Fabiano Caruana,2024-09-01,Black,"Rameshbabu, Praggnanandhaa",g,2749,0.5,1,-0.6
+Fabiano Caruana,2024-09-01,White,"Giri, Anish",g,2746,1,1,4.3
+Fabiano Caruana,2024-10-01,White,"Tin, Jingyao",g,2580,1,1,2.2
+Fabiano Caruana,2024-10-01,Black,"Cheparinov, Ivan",g,2628,1,1,2.8
+Fabiano Caruana,2024-10-01,White,"Volokitin, Andrei",g,2660,1,1,3.1
+Fabiano Caruana,2024-10-01,Black,"Peralta, Fernando",g,2558,1,1,2
+Fabiano Caruana,2024-10-01,White,"Deac, Bogdan-Daniel",g,2680,0.5,1,-1.6
+Fabiano Caruana,2024-10-01,Black,"Theodorou, Nikolas",g,2619,0.5,1,-2.3
+Fabiano Caruana,2024-10-01,White,"Vachier-Lagrave, Maxime",g,2731,0.5,1,-0.9
+Fabiano Caruana,2024-10-01,White,"Rapport, Richard",g,2715,0.5,1,-1.1
+Fabiano Caruana,2024-10-01,Black,"Gukesh, D",g,2764,0,1,-5.5
+Fabiano Caruana,2024-10-01,Black,"Ding, Liren",g,2736,0.5,1,-0.9
+Fabiano Caruana,2024-11-01,Black,"Niemann, Hans",g,2733,0.5,1,-0.9
+Fabiano Caruana,2024-11-01,White,"Aronian, Levon",g,2738,0.5,1,-0.8
+Fabiano Caruana,2024-11-01,Black,"Robson, Ray",g,2693,1,1,3.6
+Fabiano Caruana,2024-11-01,White,"Mishra, Abhimanyu",g,2630,1,1,2.8
+Fabiano Caruana,2024-11-01,Black,"Yoo, Christopher Woojin",g,2590,1,1,2.4
+Fabiano Caruana,2024-11-01,White,"Oparin, Grigoriy",g,2662,1,1,3.2
+Fabiano Caruana,2024-11-01,Black,"Sevian, Samuel",g,2689,0.5,1,-1.5
+Fabiano Caruana,2024-11-01,Black,"So, Wesley",g,2751,0.5,1,-0.6
+Fabiano Caruana,2024-11-01,White,"Liang, Awonder",g,2677,0.5,1,-1.6
+Fabiano Caruana,2024-11-01,Black,"Dominguez Perez, Leinier",g,2741,0.5,1,-0.8
+Fabiano Caruana,2024-11-01,White,"Shankland, Sam",g,2677,1,1,3.4
+Fabiano Caruana,2025-01-01,Black,"Amburgy, Ryan",f,2405*,1,1,0.8
+Fabiano Caruana,2025-01-01,White,"Risteski, Emil",f,2405*,1,1,0.8
+Fabiano Caruana,2025-01-01,Black,"Paragua, Mark",g,2446,1,1,1
+Fabiano Caruana,2025-01-01,White,"Can, Isik",m,2508,1,1,1.5
+Fabiano Caruana,2025-01-01,Black,"Burke, John Michael",g,2573,1,1,2.1
+Fabiano Caruana,2025-01-01,White,"Theodorou, Nikolas",g,2612,0,1,-7.5
+Fabiano Caruana,2025-01-01,Black,"Woodward, Andy Austin",g,2525,1,1,1.6
+Fabiano Caruana,2025-01-01,White,"Matviishen, Viktor",g,2566,1,1,2
+Fabiano Caruana,2025-01-01,Black,"Heimann, Mark",m,2459,1,1,1.1
+Fabiano Caruana,2025-03-01,Black,"Wei, Yi",g,2751,0.5,1,-0.7
+Fabiano Caruana,2025-03-01,White,"Van Foreest, Jorden",g,2680,1,1,3.3
+Fabiano Caruana,2025-03-01,Black,"Gukesh, D",g,2777,0.5,1,-0.4
+Fabiano Caruana,2025-03-01,White,"Giri, Anish",g,2731,0.5,1,-1
+Fabiano Caruana,2025-03-01,Black,"Fedoseev, Vladimir",g,2717,0,1,-6.2
+Fabiano Caruana,2025-03-01,Black,"Erigaisi, Arjun",g,2801,0.5,1,0
+Fabiano Caruana,2025-03-01,White,"Sarana, Alexey",g,2677,0.5,1,-1.7
+Fabiano Caruana,2025-03-01,Black,"Keymer, Vincent",g,2733,1,1,4
+Fabiano Caruana,2025-03-01,White,"Abdusattorov, Nodirbek",g,2768,0.5,1,-0.5
+Fabiano Caruana,2025-03-01,Black,"Harikrishna, Pentala",g,2695,0.5,1,-1.5
+Fabiano Caruana,2025-03-01,White,"Praggnanandhaa, R",g,2741,0,1,-5.9
+Fabiano Caruana,2025-03-01,Black,"Mendonca, Leon Luke",g,2639,0.5,1,-2.2
+Fabiano Caruana,2025-03-01,White,"Warmerdam, Max",g,2646,0,1,-7.1
+Fabiano Caruana,2025-04-01,White,"Robson, Ray",g,2689,0.5,1,-1.3
+Fabiano Caruana,2025-04-01,Black,"Robson, Ray",g,2689,0.5,1,-1.3
+Fabiano Caruana,2025-04-01,White,"Aronian, Levon",g,2748,0.5,1,-0.5
+Fabiano Caruana,2025-04-01,Black,"Aronian, Levon",g,2748,0.5,1,-0.5
+Fabiano Caruana,2025-04-01,Black,"Nakamura, Hikaru",g,2802,0.5,1,0.3
+Fabiano Caruana,2025-04-01,White,"Nakamura, Hikaru",g,2802,0.5,1,0.3
+Fabiano Caruana,2025-04-01,Black,"Nakamura, Hikaru",g,2802,0,1,-4.7
+Fabiano Caruana,2025-04-01,White,"Nakamura, Hikaru",g,2802,0.5,1,0.3
+Fabiano Caruana,2025-06-01,Black,"Duda, Jan-Krzysztof",g,2739,0.5,1,-0.5
+Fabiano Caruana,2025-06-01,White,"Praggnanandhaa, R",g,2758,0.5,1,-0.3
+Fabiano Caruana,2025-06-01,Black,"Firouzja, Alireza",g,2757,1,1,4.7
+Fabiano Caruana,2025-06-01,White,"Abdusattorov, Nodirbek",g,2771,0.5,1,-0.1
+Fabiano Caruana,2025-06-01,Black,"So, Wesley",g,2751,0.5,1,-0.3
+Fabiano Caruana,2025-06-01,White,"Deac, Bogdan-Daniel",g,2668,0.5,1,-1.5
+Fabiano Caruana,2025-06-01,Black,"Aronian, Levon",g,2747,0.5,1,-0.4
+Fabiano Caruana,2025-06-01,White,"Vachier-Lagrave, Maxime",g,2723,0.5,1,-0.7
+Fabiano Caruana,2025-06-01,Black,"Gukesh, D",g,2787,0.5,1,0.2
+Fabiano Caruana,2025-07-01,White,"Nakamura, Hikaru",g,2804,0,1,-4.6
+Fabiano Caruana,2025-07-01,Black,"Wei, Yi",g,2758,1,1,4.7
+Fabiano Caruana,2025-07-01,White,"Erigaisi, Arjun",g,2782,1,1,5.1
+Fabiano Caruana,2025-07-01,Black,"Gukesh, D",g,2787,0.5,1,0.2
+Fabiano Caruana,2025-07-01,White,"Carlsen, Magnus",g,2837,0.5,1,0.8
+Fabiano Caruana,2025-07-01,Black,"Nakamura, Hikaru",g,2804,0.5,1,0.4
+Fabiano Caruana,2025-07-01,White,"Wei, Yi",g,2758,1,1,4.7
+Fabiano Caruana,2025-07-01,Black,"Erigaisi, Arjun",g,2782,0,1,-4.9
+Fabiano Caruana,2025-07-01,Black,"Carlsen, Magnus",g,2837,0,1,-4.2
+Fabiano Caruana,2025-07-01,White,"Gukesh, D",g,2787,1,1,5.2
+Fabiano Caruana,2025-09-01,White,"Duda, Jan-Krzysztof",g,2725,0.5,1,-0.8
+Fabiano Caruana,2025-09-01,Black,"Rameshbabu, Praggnanandhaa",g,2779,0.5,1,-0.1
+Fabiano Caruana,2025-09-01,White,"Firouzja, Alireza",g,2766,1,1,4.7
+Fabiano Caruana,2025-09-01,Black,"Abdusattorov, Nodirbek",g,2771,1,1,4.8
+Fabiano Caruana,2025-09-01,White,"So, Wesley",g,2745,0.5,1,-0.5
+Fabiano Caruana,2025-09-01,Black,"Sevian, Samuel",g,2683,0.5,1,-1.4
+Fabiano Caruana,2025-09-01,White,"Aronian, Levon",g,2737,0.5,1,-0.7
+Fabiano Caruana,2025-09-01,Black,"Vachier-Lagrave, Maxime",g,2736,0.5,1,-0.7
+Fabiano Caruana,2025-09-01,White,"Gukesh, D",g,2776,0.5,1,-0.1
+Fabiano Caruana,2025-11-01,White,"Aronian, Levon",g,2744,0.5,1,-0.6
+Fabiano Caruana,2025-11-01,Black,"Aronian, Levon",g,2744,0.5,1,-0.6
+Fabiano Caruana,2025-11-01,White,"Vachier-Lagrave, Maxime",g,2738,0.5,1,-0.7
+Fabiano Caruana,2025-11-01,Black,"Vachier-Lagrave, Maxime",g,2738,0.5,1,-0.7
+Hikaru Nakamura,2024-03-01,Black,"Bluebaum, Matthias",g,2658,0.5,1,-1.8
+Hikaru Nakamura,2024-03-01,White,"Anand, Viswanathan",g,2748,0.5,1,-0.6
+Hikaru Nakamura,2024-03-01,Black,"Abasov, Nijat",g,2641,1,1,3
+Hikaru Nakamura,2024-05-01,Black,"Caruana, Fabiano",g,2803,0.5,1,0.2
+Hikaru Nakamura,2024-05-01,White,"Vidit, Santosh Gujrathi",g,2727,0,1,-5.9
+Hikaru Nakamura,2024-05-01,Black,"Abasov, Nijat",g,2632,0.5,1,-2.1
+Hikaru Nakamura,2024-05-01,White,"Praggnanandhaa, R",g,2747,0.5,1,-0.6
+Hikaru Nakamura,2024-05-01,Black,"Firouzja, Alireza",g,2760,1,1,4.6
+Hikaru Nakamura,2024-05-01,Black,"Gukesh, D",g,2743,0.5,1,-0.6
+Hikaru Nakamura,2024-05-01,White,"Nepomniachtchi, Ian",g,2758,0.5,1,-0.4
+Hikaru Nakamura,2024-05-01,White,"Caruana, Fabiano",g,2803,1,1,5.2
+Hikaru Nakamura,2024-05-01,Black,"Vidit, Santosh Gujrathi",g,2727,0,1,-5.9
+Hikaru Nakamura,2024-05-01,White,"Abasov, Nijat",g,2632,1,1,2.9
+Hikaru Nakamura,2024-05-01,Black,"Praggnanandhaa, R",g,2747,1,1,4.4
+Hikaru Nakamura,2024-05-01,White,"Firouzja, Alireza",g,2760,1,1,4.6
+Hikaru Nakamura,2024-05-01,Black,"Nepomniachtchi, Ian",g,2758,0.5,1,-0.4
+Hikaru Nakamura,2024-05-01,White,"Gukesh, D",g,2743,0.5,1,-0.6
+Hikaru Nakamura,2024-07-01,Black,"Caruana, Fabiano",g,2805,0.5,1,0.2
+Hikaru Nakamura,2024-07-01,Black,"Carlsen, Magnus",g,2830,0.5,1,0.5
+Hikaru Nakamura,2024-07-01,White,"Firouzja, Alireza",g,2737,0.5,1,-0.8
+Hikaru Nakamura,2024-07-01,Black,"Ding, Liren",g,2762,1,1,4.6
+Hikaru Nakamura,2024-07-01,White,"Praggnanandhaa, R",g,2747,1,1,4.3
+Hikaru Nakamura,2024-07-01,White,"Caruana, Fabiano",g,2805,0.5,1,0.2
+Hikaru Nakamura,2024-07-01,White,"Carlsen, Magnus",g,2830,0.5,1,0.5
+Hikaru Nakamura,2024-07-01,Black,"Firouzja, Alireza",g,2737,0.5,1,-0.8
+Hikaru Nakamura,2024-07-01,White,"Ding, Liren",g,2762,0.5,1,-0.4
+Hikaru Nakamura,2024-07-01,Black,"Praggnanandhaa, R",g,2747,0.5,1,-0.7
+Hikaru Nakamura,2025-04-01,White,"Mishra, Abhimanyu",g,2600,0.5,1,-2.6
+Hikaru Nakamura,2025-04-01,Black,"Mishra, Abhimanyu",g,2600,0.5,1,-2.6
+Hikaru Nakamura,2025-04-01,White,"Dominguez Perez, Leinier",g,2741,0.5,1,-0.8
+Hikaru Nakamura,2025-04-01,Black,"Dominguez Perez, Leinier",g,2741,1,1,4.2
+Hikaru Nakamura,2025-04-01,White,"Caruana, Fabiano",g,2783,0.5,1,-0.3
+Hikaru Nakamura,2025-04-01,Black,"Caruana, Fabiano",g,2783,0.5,1,-0.3
+Hikaru Nakamura,2025-04-01,White,"Caruana, Fabiano",g,2783,1,1,4.7
+Hikaru Nakamura,2025-04-01,Black,"Caruana, Fabiano",g,2783,0.5,1,-0.3
+Hikaru Nakamura,2025-07-01,Black,"Caruana, Fabiano",g,2776,1,1,4.6
+Hikaru Nakamura,2025-07-01,White,"Carlsen, Magnus",g,2837,0.5,1,0.5
+Hikaru Nakamura,2025-07-01,Black,"Gukesh, D",g,2787,0,1,-5.2
+Hikaru Nakamura,2025-07-01,White,"Wei, Yi",g,2758,0.5,1,-0.6
+Hikaru Nakamura,2025-07-01,Black,"Erigaisi, Arjun",g,2782,0.5,1,-0.3
+Hikaru Nakamura,2025-07-01,White,"Caruana, Fabiano",g,2776,0.5,1,-0.4
+Hikaru Nakamura,2025-07-01,Black,"Carlsen, Magnus",g,2837,0.5,1,0.5
+Hikaru Nakamura,2025-07-01,White,"Gukesh, D",g,2787,1,1,4.8
+Hikaru Nakamura,2025-07-01,White,"Erigaisi, Arjun",g,2782,0.5,1,-0.3
+Hikaru Nakamura,2025-07-01,Black,"Wei, Yi",g,2758,0.5,1,-0.6
+Hikaru Nakamura,2025-10-01,Black,"Costanza, Mitchell",,2407*,1,1,0.8
+Hikaru Nakamura,2025-10-01,White,"Villamil, Nahum Jose",,2407*,1,1,0.8
+Hikaru Nakamura,2025-10-01,Black,"Tan, Ralph",,2407*,1,1,0.8
+Hikaru Nakamura,2025-10-01,White,"Schulingkamp, Mark L",,2407*,1,1,0.8
+Hikaru Nakamura,2025-10-01,White,"Matta, Nicholas F",f,2407*,1,1,0.8
+Hikaru Nakamura,2025-10-01,Black,"Campbell, Charles Adegboyega",c,2407*,1,1,0.8
+Hikaru Nakamura,2025-11-01,Black,"Zhang, Michelle",,1919,1,1,0
+Hikaru Nakamura,2025-11-01,White,"Dunahee, Titan",,1808,1,1,0
+Hikaru Nakamura,2025-11-01,Black,"Ivanov, Mike",f,2366,0.5,1,-4.4
+Hikaru Nakamura,2025-11-01,White,"Plotkin, Mark",m,2353,1,1,0.5
+Hikaru Nakamura,2025-11-01,Black,"Migot, Tangi",m,2311,1,1,0.4
+Hikaru Nakamura,2025-11-01,White,"Marchand, Calix",f,2101,1,1,0.1
+Hikaru Nakamura,2025-12-01,White,"Dokka, Tanush",,1787,1,1,0
+Hikaru Nakamura,2025-12-01,Black,"Ismayilova, Khanim",,2025,1,1,0
+Hikaru Nakamura,2025-12-01,White,"Diao, Matthew Guo",c,2310,1,1,0.4
+Hikaru Nakamura,2025-12-01,Black,"De Silva, Lokumannage Susal Thew",m,2400,1,1,0.7
+Hikaru Nakamura,2025-12-01,White,"Balakrishnan, Praveen",g,2505,0.5,1,-3.6
+R Praggnanandhaa,2024-02-01,White,"Maghsoodloo, Parham",g,2740,0.5,1,0
+R Praggnanandhaa,2024-02-01,Black,"Abdusattorov, Nodirbek",g,2727,0.5,1,-0.2
+R Praggnanandhaa,2024-02-01,White,"Wei, Yi",g,2740,0.5,1,0
+R Praggnanandhaa,2024-02-01,Black,"Ding, Liren",g,2780,1,1,5.5
+R Praggnanandhaa,2024-02-01,White,"Giri, Anish",g,2749,0.5,1,0.1
+R Praggnanandhaa,2024-02-01,Black,"Nepomniachtchi, Ian",g,2769,0.5,1,0.4
+R Praggnanandhaa,2024-02-01,White,"Van Foreest, Jorden",g,2682,0.5,1,-0.8
+R Praggnanandhaa,2024-02-01,Black,"Warmerdam, Max",g,2625,0.5,1,-1.6
+R Praggnanandhaa,2024-02-01,White,"Ju, Wenjun",g,2549,1,1,2.5
+R Praggnanandhaa,2024-02-01,Black,"Vidit, Santosh Gujrathi",g,2742,0.5,1,0
+R Praggnanandhaa,2024-02-01,White,"Donchenko, Alexander",g,2642,0.5,1,-1.4
+R Praggnanandhaa,2024-02-01,Black,"Gukesh, D",g,2725,0.5,1,-0.3
+R Praggnanandhaa,2024-02-01,White,"Firouzja, Alireza",g,2759,0.5,1,0.2
+R Praggnanandhaa,2024-04-01,White,"Keymer, Vincent",g,2738,1,1,4.9
+R Praggnanandhaa,2024-04-01,Black,"Maghsoodloo, Parham",g,2715,0,1,-5.4
+R Praggnanandhaa,2024-04-01,White,"Rapport, Richard",g,2717,0,1,-5.4
+R Praggnanandhaa,2024-04-01,Black,"Nguyen, Thai Dai Van",g,2630,0.5,1,-1.6
+R Praggnanandhaa,2024-04-01,White,"Vidit, Santosh Gujrathi",g,2747,1,1,5
+R Praggnanandhaa,2024-04-01,Black,"Abdusattorov, Nodirbek",g,2744,1,1,5
+R Praggnanandhaa,2024-04-01,White,"Gukesh, D",g,2743,0.5,1,-0.1
+R Praggnanandhaa,2024-04-01,Black,"Bartel, Mateusz",g,2660,0.5,1,-1.2
+R Praggnanandhaa,2024-04-01,White,"Navara, David",g,2667,0.5,1,-1.1
+R Praggnanandhaa,2024-05-01,Black,"Firouzja, Alireza",g,2760,0.5,1,0.2
+R Praggnanandhaa,2024-05-01,White,"Gukesh, D",g,2743,0,1,-5.1
+R Praggnanandhaa,2024-05-01,Black,"Vidit, Santosh Gujrathi",g,2727,1,1,4.7
+R Praggnanandhaa,2024-05-01,Black,"Nakamura, Hikaru",g,2789,0.5,1,0.6
+R Praggnanandhaa,2024-05-01,White,"Nepomniachtchi, Ian",g,2758,0.5,1,0.2
+R Praggnanandhaa,2024-05-01,White,"Abasov, Nijat",g,2632,1,1,3.4
+R Praggnanandhaa,2024-05-01,Black,"Caruana, Fabiano",g,2803,0.5,1,0.8
+R Praggnanandhaa,2024-05-01,White,"Firouzja, Alireza",g,2760,0.5,1,0.2
+R Praggnanandhaa,2024-05-01,Black,"Gukesh, D",g,2743,0.5,1,-0.1
+R Praggnanandhaa,2024-05-01,White,"Vidit, Santosh Gujrathi",g,2727,0.5,1,-0.3
+R Praggnanandhaa,2024-05-01,White,"Nakamura, Hikaru",g,2789,0,1,-4.4
+R Praggnanandhaa,2024-05-01,Black,"Nepomniachtchi, Ian",g,2758,0.5,1,0.2
+R Praggnanandhaa,2024-05-01,White,"Caruana, Fabiano",g,2803,0,1,-4.2
+R Praggnanandhaa,2024-05-01,Black,"Abasov, Nijat",g,2632,1,1,3.4
+R Praggnanandhaa,2024-07-01,White,"Firouzja, Alireza",g,2737,0.5,1,-0.1
+R Praggnanandhaa,2024-07-01,Black,"Ding, Liren",g,2762,0.5,1,0.2
+R Praggnanandhaa,2024-07-01,White,"Carlsen, Magnus",g,2830,1,1,6.1
+R Praggnanandhaa,2024-07-01,White,"Caruana, Fabiano",g,2805,1,1,5.8
+R Praggnanandhaa,2024-07-01,Black,"Nakamura, Hikaru",g,2794,0,1,-4.3
+R Praggnanandhaa,2024-07-01,Black,"Firouzja, Alireza",g,2737,0.5,1,-0.1
+R Praggnanandhaa,2024-07-01,White,"Ding, Liren",g,2762,0.5,1,0.2
+R Praggnanandhaa,2024-07-01,Black,"Carlsen, Magnus",g,2830,0.5,1,1.1
+R Praggnanandhaa,2024-07-01,Black,"Caruana, Fabiano",g,2805,0.5,1,0.8
+R Praggnanandhaa,2024-07-01,White,"Nakamura, Hikaru",g,2794,0.5,1,0.7
+R Praggnanandhaa,2024-08-01,Black,"Abdusattorov, Nodirbek",g,2766,0.5,1,0.3
+R Praggnanandhaa,2024-08-01,White,"Vachier-Lagrave, Maxime",g,2732,0.5,1,-0.2
+R Praggnanandhaa,2024-08-01,Black,"Gukesh, D",g,2763,0.5,1,0.2
+R Praggnanandhaa,2024-08-01,White,"Giri, Anish",g,2745,1,1,5
+R Praggnanandhaa,2024-08-01,Black,"So, Wesley",g,2757,0.5,1,0.1
+R Praggnanandhaa,2024-08-01,White,"Deac, Bogdan-Daniel",g,2680,0.5,1,-0.9
+R Praggnanandhaa,2024-08-01,Black,"Nepomniachtchi, Ian",g,2770,0.5,1,0.3
+R Praggnanandhaa,2024-08-01,Black,"Caruana, Fabiano",g,2805,0.5,1,0.8
+R Praggnanandhaa,2024-08-01,White,"Firouzja, Alireza",g,2737,0.5,1,-0.1
+R Praggnanandhaa,2024-09-01,White,"Abdusattorov, Nodirbek",g,2762,0.5,1,0.2
+R Praggnanandhaa,2024-09-01,Black,"Vachier-Lagrave, Maxime",g,2721,0.5,1,-0.4
+R Praggnanandhaa,2024-09-01,White,"Gukesh, D",g,2766,0.5,1,0.2
+R Praggnanandhaa,2024-09-01,Black,"Giri, Anish",g,2746,0.5,1,0
+R Praggnanandhaa,2024-09-01,White,"So, Wesley",g,2751,0.5,1,0
+R Praggnanandhaa,2024-09-01,Black,"Ding, Liren",g,2745,0.5,1,-0.1
+R Praggnanandhaa,2024-09-01,White,"Nepomniachtchi, Ian",g,2767,0.5,1,0.3
+R Praggnanandhaa,2024-09-01,White,"Caruana, Fabiano",g,2793,0.5,1,0.6
+R Praggnanandhaa,2024-09-01,Black,"Firouzja, Alireza",g,2751,0.5,1,0
+R Praggnanandhaa,2024-10-01,White,"Tissir, Mohamed",m,2355,1,1,0.8
+R Praggnanandhaa,2024-10-01,Black,"Banusz, Tamas",g,2605,1,1,3.1
+R Praggnanandhaa,2024-10-01,White,"Sarana, Alexey",g,2713,0.5,1,-0.5
+R Praggnanandhaa,2024-10-01,Black,"Abasov, Nijat",g,2626,0.5,1,-1.7
+R Praggnanandhaa,2024-10-01,White,"Leko, Peter",g,2666,0.5,1,-1.2
+R Praggnanandhaa,2024-10-01,Black,"Yu, Yangyi",g,2703,0.5,1,-0.7
+R Praggnanandhaa,2024-10-01,White,"Tabatabaei, M. Amin",g,2714,0.5,1,-0.5
+R Praggnanandhaa,2024-10-01,Black,"Sindarov, Javokhir",g,2677,0.5,1,-1
+R Praggnanandhaa,2024-10-01,Black,"So, Wesley",g,2752,0,1,-5
+R Praggnanandhaa,2024-10-01,White,"Demchenko, Anton",g,2597,1,1,3
+R Praggnanandhaa,2024-11-01,White,"Bologan, Victor",g,2608,1,1,3.1
+R Praggnanandhaa,2024-11-01,Black,"Bologan, Victor",g,2608,1,1,3.1
+R Praggnanandhaa,2024-11-01,White,"Anand, Viswanathan",g,2751,0.5,1,0.1
+R Praggnanandhaa,2024-11-01,Black,"Anand, Viswanathan",g,2751,0.5,1,0.1
+R Praggnanandhaa,2024-11-01,Black,"Erigaisi, Arjun",g,2797,0,1,-4.3
+R Praggnanandhaa,2024-11-01,White,"Erigaisi, Arjun",g,2797,0.5,1,0.7
+R Praggnanandhaa,2025-01-01,White,"Svane, Rasmus",g,2628,1,1,3.5
+R Praggnanandhaa,2025-03-01,White,"Abdusattorov, Nodirbek",g,2768,0.5,1,0.4
+R Praggnanandhaa,2025-03-01,Black,"Harikrishna, Pentala",g,2695,1,1,4.4
+R Praggnanandhaa,2025-03-01,White,"Erigaisi, Arjun",g,2801,1,1,5.8
+R Praggnanandhaa,2025-03-01,White,"Mendonca, Leon Luke",g,2639,1,1,3.6
+R Praggnanandhaa,2025-03-01,Black,"Warmerdam, Max",g,2646,0.5,1,-1.3
+R Praggnanandhaa,2025-03-01,White,"Wei, Yi",g,2751,0.5,1,0.1
+R Praggnanandhaa,2025-03-01,Black,"Van Foreest, Jorden",g,2680,0.5,1,-0.8
+R Praggnanandhaa,2025-03-01,White,"Gukesh, D",g,2777,0.5,1,0.5
+R Praggnanandhaa,2025-03-01,Black,"Giri, Anish",g,2731,0,1,-5.1
+R Praggnanandhaa,2025-03-01,White,"Fedoseev, Vladimir",g,2717,1,1,4.7
+R Praggnanandhaa,2025-03-01,Black,"Caruana, Fabiano",g,2803,1,1,5.9
+R Praggnanandhaa,2025-03-01,White,"Sarana, Alexey",g,2677,1,1,4.1
+R Praggnanandhaa,2025-03-01,Black,"Keymer, Vincent",g,2733,0,1,-5.1
+R Praggnanandhaa,2025-04-01,White,"Navara, David",g,2677,0.5,1,-0.9
+R Praggnanandhaa,2025-04-01,Black,"Gurel, Ediz",g,2624,0.5,1,-1.6
+R Praggnanandhaa,2025-04-01,White,"Nguyen, Thai Dai Van",g,2668,1,1,4
+R Praggnanandhaa,2025-04-01,Black,"Keymer, Vincent",g,2731,1,1,4.9
+R Praggnanandhaa,2025-04-01,White,"Aravindh, Chithambaram Vr.",g,2729,0.5,1,-0.2
+R Praggnanandhaa,2025-04-01,Black,"Shankland, Sam",g,2670,0.5,1,-1
+R Praggnanandhaa,2025-04-01,White,"Wei, Yi",g,2755,0.5,1,0.2
+R Praggnanandhaa,2025-04-01,White,"Le, Quang Liem",g,2739,0.5,1,0
+R Praggnanandhaa,2025-04-01,Black,"Giri, Anish",g,2728,0,1,-5.2
+R Praggnanandhaa,2025-06-01,Black,"Gukesh, D",g,2787,0.5,1,0.4
+R Praggnanandhaa,2025-06-01,Black,"Caruana, Fabiano",g,2776,0.5,1,0.3
+R Praggnanandhaa,2025-06-01,White,"Abdusattorov, Nodirbek",g,2771,1,1,5.2
+R Praggnanandhaa,2025-06-01,Black,"Deac, Bogdan-Daniel",g,2668,0.5,1,-1.2
+R Praggnanandhaa,2025-06-01,White,"Vachier-Lagrave, Maxime",g,2723,0.5,1,-0.5
+R Praggnanandhaa,2025-06-01,Black,"Duda, Jan-Krzysztof",g,2739,0.5,1,-0.3
+R Praggnanandhaa,2025-06-01,White,"Firouzja, Alireza",g,2757,0.5,1,0
+R Praggnanandhaa,2025-06-01,Black,"So, Wesley",g,2751,1,1,4.9
+R Praggnanandhaa,2025-06-01,White,"Aronian, Levon",g,2747,0.5,1,-0.2
+R Praggnanandhaa,2025-07-01,Black,"Aravindh, Chithambaram Vr.",g,2749,0.5,1,-0.1
+R Praggnanandhaa,2025-07-01,White,"Bjerre, Jonas Buhl",g,2641,0.5,1,-1.6
+R Praggnanandhaa,2025-07-01,Black,"Sevian, Samuel",g,2694,0.5,1,-0.9
+R Praggnanandhaa,2025-07-01,White,"Yakubboev, Nodirbek",g,2665,1,1,3.7
+R Praggnanandhaa,2025-07-01,Black,"Kollars, Dmitrij",g,2625,0.5,1,-1.8
+R Praggnanandhaa,2025-07-01,White,"Gledura, Benjamin",g,2663,1,1,3.7
+R Praggnanandhaa,2025-07-01,Black,"Hakobyan, Aram",g,2620,1,1,3.1
+R Praggnanandhaa,2025-07-01,Black,"Xu, Xiangyu",g,2623,0.5,1,-1.8
+R Praggnanandhaa,2025-07-01,White,"Hovhannisyan, Robert",g,2635,1,1,3.3
+R Praggnanandhaa,2025-09-01,White,"Gukesh, D",g,2776,1,1,5
+R Praggnanandhaa,2025-09-01,White,"Caruana, Fabiano",g,2784,0.5,1,0.1
+R Praggnanandhaa,2025-09-01,Black,"Abdusattorov, Nodirbek",g,2771,0.5,1,-0.1
+R Praggnanandhaa,2025-09-01,White,"Sevian, Samuel",g,2683,0.5,1,-1.3
+R Praggnanandhaa,2025-09-01,Black,"Vachier-Lagrave, Maxime",g,2736,0.5,1,-0.6
+R Praggnanandhaa,2025-09-01,White,"Duda, Jan-Krzysztof",g,2725,0.5,1,-0.8
+R Praggnanandhaa,2025-09-01,Black,"Firouzja, Alireza",g,2766,1,1,4.8
+R Praggnanandhaa,2025-09-01,White,"So, Wesley",g,2745,0.5,1,-0.5
+R Praggnanandhaa,2025-09-01,Black,"Aronian, Levon",g,2737,0.5,1,-0.6
+R Praggnanandhaa,2025-10-01,Black,"Xiong, Jeffery",g,2640,0.5,1,-1.9
+R Praggnanandhaa,2025-10-01,White,"Zemlyanskii, Ivan",f,2586,1,1,2.4
+R Praggnanandhaa,2025-10-01,Black,"Gelfand, Boris",g,2652,1,1,3.2
+R Praggnanandhaa,2025-10-01,White,"Mishra, Abhimanyu",g,2611,0.5,1,-2.3
+R Praggnanandhaa,2025-10-01,Black,"Bluebaum, Matthias",g,2671,0,1,-6.6
+R Praggnanandhaa,2025-10-01,White,"Mamedov, Rauf",g,2651,0.5,1,-1.8
+R Praggnanandhaa,2025-10-01,White,"Rodshtein, Maxim",g,2645,1,1,3.1
+R Praggnanandhaa,2025-10-01,Black,"Rapport, Richard",g,2711,0.5,1,-1
+R Praggnanandhaa,2025-10-01,White,"Liang, Awonder",g,2698,0.5,1,-1.2
+R Praggnanandhaa,2025-10-01,Black,"Niemann, Hans Moke",g,2733,0,1,-5.7
+R Praggnanandhaa,2025-10-01,Black,"Theodorou, Nikolas",g,2646,0.5,1,-1.9
+R Praggnanandhaa,2025-11-01,White,"Vachier-Lagrave, Maxime",g,2738,0.5,1,-0.7
+R Praggnanandhaa,2025-11-01,Black,"Vachier-Lagrave, Maxime",g,2738,0.5,1,-0.7
+R Praggnanandhaa,2025-11-01,Black,"Aronian, Levon",g,2744,0.5,1,-0.6
+R Praggnanandhaa,2025-11-01,White,"Aronian, Levon",g,2744,0.5,1,-0.6
+R Praggnanandhaa,2025-12-01,White,"Kuybokarov, Temur",g,2535,0.5,1,-2.9
+R Praggnanandhaa,2025-12-01,Black,"Kuybokarov, Temur",g,2535,0.5,1,-2.9
+R Praggnanandhaa,2025-12-01,Black,"Hovhannisyan, Robert",g,2629,0.5,1,-1.9
+R Praggnanandhaa,2025-12-01,White,"Hovhannisyan, Robert",g,2629,1,1,3.1
+R Praggnanandhaa,2025-12-01,White,"Dubov, Daniil",g,2674,0.5,1,-1.3
+R Praggnanandhaa,2025-12-01,Black,"Dubov, Daniil",g,2674,0.5,1,-1.3
+R Praggnanandhaa,2026-01-01,Black,"Badacsonyi, Stanley",c,2316,1,1,0.6
+R Praggnanandhaa,2026-01-01,White,"Gasanov, Eldar",g,2447,1,1,1.3
+R Praggnanandhaa,2026-01-01,Black,"Chasin, Nico",m,2512,1,1,1.9
+R Praggnanandhaa,2026-01-01,White,"Pranav, Anand",g,2581,0.5,1,-2.4
+R Praggnanandhaa,2026-01-01,Black,"Fodor, Tamas Jr",g,2508,0.5,1,-3.2
+R Praggnanandhaa,2026-01-01,White,"Rozen, Eytan",m,2515,1,1,1.9
+R Praggnanandhaa,2026-01-01,Black,"Ivic, Velimir",g,2618,0.5,1,-2
+R Praggnanandhaa,2026-01-01,White,"Gavrilescu, David",g,2542,1,1,2.1
+R Praggnanandhaa,2026-01-01,Black,"Smirin, Ilya",g,2554,0.5,1,-2.7
+Anish Giri,2024-02-01,Black,"Ju, Wenjun",g,2549,1,1,2.4
+Anish Giri,2024-02-01,White,"Vidit, Santosh Gujrathi",g,2742,0.5,1,-0.1
+Anish Giri,2024-02-01,Black,"Donchenko, Alexander",g,2642,1,1,3.5
+Anish Giri,2024-02-01,White,"Gukesh, D",g,2725,1,1,4.7
+Anish Giri,2024-02-01,Black,"Praggnanandhaa, R",g,2743,0.5,1,-0.1
+Anish Giri,2024-02-01,White,"Maghsoodloo, Parham",g,2740,0.5,1,-0.1
+Anish Giri,2024-02-01,Black,"Abdusattorov, Nodirbek",g,2727,0,1,-5.3
+Anish Giri,2024-02-01,White,"Wei, Yi",g,2740,0.5,1,-0.1
+Anish Giri,2024-02-01,Black,"Ding, Liren",g,2780,0.5,1,0.4
+Anish Giri,2024-02-01,Black,"Firouzja, Alireza",g,2759,0.5,1,0.1
+Anish Giri,2024-02-01,White,"Nepomniachtchi, Ian",g,2769,0.5,1,0.3
+Anish Giri,2024-02-01,Black,"Van Foreest, Jorden",g,2682,1,1,4.1
+Anish Giri,2024-02-01,White,"Warmerdam, Max",g,2625,1,1,3.3
+Anish Giri,2024-04-01,White,"Artemiev, Vladislav",g,2711,1,1,4.3
+Anish Giri,2024-04-01,Black,"Dubov, Daniil",g,2708,0,1,-5.8
+Anish Giri,2024-04-01,White,"Erigaisi, Arjun",g,2738,0,1,-5.3
+Anish Giri,2024-04-01,Black,"Bu, Xiangzhi",g,2671,0,1,-6.2
+Anish Giri,2024-04-01,White,"Xu, Xiangyu",g,2623,0.5,1,-1.9
+Anish Giri,2024-04-01,White,"Ma, Qun",g,2651,0.5,1,-1.5
+Anish Giri,2024-04-01,Black,"Yu, Yangyi",g,2720,0.5,1,-0.6
+Anish Giri,2024-08-01,White,"So, Wesley",g,2757,0.5,1,0.2
+Anish Giri,2024-08-01,Black,"Deac, Bogdan-Daniel",g,2680,0.5,1,-0.9
+Anish Giri,2024-08-01,White,"Nepomniachtchi, Ian",g,2770,0.5,1,0.3
+Anish Giri,2024-08-01,Black,"Praggnanandhaa, R",g,2747,0,1,-5
+Anish Giri,2024-08-01,White,"Firouzja, Alireza",g,2737,0.5,1,-0.1
+Anish Giri,2024-08-01,Black,"Abdusattorov, Nodirbek",g,2766,0.5,1,0.3
+Anish Giri,2024-08-01,White,"Vachier-Lagrave, Maxime",g,2732,0.5,1,-0.2
+Anish Giri,2024-08-01,Black,"Gukesh, D",g,2763,0.5,1,0.3
+Anish Giri,2024-08-01,White,"Caruana, Fabiano",g,2805,1,1,5.8
+Anish Giri,2024-09-01,Black,"Niemann, Hans Moke",g,2711,1,1,4.5
+Anish Giri,2024-09-01,White,"Niemann, Hans Moke",g,2711,0.5,1,-0.5
+Anish Giri,2024-09-01,Black,"Niemann, Hans Moke",g,2711,0,1,-5.5
+Anish Giri,2024-09-01,White,"Niemann, Hans Moke",g,2711,0,1,-5.5
+Anish Giri,2024-09-01,Black,"Niemann, Hans Moke",g,2711,0.5,1,-0.5
+Anish Giri,2024-09-01,White,"Niemann, Hans Moke",g,2711,0.5,1,-0.5
+Anish Giri,2024-10-01,Black,"El Jawich, Amro",f,2324*,1,1,0.8
+Anish Giri,2024-10-01,White,"Dardha, Daniel",g,2603,0.5,1,-1.6
+Anish Giri,2024-10-01,Black,"Lodici, Lorenzo",g,2556,0,1,-7.2
+Anish Giri,2024-10-01,White,"Romanov, Evgeny",g,2567,1,1,2.9
+Anish Giri,2024-10-01,Black,"Albornoz Cabrera, Carlos Daniel",g,2579,0.5,1,-1.9
+Anish Giri,2024-10-01,White,"Brkic, Ante",g,2642,1,1,3.9
+Anish Giri,2024-10-01,Black,"Predke, Alexandr",g,2671,0.5,1,-0.7
+Anish Giri,2024-10-01,Black,"McHedlishvili, Mikheil",g,2574,1,1,3
+Anish Giri,2024-10-01,White,"Supi, Luis Paulo",g,2570,1,1,2.9
+Anish Giri,2024-10-01,Black,"Fedoseev, Vladimir",g,2692,0.5,1,-0.4
+Anish Giri,2024-10-01,White,"Stremavicius, Titas",g,2527,1,1,2.5
+Anish Giri,2024-11-01,White,"Beerdsen, Thomas",g,2509,1,1,2.3
+Anish Giri,2024-11-01,White,"Predojevic, Borki",g,2567,1,1,2.9
+Anish Giri,2025-01-01,White,"Kempinski, Robert",g,2560,0.5,1,-2.3
+Anish Giri,2025-02-01,Black,"McShane, Luke J",g,2609,0.5,1,-1.7
+Anish Giri,2025-02-01,White,"Howell, David W L",g,2673,0.5,1,-0.8
+Anish Giri,2025-03-01,Black,"Gukesh, D",g,2777,0,1,-4.4
+Anish Giri,2025-03-01,Black,"Erigaisi, Arjun",g,2801,0.5,1,1
+Anish Giri,2025-03-01,White,"Fedoseev, Vladimir",g,2717,0.5,1,-0.2
+Anish Giri,2025-03-01,Black,"Caruana, Fabiano",g,2803,0.5,1,1
+Anish Giri,2025-03-01,White,"Sarana, Alexey",g,2677,0.5,1,-0.8
+Anish Giri,2025-03-01,Black,"Keymer, Vincent",g,2733,0.5,1,0
+Anish Giri,2025-03-01,White,"Abdusattorov, Nodirbek",g,2768,0.5,1,0.5
+Anish Giri,2025-03-01,Black,"Harikrishna, Pentala",g,2695,0.5,1,-0.5
+Anish Giri,2025-03-01,White,"Praggnanandhaa, R",g,2741,1,1,5.1
+Anish Giri,2025-03-01,Black,"Mendonca, Leon Luke",g,2639,0.5,1,-1.3
+Anish Giri,2025-03-01,White,"Warmerdam, Max",g,2646,1,1,3.8
+Anish Giri,2025-03-01,Black,"Wei, Yi",g,2751,0.5,1,0.3
+Anish Giri,2025-03-01,White,"Van Foreest, Jorden",g,2680,0.5,1,-0.7
+Anish Giri,2025-04-01,Black,"Le, Quang Liem",g,2739,0.5,1,0.2
+Anish Giri,2025-04-01,Black,"Wei, Yi",g,2755,0.5,1,0.4
+Anish Giri,2025-04-01,White,"Navara, David",g,2677,0.5,1,-0.7
+Anish Giri,2025-04-01,Black,"Gurel, Ediz",g,2624,0.5,1,-1.4
+Anish Giri,2025-04-01,White,"Nguyen, Thai Dai Van",g,2668,0.5,1,-0.8
+Anish Giri,2025-04-01,Black,"Keymer, Vincent",g,2731,0.5,1,0
+Anish Giri,2025-04-01,White,"Aravindh, Chithambaram Vr.",g,2729,0,1,-5
+Anish Giri,2025-04-01,Black,"Shankland, Sam",g,2670,1,1,4.2
+Anish Giri,2025-04-01,White,"Praggnanandhaa, R",g,2741,1,1,5.2
+Anish Giri,2025-05-01,White,"Ragger, Markus",g,2585,1,1,3
+Anish Giri,2025-05-01,Black,"Kraemer, Martin",g,2577,0.5,1,-2.1
+Anish Giri,2025-05-01,Black,"Maghsoodloo, Parham",g,2684,0.5,1,-0.8
+Anish Giri,2025-06-01,White,"Jumabayev, Rinat",g,2551,1,1,2.6
+Anish Giri,2025-06-01,Black,"Karthik, Venkataraman",g,2565,0.5,1,-2.3
+Anish Giri,2025-06-01,White,"Pranav, Anand",g,2555,1,1,2.6
+Anish Giri,2025-06-01,Black,"Zemlyanskii, Ivan",f,2563,1,1,2.7
+Anish Giri,2025-06-01,White,"Indjic, Aleksandar",g,2637,0.5,1,-1.4
+Anish Giri,2025-06-01,Black,"Maghsoodloo, Parham",g,2706,1,1,4.6
+Anish Giri,2025-06-01,White,"Abdusattorov, Nodirbek",g,2771,0.5,1,0.5
+Anish Giri,2025-06-01,Black,"Ivic, Velimir",g,2630,0.5,1,-1.5
+Anish Giri,2025-06-01,White,"Aditya, Mittal",g,2547,1,1,2.5
+Anish Giri,2025-09-01,White,"Robson, Ray",g,2687,0.5,1,-0.8
+Anish Giri,2025-09-01,Black,"Nihal, Sarin",g,2692,0.5,1,-0.8
+Anish Giri,2025-09-01,White,"Pranav, V",g,2597,0.5,1,-2
+Anish Giri,2025-09-01,Black,"Keymer, Vincent",g,2730,0.5,1,-0.3
+Anish Giri,2025-09-01,White,"Karthikeyan, Murali",g,2658,0.5,1,-1.2
+Anish Giri,2025-09-01,White,"Vidit, Santosh Gujrathi",g,2720,0.5,1,-0.4
+Anish Giri,2025-09-01,Black,"Erigaisi, Arjun",g,2776,0.5,1,0.4
+Anish Giri,2025-09-01,White,"Liang, Awonder",g,2696,0.5,1,-0.7
+Anish Giri,2025-09-01,Black,"Van Foreest, Jorden",g,2697,1,1,4.3
+Anish Giri,2025-10-01,Black,"Hovhannisyan, Robert",g,2629,1,1,3.4
+Anish Giri,2025-10-01,White,"Salem, A.r. Saleh",g,2640,0.5,1,-1.4
+Anish Giri,2025-10-01,White,"Svane, Frederik",g,2643,0.5,1,-1.4
+Anish Giri,2025-10-01,Black,"Cheparinov, Ivan",g,2627,0.5,1,-1.6
+Anish Giri,2025-10-01,White,"Oparin, Grigoriy",g,2660,1,1,3.8
+Anish Giri,2025-10-01,Black,"Maurizzi, Marcandria",g,2610,1,1,3.2
+Anish Giri,2025-10-01,White,"Mishra, Abhimanyu",g,2611,0.5,1,-1.8
+Anish Giri,2025-10-01,Black,"Maghsoodloo, Parham",g,2692,0.5,1,-0.8
+Anish Giri,2025-10-01,White,"Van Foreest, Jorden",g,2692,1,1,4.2
+Anish Giri,2025-10-01,Black,"Firouzja, Alireza",g,2754,0.5,1,0.1
+Anish Giri,2025-10-01,White,"Niemann, Hans Moke",g,2733,1,1,4.8
+Anish Giri,2025-11-01,Black,"Naiditsch, Arkadij",g,2587,1,1,2.7
+Anish Giri,2025-11-01,White,"Wojtaszek, Radoslaw",g,2654,0.5,1,-1.4
+Anish Giri,2025-11-01,White,"Deac, Bogdan-Daniel",g,2655,0.5,1,-1.4
+Anish Giri,2025-11-01,Black,"Mamedyarov, Shakhriyar",g,2742,0.5,1,-0.2
+Anish Giri,2025-11-01,Black,"Shirov, Alexei",g,2636,1,1,3.3
+Anish Giri,2025-11-01,White,"Predke, Alexandr",g,2634,1,1,3.3
+Anish Giri,2025-11-01,White,"Ponomariov, Ruslan",g,2633,0.5,1,-1.7
+Anish Giri,2025-11-01,Black,"Vitiugov, Nikita",g,2654,0.5,1,-1.4
+Anish Giri,2025-11-01,Black,"Keymer, Vincent",g,2755,0.5,1,-0.1
+Anish Giri,2025-12-01,Black,"Maksimovic, Bojan",g,2532,0.5,1,-3
+Anish Giri,2025-12-01,White,"Maksimovic, Bojan",g,2532,1,1,2
+Anish Giri,2025-12-01,White,"Donchenko, Alexander",g,2641,0.5,1,-1.7
+Anish Giri,2025-12-01,Black,"Donchenko, Alexander",g,2641,0,1,-6.7
+Wei Yi,2024-02-01,Black,"Donchenko, Alexander",g,2642,1,1,3.7
+Wei Yi,2024-02-01,White,"Gukesh, D",g,2725,0,1,-5.2
+Wei Yi,2024-02-01,Black,"Praggnanandhaa, R",g,2743,0.5,1,0
+Wei Yi,2024-02-01,White,"Maghsoodloo, Parham",g,2740,1,1,5
+Wei Yi,2024-02-01,Black,"Abdusattorov, Nodirbek",g,2727,0.5,1,-0.2
+Wei Yi,2024-02-01,Black,"Firouzja, Alireza",g,2759,0,1,-4.7
+Wei Yi,2024-02-01,White,"Ding, Liren",g,2780,0.5,1,0.6
+Wei Yi,2024-02-01,Black,"Giri, Anish",g,2749,0.5,1,0.1
+Wei Yi,2024-02-01,White,"Nepomniachtchi, Ian",g,2769,1,1,5.4
+Wei Yi,2024-02-01,Black,"Van Foreest, Jorden",g,2682,0.5,1,-0.8
+Wei Yi,2024-02-01,White,"Warmerdam, Max",g,2625,1,1,3.4
+Wei Yi,2024-02-01,Black,"Ju, Wenjun",g,2549,1,1,2.5
+Wei Yi,2024-02-01,White,"Vidit, Santosh Gujrathi",g,2742,1,1,5
+Wei Yi,2024-08-01,White,"Li, Chao B",g,2645,1,1,3.5
+Wei Yi,2024-08-01,White,"Xu, Pengmo",,2355*,1,1,0.8
+Wei Yi,2024-08-01,White,"Cao, Qingfeng",,2355*,1,1,0.8
+Wei Yi,2024-08-01,White,"Liu, Qingnan",g,2540,1,1,2.3
+Wei Yi,2024-10-01,Black,"Dominguez, Jose Manuel",m,2362*,1,1,0.8
+Wei Yi,2024-10-01,White,"Demchenko, Anton",g,2597,1,1,2.8
+Wei Yi,2024-10-01,Black,"Sargsyan, Shant",g,2649,0.5,1,-1.5
+Wei Yi,2024-10-01,White,"Anton Guijarro, David",g,2665,1,1,3.7
+Wei Yi,2024-10-01,Black,"Nguyen, Ngoc Truong Son",g,2633,0.5,1,-1.7
+Wei Yi,2024-10-01,Black,"Gukesh, D",g,2764,0,1,-5
+Wei Yi,2024-10-01,White,"Deac, Bogdan-Daniel",g,2680,0.5,1,-1.1
+Wei Yi,2024-10-01,Black,"Tabatabaei, M. Amin",g,2714,1,1,4.3
+Wei Yi,2024-10-01,White,"Yakubboev, Nodirbek",g,2666,1,1,3.7
+Wei Yi,2024-10-01,Black,"So, Wesley",g,2752,0,1,-5.1
+Wei Yi,2024-11-01,White,"Ostlund, Joar",c,2363*,1,1,0.8
+Wei Yi,2024-11-01,Black,"Sahidi, Samir",m,2481,1,1,1.6
+Wei Yi,2024-11-01,White,"Steinberg, Nitzan",g,2554,0.5,1,-2.7
+Wei Yi,2024-11-01,Black,"Yakubboev, Nodirbek",g,2654,0,1,-6.5
+Wei Yi,2024-11-01,Black,"Maghsoodloo, Parham",g,2719,0,1,-5.6
+Wei Yi,2024-11-01,White,"Keymer, Vincent",g,2721,0.5,1,-0.6
+Wei Yi,2024-11-01,White,"Maurizzi, Marc Andria",g,2594,1,1,2.8
+Wei Yi,2025-01-01,Black,"Huschenbeth, Niclas",g,2594,0.5,1,-2.1
+Wei Yi,2025-02-01,White,"Ivic, Velimir",g,2620,1,1,3.2
+Wei Yi,2025-02-01,Black,"Carlsen, Magnus",g,2831,0.5,1,1.1
+Wei Yi,2025-03-01,White,"Caruana, Fabiano",g,2803,0.5,1,0.7
+Wei Yi,2025-03-01,Black,"Sarana, Alexey",g,2677,0.5,1,-1
+Wei Yi,2025-03-01,White,"Keymer, Vincent",g,2733,0.5,1,-0.3
+Wei Yi,2025-03-01,Black,"Abdusattorov, Nodirbek",g,2768,0.5,1,0.2
+Wei Yi,2025-03-01,White,"Harikrishna, Pentala",g,2695,0.5,1,-0.8
+Wei Yi,2025-03-01,Black,"Praggnanandhaa, R",g,2741,0.5,1,-0.1
+Wei Yi,2025-03-01,White,"Mendonca, Leon Luke",g,2639,0.5,1,-1.5
+Wei Yi,2025-03-01,Black,"Warmerdam, Max",g,2646,1,1,3.6
+Wei Yi,2025-03-01,White,"Erigaisi, Arjun",g,2801,0.5,1,0.7
+Wei Yi,2025-03-01,White,"Van Foreest, Jorden",g,2680,0.5,1,-1
+Wei Yi,2025-03-01,Black,"Gukesh, D",g,2777,0.5,1,0.4
+Wei Yi,2025-03-01,White,"Giri, Anish",g,2731,0.5,1,-0.3
+Wei Yi,2025-03-01,Black,"Fedoseev, Vladimir",g,2717,0.5,1,-0.5
+Wei Yi,2025-04-01,Black,"Keymer, Vincent",g,2731,0,1,-5.3
+Wei Yi,2025-04-01,White,"Giri, Anish",g,2728,0.5,1,-0.4
+Wei Yi,2025-04-01,Black,"Aravindh, Chithambaram Vr.",g,2729,0,1,-5.4
+Wei Yi,2025-04-01,White,"Navara, David",g,2677,1,1,3.9
+Wei Yi,2025-04-01,Black,"Shankland, Sam",g,2670,1,1,3.8
+Wei Yi,2025-04-01,White,"Gurel, Ediz",g,2624,0.5,1,-1.8
+Wei Yi,2025-04-01,Black,"Praggnanandhaa, R",g,2741,0.5,1,-0.2
+Wei Yi,2025-04-01,White,"Nguyen, Thai Dai Van",g,2668,1,1,3.8
+Wei Yi,2025-04-01,Black,"Le, Quang Liem",g,2739,0.5,1,-0.2
+Wei Yi,2025-07-01,White,"Erigaisi, Arjun",g,2782,0.5,1,0.3
+Wei Yi,2025-07-01,White,"Caruana, Fabiano",g,2776,0,1,-4.7
+Wei Yi,2025-07-01,Black,"Carlsen, Magnus",g,2837,0.5,1,1.1
+Wei Yi,2025-07-01,Black,"Nakamura, Hikaru",g,2804,0.5,1,0.6
+Wei Yi,2025-07-01,White,"Gukesh, D",g,2787,0.5,1,0.4
+Wei Yi,2025-07-01,Black,"Erigaisi, Arjun",g,2782,0.5,1,0.3
+Wei Yi,2025-07-01,Black,"Caruana, Fabiano",g,2776,0,1,-4.7
+Wei Yi,2025-07-01,White,"Carlsen, Magnus",g,2837,0.5,1,1.1
+Wei Yi,2025-07-01,Black,"Gukesh, D",g,2787,0,1,-4.6
+Wei Yi,2025-07-01,White,"Nakamura, Hikaru",g,2804,0.5,1,0.6
+Wei Yi,2025-08-01,White,"Aronian, Levon",g,2742,0.5,1,-0.1
+Wei Yi,2025-08-01,Black,"Aronian, Levon",g,2742,0.5,1,-0.1
+Wei Yi,2025-08-01,White,"Aronian, Levon",g,2742,1,1,4.9
+Wei Yi,2025-08-01,Black,"Aronian, Levon",g,2742,0.5,1,-0.1
+Wei Yi,2025-10-01,White,"Zhu, Hengyi",,2386,1,1,1
+Wei Yi,2025-10-01,White,"Yu, Yangyi",g,2714,0.5,1,-0.5
+Wei Yi,2025-11-01,White,"Wang, Shixu B",m,2402,1,1,1.1
+Wei Yi,2025-11-01,White,"Jiang, Haochen",m,2457,0.5,1,-3.5
+Wei Yi,2025-11-01,White,"Huang, Renjie",,2502,0.5,1,-3.1
+Wei Yi,2025-11-01,White,"Chen, Zhi",,2223,1,1,0.3
+Wei Yi,2025-12-01,White,"Piorun, Kacper",g,2557,1,1,2.5
+Wei Yi,2025-12-01,Black,"Piorun, Kacper",g,2557,1,1,2.5
+Wei Yi,2025-12-01,Black,"Gledura, Benjamin",g,2647,0.5,1,-1.4
+Wei Yi,2025-12-01,White,"Gledura, Benjamin",g,2647,0.5,1,-1.4
+Wei Yi,2025-12-01,White,"Maghsoodloo, Parham",g,2701,0.5,1,-0.7
+Wei Yi,2025-12-01,Black,"Maghsoodloo, Parham",g,2701,0.5,1,-0.7
+Wei Yi,2025-12-01,Black,"Sevian, Samuel",g,2701,0.5,1,-0.7
+Wei Yi,2025-12-01,White,"Sevian, Samuel",g,2701,1,1,4.3
+Wei Yi,2025-12-01,White,"Erigaisi, Arjun",g,2769,0.5,1,0.2
+Wei Yi,2025-12-01,Black,"Erigaisi, Arjun",g,2769,0.5,1,0.2
+Wei Yi,2025-12-01,White,"Esipenko, Andrey",g,2681,0.5,1,-1
+Wei Yi,2025-12-01,Black,"Esipenko, Andrey",g,2681,0.5,1,-1
+Wei Yi,2025-12-01,Black,"Sindarov, Javokhir",g,2721,0.5,1,-0.4
+Wei Yi,2025-12-01,White,"Sindarov, Javokhir",g,2721,0.5,1,-0.4
+Javokhir Sindarov,2024-04-01,White,"Belyakov, Bogdan",m,2414,1,1,1.6
+Javokhir Sindarov,2024-04-01,Black,"Saydaliev, Saidakbar",m,2445,0.5,1,-3.1
+Javokhir Sindarov,2024-04-01,White,"Shubin, Kirill",m,2459,0.5,1,-3
+Javokhir Sindarov,2024-04-01,Black,"Ohanyan, Emin",g,2490,1,1,2.3
+Javokhir Sindarov,2024-04-01,White,"Gareyev, Timur",g,2558,0,1,-6.9
+Javokhir Sindarov,2024-04-01,Black,"Savchenko, Boris",g,2480,0,1,-7.8
+Javokhir Sindarov,2024-06-01,White,"Ansat, Aldiyar",m,2421,1,1,1.8
+Javokhir Sindarov,2024-06-01,Black,"Miladinovic, Igor",g,2489,0.5,1,-2.5
+Javokhir Sindarov,2024-06-01,White,"Iniyan, Pa",g,2493,0.5,1,-2.5
+Javokhir Sindarov,2024-06-01,Black,"Lashkin, Jegor",f,2449,1,1,2.1
+Javokhir Sindarov,2024-06-01,White,"Vakhidov, Jakhongir",g,2599,0.5,1,-1.2
+Javokhir Sindarov,2024-06-01,Black,"Ju, Wenjun",g,2559,0.5,1,-1.7
+Javokhir Sindarov,2024-06-01,White,"Ghosh, Diptayan",g,2560,0,1,-6.7
+Javokhir Sindarov,2024-06-01,Black,"Tarhan, Adar",m,2458,0.5,1,-2.9
+Javokhir Sindarov,2024-07-01,Black,"Yu, Yangyi",g,2715,0.5,1,0.7
+Javokhir Sindarov,2024-07-01,White,"Rapport, Richard",g,2715,0.5,1,0.7
+Javokhir Sindarov,2024-07-01,Black,"Vidit, Santosh Gujrathi",g,2721,0.5,1,0.7
+Javokhir Sindarov,2024-07-01,White,"Abdusattorov, Nodirbek",g,2766,1,1,6.3
+Javokhir Sindarov,2024-07-01,Black,"Maghsoodloo, Parham",g,2733,0.5,1,0.9
+Javokhir Sindarov,2024-07-01,White,"Mamedyarov, Shakhriyar",g,2734,0.5,1,0.9
+Javokhir Sindarov,2024-07-01,Black,"Yakubboev, Nodirbek",g,2634,0.5,1,-0.5
+Javokhir Sindarov,2024-07-01,Black,"Sarana, Alexey",g,2712,0,1,-4.4
+Javokhir Sindarov,2024-07-01,White,"Grischuk, Alexander",g,2719,0.5,1,0.7
+Javokhir Sindarov,2024-09-01,White,"Hari, Madhavan N B",m,2386,1,1,1.6
+Javokhir Sindarov,2024-09-01,Black,"Prraneeth, Vuppala",c,2456,0.5,1,-2.8
+Javokhir Sindarov,2024-09-01,White,"Barp, Alberto",m,2452,1,1,2.2
+Javokhir Sindarov,2024-09-01,White,"Srihari, L R",m,2500,1,1,2.7
+Javokhir Sindarov,2024-09-01,Black,"Pranav, V",g,2598,0.5,1,-1
+Javokhir Sindarov,2024-09-01,Black,"Tin, Jingyao",g,2575,0.5,1,-1.4
+Javokhir Sindarov,2024-09-01,White,"Mendonca, Leon Luke",g,2621,0.5,1,-0.7
+Javokhir Sindarov,2024-09-01,White,"Adhiban, B.",g,2532,1,1,3.1
+Javokhir Sindarov,2024-09-01,Black,"Sadhwani, Raunak",g,2653,0.5,1,-0.3
+Javokhir Sindarov,2024-10-01,Black,"Wafa, Hamed",m,2368,0.5,1,-3.6
+Javokhir Sindarov,2024-10-01,White,"Livaic, Leon",g,2550,1,1,3.3
+Javokhir Sindarov,2024-10-01,Black,"Le, Tuan Minh",g,2564,0,1,-6.5
+Javokhir Sindarov,2024-10-01,White,"Bologan, Victor",g,2598,1,1,3.9
+Javokhir Sindarov,2024-10-01,Black,"Nabaty, Tamir",g,2630,0,1,-5.7
+Javokhir Sindarov,2024-10-01,White,"Ponomariov, Ruslan",g,2654,1,1,4.7
+Javokhir Sindarov,2024-10-01,Black,"Indjic, Aleksandar",g,2611,0.5,1,-0.9
+Javokhir Sindarov,2024-10-01,White,"Praggnanandhaa, R",g,2750,0.5,1,1
+Javokhir Sindarov,2024-10-01,White,"Yu, Yangyi",g,2703,0,1,-4.6
+Javokhir Sindarov,2024-10-01,White,"Fressinet, Laurent",g,2616,0.5,1,-0.8
+Javokhir Sindarov,2024-11-01,Black,"Buckels, Valentin",m,2448,1,1,2.1
+Javokhir Sindarov,2024-11-01,Black,"Kadric, Denis",g,2553,1,1,3.3
+Javokhir Sindarov,2025-01-01,White,"Goltseva, Ekaterina",f,2378,1,1,1.4
+Javokhir Sindarov,2025-01-01,Black,"Chu, Wei Chao",m,2419,1,1,1.8
+Javokhir Sindarov,2025-01-01,White,"Nikitenko, Mihail",g,2490,1,1,2.5
+Javokhir Sindarov,2025-01-01,Black,"Nigmatov, Ortik",m,2447,0.5,1,-2.9
+Javokhir Sindarov,2025-01-01,White,"Zemlyanskii, Ivan",f,2543,1,1,3.1
+Javokhir Sindarov,2025-01-01,Black,"Abdusattorov, Nodirbek",g,2777,0.5,1,1.3
+Javokhir Sindarov,2025-01-01,White,"Sankalp, Gupta",g,2539,1,1,3.1
+Javokhir Sindarov,2025-01-01,Black,"Nihal, Sarin",g,2676,0,1,-5.1
+Javokhir Sindarov,2025-01-01,White,"Neelash, Saha",m,2458,1,1,2.2
+Javokhir Sindarov,2025-02-01,White,"Areshchenko, Alexander",g,2606,1,1,3.8
+Javokhir Sindarov,2025-02-01,Black,"Christiansen, Johan-Sebastian",g,2664,1,1,4.6
+Javokhir Sindarov,2025-03-01,White,"Vachier-Lagrave, Maxime",g,2729,1,1,5.4
+Javokhir Sindarov,2025-03-01,Black,"Banusz, Tamas",g,2582,1,1,3.4
+Javokhir Sindarov,2025-03-01,White,"Delchev, Aleksander",g,2465,1,1,2.1
+Javokhir Sindarov,2025-03-01,Black,"Johansson, Linus",m,2386,0.5,1,-3.6
+Javokhir Sindarov,2025-04-01,Black,"Neef, Maximilian",m,2468,0.5,1,-3
+Javokhir Sindarov,2025-04-01,White,"Rakotomaharo, Fy Antenaina",m,2438,1,1,1.7
+Javokhir Sindarov,2025-05-01,Black,"Andersen, Mads",g,2576,0.5,1,-1.8
+Javokhir Sindarov,2025-05-01,White,"Krejci, Jan",g,2508,1,1,2.4
+Javokhir Sindarov,2025-05-01,White,"Sarana, Alexey",g,2672,0.5,1,-0.5
+Javokhir Sindarov,2025-06-01,Black,"Tan, Zhongyi",g,2536,1,1,2.8
+Javokhir Sindarov,2025-06-01,White,"Robson, Ray",g,2692,0.5,1,-0.2
+Javokhir Sindarov,2025-06-01,Black,"Erdogmus, Yagiz Kaan",g,2618,0.5,1,-1.2
+Javokhir Sindarov,2025-06-01,White,"L`ami, Erwin",g,2621,1,1,3.8
+Javokhir Sindarov,2025-06-01,Black,"Rapport, Richard",g,2722,0.5,1,0.2
+Javokhir Sindarov,2025-06-01,White,"Grandelius, Nils",g,2637,0.5,1,-1
+Javokhir Sindarov,2025-06-01,Black,"Ivanchuk, Vasyl",g,2644,0.5,1,-0.9
+Javokhir Sindarov,2025-07-01,Black,"Nepomniachtchi, Ian",g,2757,1,1,5.7
+Javokhir Sindarov,2025-07-01,White,"Abdusattorov, Nodirbek",g,2767,0.5,1,0.8
+Javokhir Sindarov,2025-07-01,Black,"Vokhidov, Shamsiddin",g,2644,0.5,1,-0.9
+Javokhir Sindarov,2025-07-01,Black,"Praggnanandhaa, R",g,2767,0,1,-4.2
+Javokhir Sindarov,2025-07-01,White,"Rapport, Richard",g,2714,1,1,5.1
+Javokhir Sindarov,2025-07-01,Black,"Erigaisi, Arjun",g,2782,0.5,1,1
+Javokhir Sindarov,2025-07-01,White,"Aravindh, Chithambaram Vr.",g,2749,1,1,5.5
+Javokhir Sindarov,2025-07-01,Black,"Yakubboev, Nodirbek",g,2659,0.5,1,-0.7
+Javokhir Sindarov,2025-07-01,White,"Maghsoodloo, Parham",g,2691,0.5,1,-0.3
+Javokhir Sindarov,2025-10-01,White,"Hakobyan, Aram",g,2625,0.5,1,-1.3
+Javokhir Sindarov,2025-10-01,Black,"Svane, Rasmus",g,2620,0.5,1,-1.4
+Javokhir Sindarov,2025-10-01,White,"Cheparinov, Ivan",g,2627,0,1,-6.3
+Javokhir Sindarov,2025-10-01,Black,"Dardha, Daniel",g,2624,0.5,1,-1.3
+Javokhir Sindarov,2025-10-01,White,"Goryachkina, Aleksandra",g,2528,1,1,2.5
+Javokhir Sindarov,2025-10-01,Black,"Salem, A.r. Saleh",g,2640,0.5,1,-1.1
+Javokhir Sindarov,2025-10-01,White,"Hovhannisyan, Robert",g,2629,1,1,3.7
+Javokhir Sindarov,2025-10-01,Black,"Puranik, Abhimanyu",g,2640,0.5,1,-1.1
+Javokhir Sindarov,2025-10-01,White,"Chigaev, Maksim",g,2638,1,1,3.8
+Javokhir Sindarov,2025-10-01,Black,"Van Foreest, Jorden",g,2692,0.5,1,-0.4
+Javokhir Sindarov,2025-10-01,White,"Sargsyan, Shant",g,2653,0.5,1,-1
+Javokhir Sindarov,2025-12-01,Black,"Petrov, Nikita",g,2582,1,1,3.1
+Javokhir Sindarov,2025-12-01,White,"Petrov, Nikita",g,2582,0.5,1,-1.9
+Javokhir Sindarov,2025-12-01,White,"Theodorou, Nikolas",g,2656,0.5,1,-0.9
+Javokhir Sindarov,2025-12-01,Black,"Theodorou, Nikolas",g,2656,1,1,4.1
+Javokhir Sindarov,2025-12-01,Black,"Yu, Yangyi",g,2726,0.5,1,0.1
+Javokhir Sindarov,2025-12-01,White,"Yu, Yangyi",g,2726,0.5,1,0.1
+Javokhir Sindarov,2025-12-01,White,"Svane, Frederik",g,2640,1,1,3.9
+Javokhir Sindarov,2025-12-01,Black,"Svane, Frederik",g,2640,0.5,1,-1.1
+Javokhir Sindarov,2025-12-01,White,"Martinez Alcantara, Jose Eduardo",g,2644,0.5,1,-1.1
+Javokhir Sindarov,2025-12-01,Black,"Martinez Alcantara, Jose Eduardo",g,2644,0.5,1,-1.1
+Javokhir Sindarov,2025-12-01,Black,"Yakubboev, Nodirbek",g,2689,0.5,1,-0.4
+Javokhir Sindarov,2025-12-01,White,"Yakubboev, Nodirbek",g,2689,0.5,1,-0.4
+Javokhir Sindarov,2025-12-01,White,"Wei, Yi",g,2752,0.5,1,0.4
+Javokhir Sindarov,2025-12-01,Black,"Wei, Yi",g,2752,0.5,1,0.4
+Andrey Esipenko,2024-03-01,White,"Klein, Felix",f,2288,1,1,0.7
+Andrey Esipenko,2024-03-01,Black,"Joachim, Sven",m,2391,0.5,1,-3.6
+Andrey Esipenko,2024-03-01,White,"Essing, Arnold",f,2304*,1,1,0.8
+Andrey Esipenko,2024-04-01,Black,"Stribuk, Artiom",f,2418,1,1,1.6
+Andrey Esipenko,2024-04-01,White,"Remizov, Yaroslav",m,2446,0.5,1,-3.1
+Andrey Esipenko,2024-04-01,Black,"Ohanyan, Emin",g,2490,0.5,1,-2.7
+Andrey Esipenko,2024-04-01,White,"Hakobyan, Erik",f,2342,1,1,1
+Andrey Esipenko,2024-04-01,Black,"Zemlyanskii, Ivan",f,2529,1,1,2.7
+Andrey Esipenko,2024-04-01,White,"Vokhidov, Shamsiddin",g,2596,1,1,3.6
+Andrey Esipenko,2024-04-01,Black,"Grischuk, Alexander",g,2732,0.5,1,0.4
+Andrey Esipenko,2024-04-01,White,"Drygalov, Sergey",g,2547,1,1,2.9
+Andrey Esipenko,2024-04-01,Black,"Tabatabaei, M. Amin",g,2696,0,1,-5.1
+Andrey Esipenko,2024-06-01,Black,"Gareyev, Timur",g,2552,0.5,1,-2
+Andrey Esipenko,2024-06-01,Black,"Lazavik, Denis",g,2572,0.5,1,-1.8
+Andrey Esipenko,2024-06-01,White,"Shubin, Kirill",m,2458,0.5,1,-3
+Andrey Esipenko,2024-06-01,Black,"Grischuk, Alexander",g,2728,0.5,1,0.3
+Andrey Esipenko,2024-06-01,White,"Kryakvin, Dmitry",g,2473,1,1,2.1
+Andrey Esipenko,2024-06-01,Black,"Bocharov, Dmitry",g,2522,1,1,2.6
+Andrey Esipenko,2024-06-01,White,"Nesterov, Arseniy",g,2589,0.5,1,-1.6
+Andrey Esipenko,2024-07-01,White,"Postny, Evgeny",g,2600,0.5,1,-1.4
+Andrey Esipenko,2024-07-01,White,"Alonso Rosell, Alvar",g,2556,0.5,1,-2
+Andrey Esipenko,2024-07-01,Black,"Amin, Bassem",g,2682,0.5,1,-0.3
+Andrey Esipenko,2024-07-01,White,"Demuth, Adrien",g,2506,0.5,1,-2.5
+Andrey Esipenko,2024-07-01,Black,"Ter-Sahakyan, Samvel",g,2650,0.5,1,-0.7
+Andrey Esipenko,2024-07-01,White,"Shevchenko, Kirill",g,2682,0.5,1,-0.3
+Andrey Esipenko,2024-07-01,Black,"Van Foreest, Lucas",g,2505,0.5,1,-2.6
+Andrey Esipenko,2024-07-01,White,"Aravindh, Chithambaram Vr.",g,2670,0.5,1,-0.5
+Andrey Esipenko,2024-07-01,Black,"Vitiugov, Nikita",g,2688,1,1,4.8
+Andrey Esipenko,2024-09-01,White,"Ponkratov, Pavel",g,2571,0.5,1,-1.4
+Andrey Esipenko,2024-09-01,Black,"Matlakov, Maxim",g,2651,0.5,1,-0.3
+Andrey Esipenko,2024-09-01,White,"Dubov, Daniil",g,2701,0.5,1,0.4
+Andrey Esipenko,2024-09-01,Black,"Artemiev, Vladislav",g,2699,0.5,1,0.4
+Andrey Esipenko,2024-09-01,White,"Makarian, Rudik",m,2537,1,1,3.2
+Andrey Esipenko,2024-09-01,Black,"Grebnev, Aleksey",g,2513,0.5,1,-2.1
+Andrey Esipenko,2024-09-01,White,"Najer, Evgeniy",g,2635,0.5,1,-0.5
+Andrey Esipenko,2024-09-01,White,"Grischuk, Alexander",g,2708,1,1,5.5
+Andrey Esipenko,2024-09-01,Black,"Dreev, Aleksey",g,2591,0.5,1,-1.1
+Andrey Esipenko,2024-09-01,White,"Nesterov, Arseniy",g,2592,1,1,3.9
+Andrey Esipenko,2024-09-01,Black,"Timofeev, Artyom",g,2547,0.5,1,-1.7
+Andrey Esipenko,2024-11-01,Black,"Dinstuhl, Volkmar, Dr.",m,2384,1,1,1.5
+Andrey Esipenko,2024-11-01,Black,"Jovanovic, Zoran",g,2525,1,1,3
+Andrey Esipenko,2025-01-01,Black,"Zwirs, Nico",m,2480,0.5,1,-2.6
+Andrey Esipenko,2025-02-01,White,"Van Foreest, Lucas",g,2526,0.5,1,-2.3
+Andrey Esipenko,2025-02-01,Black,"Maurizzi, Marc`andria",g,2579,0.5,1,-1.6
+Andrey Esipenko,2025-03-01,Black,"Rapport, Richard",g,2718,0.5,1,0.3
+Andrey Esipenko,2025-03-01,White,"Moussard, Jules",g,2595,0,1,-6.4
+Andrey Esipenko,2025-04-01,Black,"Sukiasyan, Vahe A.",f,2399,0.5,1,-3.5
+Andrey Esipenko,2025-04-01,White,"Putrenko, Kirill",f,2306,1,1,0.9
+Andrey Esipenko,2025-04-01,Black,"Uskov, Artem",m,2461,0.5,1,-2.9
+Andrey Esipenko,2025-04-01,White,"Rozum, Ivan",g,2436,1,1,1.9
+Andrey Esipenko,2025-04-01,Black,"Nikitenko, Mihail",g,2521,1,1,2.8
+Andrey Esipenko,2025-04-01,White,"Shimanov, Aleksandr",g,2593,1,1,3.7
+Andrey Esipenko,2025-04-01,Black,"Niemann, Hans Moke",g,2734,0.5,1,0.6
+Andrey Esipenko,2025-04-01,White,"Goganov, Aleksey",g,2472,0.5,1,-2.8
+Andrey Esipenko,2025-04-01,Black,"Grischuk, Alexander",g,2687,0.5,1,-0.1
+Andrey Esipenko,2025-05-01,Black,"Deuer, Marius",f,2464,1,1,2.1
+Andrey Esipenko,2025-05-01,White,"Perunovic, Milos",g,2501,0.5,1,-2.5
+Andrey Esipenko,2025-05-01,White,"Livaic, Leon",g,2536,1,1,2.9
+Andrey Esipenko,2025-05-01,Black,"Gschiel, Alexander",f,2317,1,1,0.9
+Andrey Esipenko,2025-05-01,White,"Ebner, Hubert",f,2296*,1,1,0.8
+Andrey Esipenko,2025-06-01,Black,"Panin, Mikhail",c,2296*,1,1,0.8
+Andrey Esipenko,2025-06-01,White,"Mokshanov, Alexey",m,2353,0.5,1,-3.8
+Andrey Esipenko,2025-06-01,White,"Rychkov, Oleg",f,2379,1,1,1.3
+Andrey Esipenko,2025-06-01,Black,"Zabotin, Alexander",m,2394,0.5,1,-3.5
+Andrey Esipenko,2025-06-01,Black,"Shomoev, Anton",g,2476,0.5,1,-2.8
+Andrey Esipenko,2025-06-01,White,"Rozum, Ivan",g,2439,1,1,1.8
+Andrey Esipenko,2025-07-01,Black,"Van Wely, Loek",g,2609,0,1,-6.2
+Andrey Esipenko,2025-07-01,Black,"Bacrot, Etienne",g,2633,0.5,1,-0.9
+Andrey Esipenko,2025-07-01,White,"Fridman, Daniel",g,2584,0.5,1,-1.5
+Andrey Esipenko,2025-07-01,Black,"David, Alberto",g,2481,0.5,1,-2.7
+Andrey Esipenko,2025-07-01,White,"Barbot, Pierre",m,2454,1,1,2
+Andrey Esipenko,2025-07-01,Black,"Girel, Joseph",g,2498,0.5,1,-2.5
+Andrey Esipenko,2025-07-01,White,"Van Foreest, Lucas",g,2530,1,1,2.8
+Andrey Esipenko,2025-07-01,Black,"Karthikeyan, Murali",g,2658,0.5,1,-0.5
+Andrey Esipenko,2025-07-01,Black,"Ivanchuk, Vasyl",g,2644,0.5,1,-0.7
+Andrey Esipenko,2025-08-01,Black,"Santos Latasa, Jaime",g,2620,0.5,1,-1
+Andrey Esipenko,2025-08-01,Black,"Kozak, Adam",g,2587,1,1,3.6
+Andrey Esipenko,2025-09-01,Black,"Ioannidis, Evgenios",g,2491,1,1,2.5
+Andrey Esipenko,2025-09-01,White,"Murzin, Volodar",g,2678,0.5,1,-0.1
+Andrey Esipenko,2025-09-01,Black,"Abasov, Nijat",g,2578,0.5,1,-1.4
+Andrey Esipenko,2025-09-01,White,"Makarian, Rudik",m,2549,1,1,3.2
+Andrey Esipenko,2025-09-01,Black,"Tiglon, Bryce",g,2545,0.5,1,-1.8
+Andrey Esipenko,2025-09-01,Black,"Andreikin, Dmitry",g,2695,0.5,1,0.2
+Andrey Esipenko,2025-09-01,White,"Kuru, Atilla",f,2435,1,1,1.9
+Andrey Esipenko,2025-09-01,White,"Mamedyarov, Shakhriyar",g,2746,0.5,1,0.9
+Andrey Esipenko,2025-10-01,Black,"Mendonca, Leon Luke",g,2615,0.5,1,-1
+Andrey Esipenko,2025-10-01,White,"Korobov, Anton",g,2616,1,1,4
+Andrey Esipenko,2025-10-01,Black,"Henriquez Villagra, Cristobal",g,2594,0.5,1,-1.3
+Andrey Esipenko,2025-10-01,White,"Suleymanli, Aydin",g,2602,0.5,1,-1.2
+Andrey Esipenko,2025-10-01,Black,"Pranav, V",g,2596,0,1,-6.2
+Andrey Esipenko,2025-10-01,White,"Volokitin, Andrei",g,2628,1,1,4.2
+Andrey Esipenko,2025-10-01,Black,"Shirov, Alexei",g,2616,0.5,1,-1
+Andrey Esipenko,2025-10-01,White,"Gurel, Ediz",g,2631,0.5,1,-0.8
+Andrey Esipenko,2025-10-01,Black,"Anton Guijarro, David",g,2625,0.5,1,-0.9
+Andrey Esipenko,2025-10-01,White,"Sjugirov, Sanan",g,2627,1,1,4.2
+Andrey Esipenko,2025-10-01,White,"Nepomniachtchi, Ian",g,2742,1,1,5.8
+Andrey Esipenko,2025-11-01,White,"Artemiev, Vladislav",g,2646,0.5,1,-0.7
+Andrey Esipenko,2025-11-01,Black,"Lobanov, Sergei",g,2526,0.5,1,-2.2
+Andrey Esipenko,2025-11-01,White,"Iljiushenok, Ilia",g,2514,0.5,1,-2.3
+Andrey Esipenko,2025-11-01,Black,"Uskov, Artem",g,2498,0.5,1,-2.5
+Andrey Esipenko,2025-11-01,White,"Malakhov, Vladimir",g,2643,1,1,4.3
+Andrey Esipenko,2025-11-01,Black,"Zvjaginsev, Vadim",g,2528,0.5,1,-2.2
+Andrey Esipenko,2025-11-01,White,"Ponkratov, Pavel",g,2586,0.5,1,-1.5
+Andrey Esipenko,2025-11-01,Black,"Zemlyanskii, Ivan",f,2596,0.5,1,-1.3
+Andrey Esipenko,2025-11-01,White,"Nesterov, Arseniy",g,2584,0.5,1,-1.5
+Andrey Esipenko,2025-11-01,Black,"Dubov, Daniil",g,2684,0.5,1,-0.1
+Andrey Esipenko,2025-11-01,White,"Vetokhin, Savva",g,2569,0.5,1,-1.7
+Andrey Esipenko,2025-12-01,White,"Abasov, Nijat",g,2587,1,1,3.7
+Andrey Esipenko,2025-12-01,Black,"Abasov, Nijat",g,2587,1,1,3.7
+Andrey Esipenko,2025-12-01,Black,"Idani, Pouya",g,2601,0,1,-6.1
+Andrey Esipenko,2025-12-01,White,"Idani, Pouya",g,2601,1,1,3.9
+Andrey Esipenko,2025-12-01,White,"Keymer, Vincent",g,2773,0.5,1,1.3
+Andrey Esipenko,2025-12-01,Black,"Keymer, Vincent",g,2773,0.5,1,1.3
+Andrey Esipenko,2025-12-01,White,"Grebnev, Aleksey",g,2617,0.5,1,-0.9
+Andrey Esipenko,2025-12-01,Black,"Grebnev, Aleksey",g,2617,0.5,1,-0.9
+Andrey Esipenko,2025-12-01,Black,"Shankland, Sam",g,2649,0.5,1,-0.4
+Andrey Esipenko,2025-12-01,White,"Shankland, Sam",g,2649,0.5,1,-0.4
+Andrey Esipenko,2025-12-01,Black,"Wei, Yi",g,2752,0.5,1,1
+Andrey Esipenko,2025-12-01,White,"Wei, Yi",g,2752,0.5,1,1
+Andrey Esipenko,2025-12-01,White,"Yakubboev, Nodirbek",g,2689,1,1,5.1
+Andrey Esipenko,2025-12-01,Black,"Yakubboev, Nodirbek",g,2689,1,1,5.1
+Matthias Bluebaum,2024-02-01,White,"Pavlidis, Antonios",g,2565,1,1,3.8
+Matthias Bluebaum,2024-02-01,Black,"Livaic, Leon",g,2557,0.5,1,-1.3
+Matthias Bluebaum,2024-03-01,Black,"Santos Latasa, Jaime",g,2612,0,1,-5.6
+Matthias Bluebaum,2024-03-01,White,"Eljanov, Pavel",g,2699,0.5,1,0.6
+Matthias Bluebaum,2024-03-01,White,"Nakamura, Hikaru",g,2788,0.5,1,1.8
+Matthias Bluebaum,2024-03-01,White,"Abasov, Nijat",g,2641,0.5,1,-0.2
+Matthias Bluebaum,2024-03-01,Black,"Anand, Viswanathan",g,2748,0.5,1,1.2
+Matthias Bluebaum,2024-04-01,White,"Petersen, Marcel",,2255*,1,1,0.8
+Matthias Bluebaum,2024-04-01,Black,"Schmidek, Emil",m,2439,0.5,1,-2.8
+Matthias Bluebaum,2024-05-01,Black,"Gerlach, Felix",,2255*,1,1,0.8
+Matthias Bluebaum,2024-05-01,White,"Kaufeld, Juergen",f,2257,0.5,1,-4.2
+Matthias Bluebaum,2024-05-01,Black,"Terekhov, Andrey",f,2255*,1,1,0.8
+Matthias Bluebaum,2024-05-01,White,"Lewtak, Damian",m,2343,0.5,1,-3.6
+Matthias Bluebaum,2024-05-01,Black,"Langheinrich, Ferenc",m,2339,1,1,1.3
+Matthias Bluebaum,2024-05-01,White,"Knuedel, Torben",f,2299,1,1,1.1
+Matthias Bluebaum,2024-05-01,Black,"Bazakutsa, Svyatoslav",f,2463,0.5,1,-2.5
+Matthias Bluebaum,2024-05-01,White,"Nevednichy, Vladislav",g,2445,1,1,2.3
+Matthias Bluebaum,2024-05-01,Black,"Horvath, Dominik",m,2534,1,1,3.4
+Matthias Bluebaum,2024-07-01,White,"Miron, Lucian-Costin",g,2479,0.5,1,-2.2
+Matthias Bluebaum,2024-07-01,White,"Aravindh, Chithambaram Vr.",g,2670,0.5,1,0.3
+Matthias Bluebaum,2024-07-01,Black,"Brunello, Sabino",g,2507,0.5,1,-1.9
+Matthias Bluebaum,2024-07-01,Black,"Willems, Niels",f,2328,1,1,1.3
+Matthias Bluebaum,2024-07-01,White,"Relange, Eloi",g,2442,1,1,2.4
+Matthias Bluebaum,2024-10-01,White,"Andrianiaina, Heritiana",c,2240*,1,1,0.8
+Matthias Bluebaum,2024-10-01,Black,"Bersamina, Paulo",m,2425,1,1,2.3
+Matthias Bluebaum,2024-10-01,White,"Pultinevicius, Paulius",g,2587,0.5,1,-0.7
+Matthias Bluebaum,2024-10-01,Black,"Djukic, Nikola",g,2515,0.5,1,-1.7
+Matthias Bluebaum,2024-10-01,White,"Escalona Landi, Samid Eduardo",f,2305,1,1,1.2
+Matthias Bluebaum,2024-10-01,White,"Hillarp Persson, Tiger",g,2457,1,1,2.6
+Matthias Bluebaum,2024-10-01,White,"Livaic, Leon",g,2550,1,1,3.8
+Matthias Bluebaum,2024-10-01,Black,"Sargissian, Gabriel",g,2646,0,1,-4.9
+Matthias Bluebaum,2024-10-01,White,"Flores, Diego",g,2546,1,1,3.7
+Matthias Bluebaum,2024-10-01,Black,"Petrov, Martin",g,2536,0.5,1,-1.4
+Matthias Bluebaum,2024-11-01,White,"Narayanan, S L",g,2640,0.5,1,-0.1
+Matthias Bluebaum,2024-11-01,Black,"Tabatabaei, M. Amin",g,2702,0.5,1,0.8
+Matthias Bluebaum,2024-12-01,White,"Golubka, Petro",g,2365,1,1,1.6
+Matthias Bluebaum,2024-12-01,Black,"Girel, Joseph",g,2486,1,1,2.8
+Matthias Bluebaum,2024-12-01,White,"Sanal, Vahap",g,2561,1,1,3.7
+Matthias Bluebaum,2024-12-01,Black,"Chigaev, Maksim",g,2605,0,1,-5.7
+Matthias Bluebaum,2024-12-01,White,"Parligras, Mircea-Emilian",g,2550,0.5,1,-1.4
+Matthias Bluebaum,2024-12-01,Black,"Ahmadzada, Ahmad",g,2542,0.5,1,-1.5
+Matthias Bluebaum,2024-12-01,White,"Gorshtein, Ido",g,2528,0.5,1,-1.7
+Matthias Bluebaum,2024-12-01,Black,"Maksimovic, Bojan",m,2504,0.5,1,-2
+Matthias Bluebaum,2024-12-01,White,"Dudin, Gleb",g,2510,0.5,1,-1.9
+Matthias Bluebaum,2024-12-01,Black,"Ioannidis, Evgenios",g,2497,1,1,2.9
+Matthias Bluebaum,2024-12-01,White,"Kourkoulos-Arditis, Stamatis",g,2575,0.5,1,-1.1
+Matthias Bluebaum,2025-01-01,White,"Bartel, Mateusz",g,2613,0,1,-5.6
+Matthias Bluebaum,2025-02-01,White,"Kraemer, Martin",g,2579,0.5,1,-0.9
+Matthias Bluebaum,2025-02-01,Black,"Duda, Jan-Krzysztof",g,2740,0.5,1,1.3
+Matthias Bluebaum,2025-03-01,Black,"Andersen, Mads",g,2584,0.5,1,-0.8
+Matthias Bluebaum,2025-03-01,White,"So, Wesley",g,2747,0.5,1,1.4
+Matthias Bluebaum,2025-03-01,Black,"Svane, Rasmus",g,2621,0.5,1,-0.3
+Matthias Bluebaum,2025-04-01,White,"Petersen, Marcel",,2243*,1,1,0.8
+Matthias Bluebaum,2025-04-01,Black,"Henning, Marvin",,2243*,1,1,0.8
+Matthias Bluebaum,2025-05-01,Black,"Kasimdzhanov, Rustam",g,2678,0.5,1,0.2
+Matthias Bluebaum,2025-05-01,White,"Fridman, Daniel",g,2582,0.5,1,-1.1
+Matthias Bluebaum,2025-05-01,Black,"Brkic, Ante",g,2586,0.5,1,-1
+Matthias Bluebaum,2025-06-01,Black,"Donchenko, Alexander",g,2615,1,1,4.4
+Matthias Bluebaum,2025-06-01,White,"Dobrikov, Marco",f,2404,1,1,1.9
+Matthias Bluebaum,2025-06-01,Black,"Svane, Frederik",g,2671,0.5,1,0.2
+Matthias Bluebaum,2025-06-01,White,"Kraemer, Martin",g,2581,0.5,1,-1.1
+Matthias Bluebaum,2025-06-01,Black,"Costa, Leonardo",m,2531,0.5,1,-1.7
+Matthias Bluebaum,2025-06-01,White,"Wagner, Dennis",g,2616,1,1,4.4
+Matthias Bluebaum,2025-06-01,Black,"Keymer, Vincent",g,2720,0,1,-4.2
+Matthias Bluebaum,2025-06-01,Black,"Huschenbeth, Niclas",g,2601,0.5,1,-0.8
+Matthias Bluebaum,2025-06-01,White,"Svane, Rasmus",g,2629,0.5,1,-0.4
+Matthias Bluebaum,2025-07-01,Black,"Pultinevicius, Paulius",g,2561,1,1,3.6
+Matthias Bluebaum,2025-07-01,White,"Volokitin, Andrei",g,2626,0,1,-5.5
+Matthias Bluebaum,2025-07-01,Black,"Noe, Christopher",m,2502,0.5,1,-2.1
+Matthias Bluebaum,2025-07-01,White,"Samunenkov, Ihor",g,2562,1,1,3.6
+Matthias Bluebaum,2025-07-01,Black,"Maurizzi, Marc Andria",g,2607,0.5,1,-0.8
+Matthias Bluebaum,2025-07-01,White,"Svane, Frederik",g,2667,1,1,5.1
+Matthias Bluebaum,2025-07-01,Black,"Harikrishna, Pentala",g,2707,0.5,1,0.6
+Matthias Bluebaum,2025-07-01,White,"Navara, David",g,2657,0,1,-5.1
+Matthias Bluebaum,2025-07-01,Black,"Tazbir, Marcin",g,2504,0.5,1,-2.1
+Matthias Bluebaum,2025-09-01,Black,"Kersten, Uwe",m,2260*,1,1,0.8
+Matthias Bluebaum,2025-09-01,White,"Rebentisch, Tom",,2270,1,1,0.9
+Matthias Bluebaum,2025-09-01,Black,"Besou, Hussain",f,2390,1,1,1.7
+Matthias Bluebaum,2025-09-01,White,"Xiao, Tong(qd)",g,2539,1,1,3.4
+Matthias Bluebaum,2025-09-01,Black,"Jumabayev, Rinat",g,2556,0.5,1,-1.4
+Matthias Bluebaum,2025-09-01,White,"Parvanyan, Ashot",m,2403,1,1,1.8
+Matthias Bluebaum,2025-09-01,Black,"Engel, Luis",g,2548,0.5,1,-1.5
+Matthias Bluebaum,2025-09-01,White,"Kollars, Dmitrij",g,2644,0.5,1,-0.2
+Matthias Bluebaum,2025-09-01,White,"Ganguly, Surya Shekhar",g,2566,0.5,1,-1.3
+Matthias Bluebaum,2025-10-01,White,"Predke, Alexandr",g,2609,0.5,1,-0.9
+Matthias Bluebaum,2025-10-01,Black,"Lagarde, Maxime",g,2609,0.5,1,-0.9
+Matthias Bluebaum,2025-10-01,White,"Hammer, Jon Ludvig",g,2618,1,1,4.3
+Matthias Bluebaum,2025-10-01,Black,"Henriquez Villagra, Cristobal",g,2594,1,1,3.9
+Matthias Bluebaum,2025-10-01,White,"Praggnanandhaa, R",g,2785,1,1,6.6
+Matthias Bluebaum,2025-10-01,White,"Mishra, Abhimanyu",g,2611,0.5,1,-0.8
+Matthias Bluebaum,2025-10-01,Black,"Erigaisi, Arjun",g,2771,1,1,6.4
+Matthias Bluebaum,2025-10-01,White,"Nihal, Sarin",g,2693,0.5,1,0.3
+Matthias Bluebaum,2025-10-01,Black,"Abdusattorov, Nodirbek",g,2748,0.5,1,1.1
+Matthias Bluebaum,2025-10-01,Black,"Keymer, Vincent",g,2751,0.5,1,1.1
+Matthias Bluebaum,2025-10-01,White,"Firouzja, Alireza",g,2754,0.5,1,1.1
+Matthias Bluebaum,2025-11-01,White,"Baenziger, Fabian",m,2439,1,1,1.9
+Matthias Bluebaum,2025-11-01,Black,"Jobava, Baadur",g,2573,0,1,-6.6
+Matthias Bluebaum,2025-11-01,White,"Volokitin, Andrei",g,2617,0,1,-6
+Matthias Bluebaum,2025-11-01,Black,"Sahidi, Samir",m,2490,0.5,1,-2.5
+Matthias Bluebaum,2025-11-01,White,"Livaic, Leon",g,2551,1,1,3.2
+Matthias Bluebaum,2025-11-01,Black,"Indjic, Aleksandar",g,2618,0.5,1,-1
+Matthias Bluebaum,2025-11-01,White,"Van Wely, Loek",g,2630,1,1,4.2
+Matthias Bluebaum,2025-12-01,White,"Adly, Ahmed",g,2589,1,1,3.8
+Matthias Bluebaum,2025-12-01,Black,"Adly, Ahmed",g,2589,0.5,1,-1.2
+Matthias Bluebaum,2025-12-01,Black,"Zemlyanskii, Ivan",f,2585,1,1,3.7
+Matthias Bluebaum,2025-12-01,White,"Zemlyanskii, Ivan",f,2585,0.5,1,-1.3
+Matthias Bluebaum,2025-12-01,White,"Donchenko, Alexander",g,2641,0.5,1,-0.5
+Matthias Bluebaum,2025-12-01,Black,"Donchenko, Alexander",g,2641,0,1,-5.5
+Matthias Bluebaum,2026-01-01,Black,"Volokitin, Andrei",g,2619,0.5,1,-0.8
+Matthias Bluebaum,2026-01-01,White,"Duda, Jan-Krzysztof",g,2729,0.5,1,0.7
+,,,   ,,,,,

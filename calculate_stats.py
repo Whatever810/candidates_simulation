@@ -142,4 +142,6 @@ def generate_image_table(df):
     plt.close()
 
 if __name__ == "__main__":
-    calculate_stats_2600("candidates_classical_2024_2026.csv")
+    calculate_stats_2600("candidates_classical_2024_2025.csv")
+
+
