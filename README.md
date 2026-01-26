@@ -2,7 +2,7 @@
 
 A probabilistic analysis of the 2026 FIDE Candidates Tournament, utilizing a Monte Carlo simulation ($N=100,000$).
 
-The model can be used with Performance Ratings (TPR) against elite opposition ($>2600$ Elo) from the provided database of games in 2024 and 2025, or updated FIDE ratings using the web scraper. To account for the natural variance in player form, the model samples each player's tournament strength from a normal distribution $N(\mu, \sigma=40)$ at the start of each simulation iteration.
+The model can be used with Performance Ratings (TPR) against elite opposition ($>2600$ Elo) from the provided database of games in 2024 and 2025, or updated FIDE ratings using the web scraper. To account for the natural variance in player form, the model samples each player's tournament strength from a normal distribution $N(\mu, \sigma=50)$ at the start of each simulation iteration.
 
 #### Results according to the ratings on 25/1/2026
 ![Forecast Chart](candidates_forecast.png)
@@ -18,7 +18,7 @@ $$R_{p,i} \sim \mathcal{N}(\mu_{R}, \sigma^2)$$
 
 Where:
 * $\mu_{R}$ is the player's historical TPR against 2600+ opposition (2024-2025), or their updated FIDE rating.
-* $\sigma$ is the performance standard deviation (set to $40$ Elo), representing the standard error of performance for a single event.
+* $\sigma$ is the performance standard deviation (set to $50$ Elo), representing the standard error of performance for a single event.
 
 TPR rating is calculated by adding the average opponent rating to a FIDE rating difference value associated with the fractional score. The draw rate of each player is also calculated from the 2024/2025 2600+ data.
 
