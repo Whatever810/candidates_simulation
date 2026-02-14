@@ -3,7 +3,7 @@
         "Name": "Fabiano Caruana",
         "FideID": "2020009",
         "Ratings": {
-            "Classical": 2795,
+            "Classical": 2794,
             "Rapid": 2727,
             "Blitz": 2769
         }
@@ -12,7 +12,7 @@
         "Name": "Hikaru Nakamura",
         "FideID": "2016192",
         "Ratings": {
-            "Classical": 2810,
+            "Classical": 2807,
             "Rapid": 2742,
             "Blitz": 2838
         }
@@ -21,16 +21,16 @@
         "Name": "R Praggnanandhaa",
         "FideID": "25059530",
         "Ratings": {
-            "Classical": 2758,
-            "Rapid": 2662,
-            "Blitz": 2691
+            "Classical": 2741,
+            "Rapid": 2663,
+            "Blitz": 2698
         }
     },
     {
         "Name": "Anish Giri",
         "FideID": "24116068",
         "Ratings": {
-            "Classical": 2760,
+            "Classical": 2753,
             "Rapid": 2689,
             "Blitz": 2666
         }
@@ -40,15 +40,15 @@
         "FideID": "8603405",
         "Ratings": {
             "Classical": 2754,
-            "Rapid": 2746,
-            "Blitz": 2705
+            "Rapid": 2726,
+            "Blitz": 2698
         }
     },
     {
         "Name": "Javokhir Sindarov",
         "FideID": "14205483",
         "Ratings": {
-            "Classical": 2726,
+            "Classical": 2745,
             "Rapid": 2727,
             "Blitz": 2662
         }
@@ -66,7 +66,7 @@
         "Name": "Matthias Bluebaum",
         "FideID": "24651516",
         "Ratings": {
-            "Classical": 2679,
+            "Classical": 2696,
             "Rapid": 2587,
             "Blitz": 2634
         }
